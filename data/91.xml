@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="91"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="91" c="42km"  >
+						<identite nom="AREND"
+			  prenom="Michael"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="GORE Wear"			  			  
+			  				  nat="Allemagne"
+				  cio="GER" a2="DE" a3="DEU" 			  			  				  				  ville="FÜSSEN" pays="DE"
+			  			/>
+			<antecedents></antecedents>																								<state  test="43" code="f" clt="43"  cltcat="35" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:43:23" ja="7" tps="00:43:23" tn="0.72305555555556" tnp="0.72305555555556" clt="67" ></e><e idpt="36" ha="08:06:16" ja="7" tps="01:06:16" tn="1.1044444444444" tnp="0.38138888888889" clt="65" ></e><e idpt="38" ha="08:25:16" ja="7" tps="01:25:16" tn="1.4211111111111" tnp="0.31666666666667" clt="65" ></e><e idpt="40" ha="09:07:18" ja="7" tps="02:07:18" tn="2.1216666666667" tnp="0.70055555555556" clt="65" ></e><e idpt="42" ha="09:52:31" ja="7" tps="02:52:31" tn="2.8752777777778" tnp="0.75361111111111" clt="61" ></e><e idpt="44" ha="10:04:58" ja="7" tps="03:04:58" tn="3.0827777777778" tnp="0.2075" clt="61" ></e><e idpt="46" ha="11:08:52" ja="7" tps="04:08:52" tn="4.1477777777778" tnp="1.065" clt="46" ></e><e idpt="51" ha="11:53:03" ja="7" tps="04:53:03" tn="4.8841666666667" tnp="0.73638888888889" clt="44" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="9" tps="12:25:36"
+                race="eiger ultra-trail® - e101"
+                year="2017" dist="98"/>
+                                <e
+                pos="31" tps="08:29:36"
+                race="transvulcania ultramarathon la palma island - ultramarathon"
+                year="2017" dist="74"/>
+                                <e
+                pos="1" tps="04:36:00"
+                race="joker trail - joker trail"
+                year="2017" dist="51"/>
+                                <e
+                pos="19" tps="14:53:05"
+                race="ultra pirineu - salomon ultra pirineu"
+                year="2016" dist="109"/>
+                                <e
+                pos="11" tps="06:58:00"
+                race="ultra skymarathon® madeira - usm"
+                year="2016" dist="55"/>
+                                <e
+                pos="34" tps="08:34:57"
+                race="transvulcania ultramarathon la palma island - ultramarathon"
+                year="2016" dist="74"/>
+                                <e
+                pos="42" tps="08:29:23"
+                race="sellaronda trailruning - sellaronda trailruning"
+                year="2015" dist="61"/>
+                                <e
+                pos="26" tps="35:16:58"
+                race="gore-tex® transalpine-run - gore-tex® transalpine-run"
+                year="2015" dist="268"/>
+                                <e
+                pos="28" tps="05:58:34"
+                race="matterhorn ultraks - matterhorn ultraks 45k"
+                year="2015" dist="47"/>
+                                <e
+                pos="6" tps="08:53:59"
+                race="reda rewoolution orobie ultra-trail - gran trail orobie"
+                year="2015" dist="70"/>
+                                <e
+                pos="1" tps="09:44:08"
+                race="salomon zugspitz ultratrail - ultratrail"
+                year="2015" dist="89"/>
+                                <e
+                pos="1" tps="05:27:00"
+                race="joker trail - joker trail"
+                year="2015" dist="52"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-11.52.35.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-11.52.35.jpg"/>
+											</videos></fiche></d>

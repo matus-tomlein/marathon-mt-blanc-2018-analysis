@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4444"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4444" c="KmV"  >
+						<identite nom="ROCHET"
+			  prenom="Manu"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Treck &amp; Trail Bertrix"			  			  
+			  				  nat="Belgique"
+				  cio="BEL" a2="BE" a3="BEL" 			  			  				  				  ville="FREUX" pays="BE"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1" code="np" />			<pass>
+			<e idpt="0" hd="15:00:00" jd="5" tps="00:00:00"  clt="-" tn="0" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="4124" tps="11:36:13"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="1229" tps="05:01:55"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="401" tps="01:14:46"
+                race="marathon du mont-blanc - km vertical"
+                year="2017" dist="4"/>
+                                <e
+                pos="494" tps="08:37:26"
+                race="la bouillonnante - la bouillonnante 50"
+                year="2017" dist="50"/>
+                                <e
+                pos="422" tps="03:20:36"
+                race="les vosgirunners trails nature - la mac vi"
+                year="2016" dist="25"/>
+                                <e
+                pos="505" tps="22:33:12"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2015" dist="82"/>
+                                <e
+                pos="121" tps="07:56:06"
+                race="la bouillonnante - 56 km"
+                year="2015" dist="63"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3117"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3117" c="90km"  >
+						<identite nom="MOULIN"
+			  prenom="Stephane"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Up Coaching"			  			  
+			  				  nat="Australie"
+				  cio="AUS" a2="AU" a3="AUS" 			  			  				  				  ville="ROUSE HILL" pays="AU"
+			  			/>
+			<antecedents></antecedents>																								<state  test="206" code="f" clt="206"  cltcat="69" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:27:51" ja="5" tps="02:27:41" tn="2.4613888888889" tnp="2.4613888888889" clt="505" ></e><e idpt="4" ha="07:32:47" ja="5" tps="03:32:37" tn="3.5436111111111" tnp="1.0822222222222" clt="430" ></e><e idpt="6" ha="08:12:05" ja="5" tps="04:11:55" tn="4.1986111111111" tnp="0.655" clt="384" ></e><e idpt="8" ha="09:03:18" ja="5" tps="05:03:08" tn="5.0522222222222" tnp="0.85361111111111" clt="352" ></e><e idpt="10" ha="10:23:55" ja="5" tps="06:23:45" tn="6.3958333333333" tnp="1.2636111111111" clt="290" ></e><e idpt="12" ha="10:53:50" ja="5" tps="06:53:40" tn="6.8944444444444" tnp="0.49861111111111" clt="277" ></e><e idpt="14" ha="12:23:08" ja="5" tps="08:22:58" tn="8.3827777777778" tnp="1.4883333333333" clt="254" ></e><e idpt="16" ha="13:26:49" ja="5" tps="09:26:39" tn="9.4441666666667" tnp="1.0613888888889" clt="240" ></e><e idpt="18" ha="15:01:57" ja="5" tps="11:01:47" tn="11.029722222222" tnp="1.5855555555556" clt="226" ></e><e idpt="20" ha="15:41:57" ja="5" tps="11:41:47" tn="11.696388888889" tnp="0.66666666666667" clt="235" ></e><e idpt="22" ha="16:24:08" ja="5" tps="12:23:58" tn="12.399444444444" tnp="0.70305555555556" clt="224" ></e><e idpt="24" ha="18:08:04" ja="5" tps="14:07:54" tn="14.131666666667" tnp="1.7322222222222" clt="216" ></e><e idpt="26" ha="19:46:41" ja="5" tps="15:46:31" tn="15.775277777778" tnp="1.6397222222222" clt="218" ></e><e idpt="28" ha="21:10:55" ja="5" tps="17:10:45" tn="17.179166666667" tnp="1.4038888888889" clt="210" ></e><e idpt="31" ha="22:20:10" ja="5" tps="18:20:00" tn="18.333333333333" tnp="1.1541666666667" clt="206" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="228" tps="14:13:12"
+                race="ultra-trail® australia - 100 km"
+                year="2018" dist="100"/>
+                                <e
+                pos="95" tps="04:28:03"
+                race="six foot track marathon - six foot track marathon"
+                year="2018" dist="45"/>
+                                <e
+                pos="11" tps="02:57:35"
+                race="raffertys coastal run - 36km"
+                year="2017" dist="36"/>
+                                <e
+                pos="199" tps="13:59:40"
+                race="ultra-trail® australia - 100 km"
+                year="2017" dist="100"/>
+                                <e
+                pos="8" tps="04:28:56"
+                race="jabulani challenge - 45km"
+                year="2017" dist="45"/>
+                                <e
+                pos="61" tps="04:20:10"
+                race="six foot track marathon - six foot track marathon"
+                year="2017" dist="45"/>
+                                <e
+                pos="270" tps="19:13:56"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2016" dist="85"/>
+                                <e
+                pos="110" tps="13:29:17"
+                race="ultra-trail® australia - 100 km"
+                year="2016" dist="100"/>
+                                <e
+                pos="40" tps="04:18:22"
+                race="six foot track marathon - six foot track marathon"
+                year="2016" dist="45"/>
+                                <e
+                pos="419" tps="37:19:57"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="255" tps="05:56:00"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2015" dist="42"/>
+                                <e
+                pos="172" tps="13:41:39"
+                race="the north face 100 australia - 100 km"
+                year="2015" dist="96"/>
+                                <e
+                pos="15" tps="05:45:10"
+                race="mount solitary ultra - mount solitary ultra"
+                year="2015" dist="47"/>
+                                <e
+                pos="31" tps="10:48:11"
+                race="buffalo stampede - ultra skymarathon"
+                year="2015" dist="76"/>
+                                <e
+                pos="62" tps="04:11:50"
+                race="six foot track marathon - six foot track marathon"
+                year="2015" dist="45"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-22.19.45.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-22.19.45.jpg"/>
+											</videos></fiche></d>

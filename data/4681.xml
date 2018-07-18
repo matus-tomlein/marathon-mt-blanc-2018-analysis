@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4681"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4681" c="KmV"  >
+						<identite nom="CLOPON"
+			  prenom="Stephane"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ACHERES" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="165" code="f" clt="165"  cltcat="39" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:35:00" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="18:00:45" ja="5" tps="00:25:45" tn="0.42916666666667" tnp="0.42916666666667" clt="180" ></e><e idpt="52" ha="18:29:42" ja="5" tps="00:54:42" tn="0.91166666666667" tnp="0.4825" clt="165" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="204" tps="05:45:00"
+                race="ultra-trail® côte d'azur mercantour - 45km- stop au boreon"
+                year="2018" dist="22"/>
+                                <e
+                pos="320" tps="24:58:00"
+                race="salomon gore-tex maxi-race - ultra-race"
+                year="2018" dist="117"/>
+                                <e
+                pos="560" tps="03:02:27"
+                race="ecotrail paris ile-de-france® - trail 30 km"
+                year="2018" dist="31"/>
+                                <e
+                pos="565" tps="19:10:27"
+                race="festival des templiers - endurance trail"
+                year="2017" dist="99"/>
+                                <e
+                pos="931" tps="41:33:53"
+                race="UTMB® - UTMB®"
+                year="2017" dist="169"/>
+                                <e
+                pos="274" tps="09:33:55"
+                race="la 6000d la course des géants - la 6000d"
+                year="2017" dist="66"/>
+                                <e
+                pos="70" tps="07:15:03"
+                race="trail faverges seythenex - trail de la sambuy"
+                year="2017" dist="49"/>
+                                <e
+                pos="387" tps="03:48:43"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="194" tps="00:56:11"
+                race="marathon du mont-blanc - km vertical"
+                year="2017" dist="4"/>
+                                <e
+                pos="420" tps="28:32:22"
+                race="salomon gore-tex maxi-race - ultra-race"
+                year="2017" dist="113"/>
+                                <e
+                pos="1677" tps="03:25:02"
+                race="ecotrail de paris ile-de-france® - trail 30 km"
+                year="2017" dist="30"/>
+                                <e
+                pos="440" tps="43:37:48"
+                race="le grand raid de la réunion - le grand raid de la réunion"
+                year="2016" dist="168"/>
+                                <e
+                pos="111" tps="14:17:49"
+                race="ultra tour des 4 massifs - ut4m100 master"
+                year="2016" dist="81"/>
+                                <e
+                pos="802" tps="11:05:41"
+                race="la 6000d la course des géants - la 6000d"
+                year="2016" dist="66"/>
+                                <e
+                pos="357" tps="20:22:27"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2016" dist="85"/>
+                                <e
+                pos="408" tps="15:57:44"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2016" dist="84"/>
+                                <e
+                pos="841" tps="49:56:36"
+                race="le grand raid de la réunion - le grand raid de la réunion"
+                year="2015" dist="161"/>
+                                <e
+                pos="503" tps="21:29:02"
+                race="ultra-trail du mont-blanc® - CCC®"
+                year="2015" dist="101"/>
+                                <e
+                pos="853" tps="07:10:56"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2015" dist="42"/>
+                                <e
+                pos="681" tps="07:15:28"
+                race="maxi-race du lac d'annecy - marathon race"
+                year="2015" dist="41"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.29.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.29.20.jpg"/>
+											</videos></fiche></d>

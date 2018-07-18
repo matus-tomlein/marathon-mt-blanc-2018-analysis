@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="7021"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="7021" c="23km"  >
+						<identite nom="COLLET"
+			  prenom="Cyril"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="Lille Triathlon"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="QUESNOY SUR DEULE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="832" code="f" clt="832"  cltcat="353" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:35:19" ja="6" tps="00:34:50" tn="0.58055555555556" tnp="0.58055555555556" clt="508" ></e><e idpt="36" ha="09:29:24" ja="6" tps="01:28:55" tn="1.4819444444444" tnp="0.90138888888889" clt="586" ></e><e idpt="46" ha="11:15:01" ja="6" tps="03:14:32" tn="3.2422222222222" tnp="1.7602777777778" clt="744" ></e><e idpt="52" ha="12:32:40" ja="6" tps="04:32:11" tn="4.5363888888889" tnp="1.2941666666667" clt="836" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="785" tps="07:44:03"
+                race="maxi-race du lac d'annecy - marathon race"
+                year="2014" dist="41"/>
+                                <e
+                pos="349" tps="08:26:01"
+                race="la bouillonnante - 56 km"
+                year="2014" dist="56"/>
+                                <e
+                pos="437" tps="12:31:10"
+                race="trail des aiguilles rouges - tar"
+                year="2013" dist="52"/>
+                                <e
+                pos="261" tps="03:05:12"
+                race="marathon du mont-blanc - cross du mont-blanc"
+                year="2013" dist="23"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.32.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.32.20.jpg"/>
+											</videos></fiche></d>

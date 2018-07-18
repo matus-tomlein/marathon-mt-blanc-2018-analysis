@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5045"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5045" c="23km"  >
+						<identite nom="MONNIER-BENOIT"
+			  prenom="Philippe"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="TEAM O2SCORE"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="MOUTHE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="30" code="f" clt="30"  cltcat="24" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:23:50" ja="6" tps="00:23:21" tn="0.38916666666667" tnp="0.38916666666667" clt="19" ></e><e idpt="36" ha="09:01:09" ja="6" tps="01:00:40" tn="1.0111111111111" tnp="0.62194444444444" clt="24" ></e><e idpt="46" ha="10:03:13" ja="6" tps="02:02:44" tn="2.0455555555556" tnp="1.0344444444444" clt="30" ></e><e idpt="52" ha="10:46:11" ja="6" tps="02:45:42" tn="2.7616666666667" tnp="0.71611111111111" clt="32" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="13" tps="03:58:57"
+                race="trail vallée de joux - 30k"
+                year="2017" dist="35"/>
+                                <e
+                pos="102" tps="10:47:37"
+                race="montreux trail festival - la villars 60"
+                year="2017" dist="60"/>
+                                <e
+                pos="27" tps="02:42:49"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="104" tps="07:47:10"
+                race="la 6000d la course des géants - la 6000d"
+                year="2014" dist="64"/>
+                                <e
+                pos="11" tps="02:19:25"
+                race="trail des forts de besançon - 28 km"
+                year="2014" dist="27"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-10.45.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-10.45.50.jpg"/>
+											</videos></fiche></d>

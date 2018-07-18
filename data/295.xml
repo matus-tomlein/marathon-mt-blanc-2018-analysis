@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="295"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="295" c="42km"  >
+						<identite nom="THION"
+			  prenom="Yann"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Team Thion"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="BRON" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="294" code="f" clt="294"  cltcat="50" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:52:30" ja="7" tps="00:52:30" tn="0.875" tnp="0.875" clt="282" ></e><e idpt="36" ha="08:20:35" ja="7" tps="01:20:35" tn="1.3430555555556" tnp="0.46805555555556" clt="296" ></e><e idpt="38" ha="08:43:40" ja="7" tps="01:43:40" tn="1.7277777777778" tnp="0.38472222222222" clt="291" ></e><e idpt="40" ha="09:36:46" ja="7" tps="02:36:46" tn="2.6127777777778" tnp="0.885" clt="288" ></e><e idpt="42" ha="10:36:02" ja="7" tps="03:36:02" tn="3.6005555555556" tnp="0.98777777777778" clt="290" ></e><e idpt="44" ha="10:52:59" ja="7" tps="03:52:59" tn="3.8830555555556" tnp="0.2825" clt="286" ></e><e idpt="46" ha="12:27:55" ja="7" tps="05:27:55" tn="5.4652777777778" tnp="1.5822222222222" clt="290" ></e><e idpt="51" ha="13:31:05" ja="7" tps="06:31:05" tn="6.5180555555556" tnp="1.0527777777778" clt="294" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="19" tps="05:13:06"
+                race="trail so bugey - 44km"
+                year="2018" dist="44"/>
+                                <e
+                pos="206" tps="09:56:02"
+                race="festival des templiers - grand trail des templiers"
+                year="2017" dist="76"/>
+                                <e
+                pos="154" tps="10:25:59"
+                race="trail des passerelles du monteynard - la grande course 65 km"
+                year="2017" dist="65"/>
+                                <e
+                pos="57" tps="03:48:04"
+                race="ardéchois trail - 36 km"
+                year="2017" dist="36"/>
+                                <e
+                pos="204" tps="05:51:24"
+                race="ergysport trail du ventoux - 46 km"
+                year="2017" dist="46"/>
+                                <e
+                pos="109" tps="04:14:51"
+                race="la saintélyon - la saintéxpress"
+                year="2016" dist="44"/>
+                                <e
+                pos="36" tps="04:07:06"
+                race="trail drome - 40 km"
+                year="2016" dist="40"/>
+                                <e
+                pos="56" tps="02:51:44"
+                race="ergysport trail du ventoux - 26 km"
+                year="2016" dist="26"/>
+                                <e
+                pos="134" tps="01:51:31"
+                race="le trail givre de montanay - trail givre  montanay"
+                year="2016" dist="23"/>
+                                <e
+                pos="276" tps="10:46:39"
+                race="festival des templiers - grand trail des templiers"
+                year="2015" dist="75"/>
+                                <e
+                pos="78" tps="05:26:20"
+                race="maxi-race du lac d'annecy - marathon race"
+                year="2015" dist="41"/>
+                                <e
+                pos="62" tps="04:45:38"
+                race="trail des cabornis - 40k"
+                year="2015" dist="40"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.30.40.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.30.40.jpg"/>
+											</videos></fiche></d>

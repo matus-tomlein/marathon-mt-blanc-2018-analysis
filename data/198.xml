@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="198"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="198" c="42km"  >
+						<identite nom="BARTOLINI"
+			  prenom="Alain"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Running Planet Genève"			  			  
+			  				  nat="Suisse"
+				  cio="SUI" a2="CH" a3="CHE" 			  			  				  				  ville="GENÈVE" pays="CH"
+			  			/>
+			<antecedents></antecedents>																								<state  test="196" code="f" clt="196"  cltcat="29" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:51:07" ja="7" tps="00:51:07" tn="0.85194444444444" tnp="0.85194444444444" clt="219" ></e><e idpt="36" ha="08:17:16" ja="7" tps="01:17:16" tn="1.2877777777778" tnp="0.43583333333333" clt="208" ></e><e idpt="38" ha="08:39:28" ja="7" tps="01:39:28" tn="1.6577777777778" tnp="0.37" clt="201" ></e><e idpt="40" ha="09:29:17" ja="7" tps="02:29:17" tn="2.4880555555556" tnp="0.83027777777778" clt="184" ></e><e idpt="42" ha="10:29:37" ja="7" tps="03:29:37" tn="3.4936111111111" tnp="1.0055555555556" clt="232" ></e><e idpt="44" ha="10:44:19" ja="7" tps="03:44:19" tn="3.7386111111111" tnp="0.245" clt="220" ></e><e idpt="46" ha="12:08:17" ja="7" tps="05:08:17" tn="5.1380555555556" tnp="1.3994444444444" clt="195" ></e><e idpt="51" ha="13:05:08" ja="7" tps="06:05:08" tn="6.0855555555556" tnp="0.9475" clt="196" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="35" tps="11:14:09"
+                race="salomon gore-tex maxi-race - xl-race"
+                year="2018" dist="85"/>
+                                <e
+                pos="1" tps="09:11:36"
+                race="costa brava stage run - experience"
+                year="2018" dist="84"/>
+                                <e
+                pos="46" tps="03:37:56"
+                race="trail des glaisins - trail des glaisins"
+                year="2018" dist="33"/>
+                                <e
+                pos="36" tps="03:40:23"
+                race="transgrancanaria hg - maratón"
+                year="2018" dist="42"/>
+                                <e
+                pos="12" tps="03:54:58"
+                race="trail vallée de joux - 30k"
+                year="2017" dist="35"/>
+                                <e
+                pos="15" tps="03:41:12"
+                race="swisspeaks trail - 30k"
+                year="2017" dist="29"/>
+                                <e
+                pos="26" tps="09:42:53"
+                race="trail verbier st bernard - traversée"
+                year="2017" dist="62"/>
+                                <e
+                pos="21" tps="04:09:55"
+                race="trail de la pierre a voir - trail de la pierre à voir "
+                year="2017" dist="33"/>
+                                <e
+                pos="4" tps="01:49:35"
+                race="trail des paccots - 17 km"
+                year="2017" dist="18"/>
+                                <e
+                pos="37" tps="11:11:45"
+                race="salomon gore-tex maxi-race - xl-race"
+                year="2017" dist="83"/>
+                                <e
+                pos="17" tps="04:17:09"
+                race="beaujolais villages trail - maxi bvt"
+                year="2017" dist="40"/>
+                                <e
+                pos="65" tps="01:52:23"
+                race="trail des glaisins - le talabar"
+                year="2017" dist="17"/>
+                                <e
+                pos="4" tps="00:57:30"
+                race="trail d'avenas - 11km"
+                year="2017" dist="11"/>
+                                <e
+                pos="172" tps="05:40:18"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="209" tps="03:42:01"
+                race="sierre-zinal - sierre-zinal"
+                year="2015" dist="30"/>
+                                <e
+                pos="5" tps="04:23:09"
+                race="aquaterra - les manants de port-dieu 42 km"
+                year="2015" dist="43"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.04.40.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.04.40.jpg"/>
+											</videos></fiche></d>

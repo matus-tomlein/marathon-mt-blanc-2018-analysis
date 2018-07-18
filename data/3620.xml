@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3620"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3620" c="90km"  >
+						<identite nom="MORRIS"
+			  prenom="David"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="Royaume-Uni"
+				  cio="GBR" a2="GB" a3="GBR" 			  			  				  				  ville="MIG GLAMORGAN" pays="GB"
+			  			/>
+			<antecedents></antecedents>																								<state  test="431" code="f" clt="431"  cltcat="153" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:43:08" ja="5" tps="02:42:58" tn="2.7161111111111" tnp="2.7161111111111" clt="790" ></e><e idpt="4" ha="07:54:56" ja="5" tps="03:54:46" tn="3.9127777777778" tnp="1.1966666666667" clt="724" ></e><e idpt="6" ha="08:39:17" ja="5" tps="04:39:07" tn="4.6519444444444" tnp="0.73916666666667" clt="679" ></e><e idpt="8" ha="09:33:32" ja="5" tps="05:33:22" tn="5.5561111111111" tnp="0.90416666666667" clt="616" ></e><e idpt="10" ha="11:01:28" ja="5" tps="07:01:18" tn="7.0216666666667" tnp="1.3277777777778" clt="517" ></e><e idpt="12" ha="11:34:37" ja="5" tps="07:34:27" tn="7.5741666666667" tnp="0.5525" clt="482" ></e><e idpt="14" ha="13:12:40" ja="5" tps="09:12:30" tn="9.2083333333333" tnp="1.6341666666667" clt="445" ></e><e idpt="16" ha="14:16:37" ja="5" tps="10:16:27" tn="10.274166666667" tnp="1.0658333333333" clt="379" ></e><e idpt="18" ha="16:10:10" ja="5" tps="12:10:00" tn="12.166666666667" tnp="1.8925" clt="409" ></e><e idpt="20" ha="16:48:48" ja="5" tps="12:48:38" tn="12.810555555556" tnp="0.64388888888889" clt="409" ></e><e idpt="22" ha="17:36:06" ja="5" tps="13:35:56" tn="13.598888888889" tnp="0.78833333333333" clt="396" ></e><e idpt="24" ha="19:27:45" ja="5" tps="15:27:35" tn="15.459722222222" tnp="1.7433333333333" clt="373" ></e><e idpt="26" ha="21:38:45" ja="5" tps="17:38:35" tn="17.643055555556" tnp="2.1811111111111" clt="432" ></e><e idpt="28" ha="23:25:03" ja="5" tps="19:24:53" tn="19.414722222222" tnp="1.7716666666667" clt="439" ></e><e idpt="31" ha="00:57:45" ja="6" tps="20:57:35" tn="20.959722222222" tnp="1.545" clt="431" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="376" tps="26:38:02"
+                race="madeira island ultra trail - miut"
+                year="2017" dist="112"/>
+                                <e
+                pos="15" tps="10:02:00"
+                race="coastal trail series - exmoor - ultra plus"
+                year="2017" dist="73"/>
+                                <e
+                pos="232" tps="13:55:37"
+                race="transgrancanaria hg - advanced"
+                year="2017" dist="81"/>
+                                <e
+                pos="43" tps="07:04:19"
+                race="coastal trail series - gower - ultra"
+                year="2016" dist="57"/>
+                                <e
+                pos="14" tps="16:08:26"
+                race="10 peaks brecon beacons - long course"
+                year="2016" dist="89"/>
+                                <e
+                pos="1026" tps="14:22:10"
+                race="transvulcania ultramarathon la palma island - ultramarathon"
+                year="2016" dist="74"/>
+                                <e
+                pos="443" tps="27:58:40"
+                race="transgrancanaria hg - trans gc"
+                year="2016" dist="126"/>
+                                <e
+                pos="679" tps="28:47:09"
+                race="ultra-trail du mont-blanc® - TDS®"
+                year="2015" dist="119"/>
+                                <e
+                pos="13" tps="08:45:38"
+                race="coastal trail series - exmoor - ultra plus"
+                year="2015" dist="65"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-00.57.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-00.57.20.jpg"/>
+											</videos></fiche></d>

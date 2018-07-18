@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3394"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3394" c="90km"  >
+						<identite nom="BELZUNCE"
+			  prenom="Benoit"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="Issy Triathlon"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ISSY LES MOULINEAUX" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="385" code="f" clt="385"  cltcat="177" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:06:58" ja="5" tps="02:06:48" tn="2.1133333333333" tnp="2.1133333333333" clt="226" ></e><e idpt="4" ha="07:10:49" ja="5" tps="03:10:39" tn="3.1775" tnp="1.0641666666667" clt="219" ></e><e idpt="6" ha="07:49:23" ja="5" tps="03:49:13" tn="3.8202777777778" tnp="0.64277777777778" clt="218" ></e><e idpt="8" ha="08:43:01" ja="5" tps="04:42:51" tn="4.7141666666667" tnp="0.89388888888889" clt="231" ></e><e idpt="10" ha="10:15:55" ja="5" tps="06:15:45" tn="6.2625" tnp="1.3355555555556" clt="251" ></e><e idpt="12" ha="10:51:48" ja="5" tps="06:51:38" tn="6.8605555555556" tnp="0.59805555555556" clt="263" ></e><e idpt="14" ha="12:29:05" ja="5" tps="08:28:55" tn="8.4819444444444" tnp="1.5905555555556" clt="281" ></e><e idpt="16" ha="13:43:37" ja="5" tps="09:43:27" tn="9.7241666666667" tnp="1.2422222222222" clt="290" ></e><e idpt="18" ha="15:23:58" ja="5" tps="11:23:48" tn="11.396666666667" tnp="1.6725" clt="286" ></e><e idpt="20" ha="16:06:26" ja="5" tps="12:06:16" tn="12.104444444444" tnp="0.70777777777778" clt="292" ></e><e idpt="22" ha="16:59:43" ja="5" tps="12:59:33" tn="12.9925" tnp="0.88805555555556" clt="308" ></e><e idpt="24" ha="19:09:29" ja="5" tps="15:09:19" tn="15.155277777778" tnp="2.1627777777778" clt="328" ></e><e idpt="26" ha="20:53:35" ja="5" tps="16:53:25" tn="16.890277777778" tnp="1.7319444444444" clt="332" ></e><e idpt="28" ha="22:44:08" ja="5" tps="18:43:58" tn="18.732777777778" tnp="1.8425" clt="363" ></e><e idpt="31" ha="00:28:55" ja="6" tps="20:28:45" tn="20.479166666667" tnp="1.7463888888889" clt="385" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="79" tps="04:06:50"
+                race="ecotrail paris ile-de-france® - trail 45km"
+                year="2018" dist="45"/>
+                                <e
+                pos="361" tps="17:23:42"
+                race="festival des templiers - endurance trail"
+                year="2017" dist="99"/>
+                                <e
+                pos="592" tps="20:12:27"
+                race="UTMB® - CCC®"
+                year="2017" dist="100"/>
+                                <e
+                pos="347" tps="06:41:59"
+                race="ultra marin raid golfe du morbihan - trail 56 km"
+                year="2017" dist="58"/>
+                                <e
+                pos="372" tps="02:48:25"
+                race="ecotrail de paris ile-de-france® - trail 30 km"
+                year="2017" dist="30"/>
+                                <e
+                pos="363" tps="20:27:17"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2016" dist="85"/>
+                                <e
+                pos="879" tps="10:16:31"
+                race="ecotrail® de paris ile-de-france - trail 80 km"
+                year="2016" dist="79"/>
+                                <e
+                pos="449" tps="05:22:07"
+                race="ecotrail® de paris ile-de-france - trail 50 km"
+                year="2015" dist="51"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-00.28.30.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-00.28.30.jpg"/>
+											</videos></fiche></d>

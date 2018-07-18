@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5042"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5042" c="23km"  >
+						<identite nom="DONNAT"
+			  prenom="Frédéric"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="CAA"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="CLERMONT-FERRAND" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="196" code="f" clt="196"  cltcat="38" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:33:17" ja="6" tps="00:32:48" tn="0.54666666666667" tnp="0.54666666666667" clt="345" ></e><e idpt="36" ha="09:21:58" ja="6" tps="01:21:29" tn="1.3580555555556" tnp="0.81138888888889" clt="325" ></e><e idpt="46" ha="10:40:10" ja="6" tps="02:39:41" tn="2.6613888888889" tnp="1.3033333333333" clt="234" ></e><e idpt="52" ha="11:33:21" ja="6" tps="03:32:52" tn="3.5477777777778" tnp="0.88638888888889" clt="199" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="7" tps="02:41:24"
+                race="trail &quot; a la conquête de super besse &quot;  - grand trail 25km "
+                year="2017" dist="25"/>
+                                <e
+                pos="7" tps="01:13:18"
+                race="utpma - trail d'aurillac"
+                year="2017" dist="17"/>
+                                <e
+                pos="15" tps="02:28:01"
+                race="trail des piqueurs - 25 km"
+                year="2017" dist="25"/>
+                                <e
+                pos="58" tps="04:54:59"
+                race="gruissan phoebus trail - 50k"
+                year="2017" dist="50"/>
+                                <e
+                pos="110" tps="03:44:36"
+                race="ultra-trail® côte d'azur mercantour - trail de la vésubie court - champ. france"
+                year="2016" dist="30"/>
+                                <e
+                pos="18" tps="04:39:01"
+                race="ultra-trail® di corsica - tavignanu trail"
+                year="2016" dist="32"/>
+                                <e
+                pos="197" tps="02:17:09"
+                race="trail drome - 20 km"
+                year="2016" dist="22"/>
+                                <e
+                pos="63" tps="07:17:43"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - championnats de france de trail long"
+                year="2015" dist="59"/>
+                                <e
+                pos="50" tps="17:44:55"
+                race="utpma - ultra trail puy mary aurillac"
+                year="2015" dist="104"/>
+                                <e
+                pos="30" tps="05:44:37"
+                race="la pastourelle - la pastourelle - trail 53km"
+                year="2015" dist="52"/>
+                                <e
+                pos="65" tps="04:26:03"
+                race="la tulle brive nature - la tulle brive nature - trail long"
+                year="2015" dist="43"/>
+                                <e
+                pos="17" tps="01:49:15"
+                race="trail de vulcain - trail de vulcain 21km"
+                year="2015" dist="21"/>
+                                <e
+                pos="103" tps="05:22:42"
+                race="gruissan phoebus trail - 50k"
+                year="2015" dist="50"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-11.33.00.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-11.33.00.jpg"/>
+											</videos></fiche></d>

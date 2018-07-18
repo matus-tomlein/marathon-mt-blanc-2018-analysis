@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3807"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3807" c="90km"  >
+						<identite nom="BOURGAULT"
+			  prenom="Nicolas"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="AS CHU CAEN"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="IFS" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="679" code="u" />			<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:28:55" ja="5" tps="02:28:45" tn="2.4791666666667" tnp="2.4791666666667" clt="530" ></e><e idpt="4" ha="07:52:38" ja="5" tps="03:52:28" tn="3.8744444444444" tnp="1.3952777777778" clt="691" ></e><e idpt="6" ha="08:43:13" ja="5" tps="04:43:03" tn="4.7175" tnp="0.84305555555556" clt="723" ></e><e idpt="8" ha="09:52:19" ja="5" tps="05:52:09" tn="5.8691666666667" tnp="1.1516666666667" clt="776" ></e><e idpt="10" ha="11:36:17" ja="5" tps="07:36:07" tn="7.6019444444444" tnp="1.5705555555556" clt="756" ></e><e idpt="12" ha="12:22:36" ja="5" tps="08:22:26" tn="8.3738888888889" tnp="0.77194444444444" clt="779" ></e><e idpt="14" ha="14:27:37" ja="5" tps="10:27:27" tn="10.4575" tnp="2.0555555555556" clt="769" ></e><e idpt="16" ha="15:48:08" ja="5" tps="11:47:58" tn="11.799444444444" tnp="1.3419444444444" clt="734" ></e><e idpt="18" ha="17:59:42" ja="5" tps="13:59:32" tn="13.992222222222" tnp="2.1927777777778" clt="728" ></e><e idpt="20" ha="18:41:01" ja="5" tps="14:40:51" tn="14.680833333333" tnp="0.68861111111111" clt="722" ></e><e idpt="22" ha="19:40:09" ja="5" tps="15:39:59" tn="15.666388888889" tnp="0.98555555555556" clt="711" ></e><e idpt="24" ha="22:01:52" ja="5" tps="18:01:42" tn="18.028333333333" tnp="2.0552777777778" clt="677" ></e><e idpt="26" ha="00:05:39" ja="6" tps="20:05:29" tn="20.091388888889" tnp="2.0588888888889" clt="671" ></e><e idpt="28" ha="02:02:41" ja="6" tps="22:02:31" tn="22.041944444444" tnp="1.8725" clt="674" ></e><e idpt="31" ha="04:20:00" ja="6" tps="24:19:50" tn="24.330555555556" tnp="2.2886111111111" clt="683" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="1241" tps="11:54:20"
+                race="ecotrail paris ile-de-france® - trail 80km"
+                year="2018" dist="80"/>
+                                <e
+                pos="471" tps="06:50:06"
+                race="trail glazig - 54 km"
+                year="2018" dist="54"/>
+                                <e
+                pos="62" tps="54:44:50"
+                race="l'infernal trail des vosges - 200 km"
+                year="2017" dist="203"/>
+                                <e
+                pos="917" tps="11:01:13"
+                race="UTMB® - occ"
+                year="2017" dist="55"/>
+                                <e
+                pos="429" tps="28:42:15"
+                race="salomon gore-tex maxi-race - ultra-race"
+                year="2017" dist="113"/>
+                                <e
+                pos="572" tps="07:35:50"
+                race="trail glazig - 45 km"
+                year="2017" dist="54"/>
+                                <e
+                pos="81" tps="10:58:43"
+                race="trails du tour du canton - 82 km"
+                year="2016" dist="82"/>
+                                <e
+                pos="84" tps="16:02:15"
+                race="la barjo  - la barjo 100 km"
+                year="2016" dist="103"/>
+                                <e
+                pos="161" tps="27:52:40"
+                race="trail du roc de la lune - ultra du pas du diable "
+                year="2016" dist="126"/>
+                                <e
+                pos="221" tps="09:58:03"
+                race="trail gapen'cimes - trail edelweiss"
+                year="2015" dist="56"/>
+                                <e
+                pos="339" tps="15:55:58"
+                race="ice trail tarentaise - ice trail tarentaise - itt"
+                year="2015" dist="65"/>
+                                <e
+                pos="361" tps="07:05:36"
+                race="la barjo  - la 1/2 barjo"
+                year="2015" dist="50"/>
+                                <e
+                pos="511" tps="06:47:14"
+                race="trail glazig - 45 km"
+                year="2015" dist="45"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

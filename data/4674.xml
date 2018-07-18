@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4674"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4674" c="KmV"  >
+						<identite nom="HOELTZEL"
+			  prenom="Hubert"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="Quatz-Trotters"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="QUATZENHEIM" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="346" code="f" clt="346"  cltcat="32" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:33:16" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="18:02:34" ja="5" tps="00:29:18" tn="0.48833333333333" tnp="0.48833333333333" clt="315" ></e><e idpt="52" ha="18:39:27" ja="5" tps="01:06:11" tn="1.1030555555556" tnp="0.61472222222222" clt="346" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="147" tps="04:20:52"
+                race="trail des marcaires - defi de muhlbach"
+                year="2018" dist="32"/>
+                                <e
+                pos="91" tps="02:48:50"
+                race="trail du wurzel - wurzel - roche des fees"
+                year="2018" dist="24"/>
+                                <e
+                pos="2592" tps="10:25:32"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="323" tps="04:57:11"
+                race="trail des marcaires - defi de muhlbach"
+                year="2017" dist="32"/>
+                                <e
+                pos="121" tps="02:45:11"
+                race="trail du wurzel - wurzel - roche des fees"
+                year="2017" dist="24"/>
+                                <e
+                pos="87" tps="02:38:09"
+                race="les vosgirunners trails nature - la mac vi"
+                year="2017" dist="25"/>
+                                <e
+                pos="226" tps="02:38:51"
+                race="ultra trail du haut-koenigsbourg - thk 25 km"
+                year="2016" dist="25"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.39.05.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.39.05.jpg"/>
+											</videos></fiche></d>

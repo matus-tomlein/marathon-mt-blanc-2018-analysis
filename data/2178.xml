@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="2178"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="2178" c="42km"  >
+						<identite nom="CHARLOT"
+			  prenom="Nathalie"			  cat="V2 F"
+			  sx="F"
+			  descat="50-59"
+			  club="ASSO"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="CHAMAPGNE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1447" code="f" clt="1447"  cltcat="14" cltsex="229" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:14:54" ja="7" tps="01:14:54" tn="1.2483333333333" tnp="1.2483333333333" clt="1772" ></e><e idpt="36" ha="08:50:56" ja="7" tps="01:50:56" tn="1.8488888888889" tnp="0.60055555555556" clt="1656" ></e><e idpt="38" ha="09:22:54" ja="7" tps="02:22:54" tn="2.3816666666667" tnp="0.53277777777778" clt="1637" ></e><e idpt="40" ha="10:37:53" ja="7" tps="03:37:53" tn="3.6313888888889" tnp="1.2497222222222" clt="1582" ></e><e idpt="42" ha="11:59:26" ja="7" tps="04:59:26" tn="4.9905555555556" tnp="1.3591666666667" clt="1524" ></e><e idpt="44" ha="12:29:34" ja="7" tps="05:29:34" tn="5.4927777777778" tnp="0.34222222222222" clt="1564" ></e><e idpt="46" ha="14:34:16" ja="7" tps="07:34:16" tn="7.5711111111111" tnp="2.0783333333333" clt="1520" ></e><e idpt="51" ha="15:55:38" ja="7" tps="08:55:38" tn="8.9272222222222" tnp="1.3561111111111" clt="1447" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="344" cltsx="60" tps="04:13:47"
+                race="la pastourelle - trail pastourelle"
+                year="2018" dist="32"/>
+                                <e
+                pos="270" cltsx="84" tps="04:38:51"
+                race="festival des templiers - mona lisa"
+                year="2014" dist="29"/>
+                                <e
+                pos="1798" cltsx="248" tps="08:28:34"
+                race="marathon du mont-blanc - marathon du mont-blanc"
+                year="2013" dist="42"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.55.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.55.10.jpg"/>
+											</videos></fiche></d>

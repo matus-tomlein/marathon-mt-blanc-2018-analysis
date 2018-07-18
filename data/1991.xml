@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="1991"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="1991" c="42km"  >
+						<identite nom="NIELSEN"
+			  prenom="Søren"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Fyraftensøl Entusiaster"			  			  
+			  				  nat="Danemark"
+				  cio="DEN" a2="DK" a3="DNK" 			  			  				  				  ville="AALBORG" pays="DK"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1788" code="f" clt="1788"  cltcat="475" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:12:00" ja="7" tps="01:12:00" tn="1.2" tnp="1.2" clt="1558" ></e><e idpt="36" ha="08:50:03" ja="7" tps="01:50:03" tn="1.8341666666667" tnp="0.62888888888889" clt="1608" ></e><e idpt="38" ha="09:20:34" ja="7" tps="02:20:34" tn="2.3427777777778" tnp="0.50861111111111" clt="1538" ></e><e idpt="40" ha="10:35:32" ja="7" tps="03:35:32" tn="3.5922222222222" tnp="1.2494444444444" clt="1520" ></e><e idpt="42" ha="12:10:07" ja="7" tps="05:10:07" tn="5.1686111111111" tnp="1.5763888888889" clt="1671" ></e><e idpt="44" ha="12:33:49" ja="7" tps="05:33:49" tn="5.5636111111111" tnp="0.34444444444444" clt="1637" ></e><e idpt="46" ha="14:59:50" ja="7" tps="07:59:50" tn="7.9972222222222" tnp="2.4336111111111" clt="1810" ></e><e idpt="51" ha="16:30:19" ja="7" tps="09:30:19" tn="9.5052777777778" tnp="1.5080555555556" clt="1788" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="2070" tps="09:41:17"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2017" dist="42"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.29.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.29.50.jpg"/>
+											</videos></fiche></d>

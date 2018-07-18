@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5518"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5518" c="23km"  >
+						<identite nom="VOLAND"
+			  prenom="David"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="HOENHEIM" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1417" code="f" clt="1417"  cltcat="492" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:39:42" ja="6" tps="00:39:13" tn="0.65361111111111" tnp="0.65361111111111" clt="1032" ></e><e idpt="36" ha="09:42:24" ja="6" tps="01:41:55" tn="1.6986111111111" tnp="1.045" clt="1171" ></e><e idpt="46" ha="11:45:58" ja="6" tps="03:45:29" tn="3.7580555555556" tnp="2.0594444444444" clt="1310" ></e><e idpt="52" ha="13:24:08" ja="6" tps="05:23:39" tn="5.3941666666667" tnp="1.6361111111111" clt="1420" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="1381" tps="05:04:04"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2016" dist="26"/>
+                                <e
+                pos="274" tps="03:00:54"
+                race="trail du pays welche a orbey - trail welche - balcon d'orbey"
+                year="2015" dist="24"/>
+                                <e
+                pos="401" tps="02:41:09"
+                race="trail du haut-koenigsbourg - thk 25 km"
+                year="2014" dist="24"/>
+                                <e
+                pos="785" tps="02:48:07"
+                race="trail du petit ballon - 25 km - grands crus"
+                year="2014" dist="24"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-13.23.45.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-13.23.45.jpg"/>
+											</videos></fiche></d>

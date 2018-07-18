@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5536"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5536" c="23km"  >
+						<identite nom="GOUHIER"
+			  prenom="Mélanie"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="Suisse"
+				  cio="SUI" a2="CH" a3="CHE" 			  			  				  				  ville="MORGES" pays="CH"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1303" code="f" clt="1303"  cltcat="247" cltsex="399" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:43:10" ja="6" tps="00:42:41" tn="0.71138888888889" tnp="0.71138888888889" clt="1537" ></e><e idpt="36" ha="09:50:17" ja="6" tps="01:49:48" tn="1.83" tnp="1.1186111111111" clt="1512" ></e><e idpt="46" ha="11:50:06" ja="6" tps="03:49:37" tn="3.8269444444444" tnp="1.9969444444444" clt="1376" ></e><e idpt="52" ha="13:14:07" ja="6" tps="05:13:38" tn="5.2272222222222" tnp="1.4002777777778" clt="1306" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="60" cltsx="26" tps="04:37:43"
+                race="trail des dents du midi - ddm trail - 1er relais"
+                year="2017" dist="28"/>
+                                <e
+                pos="982" cltsx="125" tps="05:10:01"
+                race="sierre-zinal - sierre-zinal"
+                year="2017" dist="30"/>
+                                <e
+                pos="262" cltsx="185" tps="03:47:05"
+                race="marathon du mont-blanc - duo étoilé"
+                year="2017" dist="16"/>
+                                <e
+                pos="122" cltsx="46" tps="02:32:34"
+                race="humani'trail - « bhallu » trail / trail de l’ours – 15 km"
+                year="2015" dist="16"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-13.13.45.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-13.13.45.jpg"/>
+											</videos></fiche></d>

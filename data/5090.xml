@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5090"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5090" c="23km"  >
+						<identite nom="GUTH"
+			  prenom="Vincent"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="PALAISEAU" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="698" code="f" clt="698"  cltcat="314" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:38:32" ja="6" tps="00:38:03" tn="0.63416666666667" tnp="0.63416666666667" clt="897" ></e><e idpt="36" ha="09:38:34" ja="6" tps="01:38:05" tn="1.6347222222222" tnp="1.0005555555556" clt="1005" ></e><e idpt="46" ha="11:14:43" ja="6" tps="03:14:14" tn="3.2372222222222" tnp="1.6025" clt="741" ></e><e idpt="52" ha="12:23:46" ja="6" tps="04:23:17" tn="4.3880555555556" tnp="1.1508333333333" clt="701" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="27" tps="10:44:01"
+                race="trails de la vallée du brevon - trail des allobroges"
+                year="2018" dist="66"/>
+                                <e
+                pos="17" tps="18:20:44"
+                race="trail de l'aber wrac'h - alternative race 119 km"
+                year="2018" dist="119"/>
+                                <e
+                pos="50" tps="04:25:14"
+                race="maxicross - 41 km"
+                year="2018" dist="41"/>
+                                <e
+                pos="145" tps="01:45:43"
+                race="trail givré - trail givré"
+                year="2018" dist="23"/>
+                                <e
+                pos="12" tps="04:03:41"
+                race="trail des sources de la loire - tsl 38 km"
+                year="2017" dist="39"/>
+                                <e
+                pos="31" tps="21:50:56"
+                race="100 miles sud de france - grande traversée"
+                year="2017" dist="111"/>
+                                <e
+                pos="685" tps="09:53:39"
+                race="ecotrail de paris ile-de-france® - trail 80km"
+                year="2017" dist="79"/>
+                                <e
+                pos="16" tps="06:25:42"
+                race="l'origole - trail"
+                year="2016" dist="56"/>
+                                <e
+                pos="16" tps="08:03:42"
+                race="trail des sources de la loire - tsl 73"
+                year="2016" dist="72"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.23.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.23.25.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="2832"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="2832" c="YRM"  >
+						<identite nom="CHARVOLIN"
+			  prenom="Marie"			  cat="CA F"
+			  sx="F"
+			  descat="16-17"
+			  club="Ski Nordique Belledonne Chamrousse"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="GRENOBLE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="52" code="f" clt="52"  cltcat="2" cltsex="3" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="09:59:17" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="36" ha="10:09:48" ja="7" tps="00:10:31" tn="0.17527777777778" tnp="0.17527777777778" clt="50" ></e><e idpt="46" ha="11:19:55" ja="7" tps="01:20:38" tn="1.3438888888889" tnp="1.1686111111111" clt="52" ></e><e idpt="51" ha="12:07:54" ja="7" tps="02:08:37" tn="2.1436111111111" tnp="0.79972222222222" clt="52" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Depart YRM" nc="DepYRM" km="0" d="0" a="1463" x="50" y="128" px="6" py="64" lon="6.94692" lat="46.0015" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="2.81" d="93" a="1412" x="207" y="133" px="24" py="67" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="8.92" d="893" a="1894" x="547" y="79" px="64" py="40" lon="6.88632" lat="45.9605" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="14.19" d="1418" a="2048" x="840" y="61" px="99" py="31" lon="6.85261" lat="45.937" /></pts>		  			<palm>
+			                <e
+                pos="68" cltsx="5" tps="02:27:36"
+                race="UTMB® - #ycc"
+                year="2017" dist="19"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.07.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.07.25.jpg"/>
+											</videos></fiche></d>

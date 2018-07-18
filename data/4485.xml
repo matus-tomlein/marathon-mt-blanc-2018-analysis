@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4485"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4485" c="KmV"  >
+						<identite nom="JEANNOLIN"
+			  prenom="Bruno"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SAINT-REMY-DE-MAURIENNE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="382" code="f" clt="382"  cltcat="96" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="16:46:01" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="17:16:50" ja="5" tps="00:30:49" tn="0.51361111111111" tnp="0.51361111111111" clt="376" ></e><e idpt="52" ha="17:54:39" ja="5" tps="01:08:38" tn="1.1438888888889" tnp="0.63027777777778" clt="382" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			</palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-17.54.15.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-17.54.15.jpg"/>
+											</videos></fiche></d>

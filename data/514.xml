@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="514"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="514" c="42km"  >
+						<identite nom="LITHERLAND"
+			  prenom="Catherine"			  cat="V1 F"
+			  sx="F"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="Royaume-Uni"
+				  cio="GBR" a2="GB" a3="GBR" 			  			  				  				  ville="STALYBRIDGE" pays="GB"
+			  			/>
+			<antecedents></antecedents>																								<state  test="827" code="f" clt="827"  cltcat="33" cltsex="108" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:18:39" ja="7" tps="01:18:39" tn="1.3108333333333" tnp="1.3108333333333" clt="1998" ></e><e idpt="36" ha="08:56:01" ja="7" tps="01:56:01" tn="1.9336111111111" tnp="0.62277777777778" clt="1903" ></e><e idpt="38" ha="09:25:31" ja="7" tps="02:25:31" tn="2.4252777777778" tnp="0.49166666666667" clt="1738" ></e><e idpt="40" ha="10:29:19" ja="7" tps="03:29:19" tn="3.4886111111111" tnp="1.0633333333333" clt="1390" ></e><e idpt="42" ha="11:40:25" ja="7" tps="04:40:25" tn="4.6736111111111" tnp="1.185" clt="1192" ></e><e idpt="44" ha="11:58:53" ja="7" tps="04:58:53" tn="4.9813888888889" tnp="0.30777777777778" clt="1103" ></e><e idpt="46" ha="13:40:00" ja="7" tps="06:40:00" tn="6.6666666666667" tnp="1.6852777777778" clt="921" ></e><e idpt="51" ha="14:45:03" ja="7" tps="07:45:03" tn="7.7508333333333" tnp="1.0841666666667" clt="827" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="565" cltsx="60" tps="03:38:34"
+                race="dolomites skyrace - dolomites skyrace"
+                year="2016" dist="22"/>
+                                <e
+                pos="460" cltsx="33" tps="37:49:00"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="118" cltsx="13" tps="17:29:02"
+                race="eiger ultra trail - e101"
+                year="2015" dist="98"/>
+                                <e
+                pos="54" cltsx="3" tps="39:38:02"
+                race="Échappée belle helly hansen - l'intégrale"
+                year="2014" dist="145"/>
+                                <e
+                pos="5" cltsx="1" tps="13:20:58"
+                race="10 peaks the lakes - long course"
+                year="2014" dist="74"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.44.35.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.44.35.jpg"/>
+											</videos></fiche></d>

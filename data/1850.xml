@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="1850"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="1850" c="42km"  >
+						<identite nom="PAPAZIAN"
+			  prenom="Carole"			  cat="V1 F"
+			  sx="F"
+			  descat="40-49"
+			  club="Courir-en-duo"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="FONTENAY SOUS BOIS" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1477" code="f" clt="1477"  cltcat="80" cltsex="237" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:07:33" ja="7" tps="01:07:33" tn="1.1258333333333" tnp="1.1258333333333" clt="1219" ></e><e idpt="36" ha="08:44:14" ja="7" tps="01:44:14" tn="1.7372222222222" tnp="0.59527777777778" clt="1318" ></e><e idpt="38" ha="09:20:20" ja="7" tps="02:20:20" tn="2.3388888888889" tnp="0.60166666666667" clt="1528" ></e><e idpt="40" ha="10:36:18" ja="7" tps="03:36:18" tn="3.605" tnp="1.2661111111111" clt="1538" ></e><e idpt="42" ha="12:07:12" ja="7" tps="05:07:12" tn="5.12" tnp="1.515" clt="1631" ></e><e idpt="44" ha="12:35:34" ja="7" tps="05:35:34" tn="5.5927777777778" tnp="0.44166666666667" clt="1661" ></e><e idpt="46" ha="14:32:41" ja="7" tps="07:32:41" tn="7.5447222222222" tnp="1.9519444444444" clt="1497" ></e><e idpt="51" ha="15:58:21" ja="7" tps="08:58:21" tn="8.9725" tnp="1.4277777777778" clt="1477" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="1023" cltsx="241" tps="04:44:34"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="1154" cltsx="84" tps="10:51:22"
+                race="ecotrail® de paris ile-de-france - trail 80 km"
+                year="2015" dist="80"/>
+                                <e
+                pos="915" cltsx="70" tps="11:01:16"
+                race="ecotrail® de paris ile-de-france - trail 80 km"
+                year="2014" dist="80"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.57.55.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.57.55.jpg"/>
+											</videos></fiche></d>

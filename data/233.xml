@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="233"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="233" c="42km"  >
+						<identite nom="MARAFFI"
+			  prenom="Samuel"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="RUN IN 70"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="VESOUL" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="138" code="f" clt="138"  cltcat="93" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:56:48" ja="7" tps="00:56:48" tn="0.94666666666667" tnp="0.94666666666667" clt="467" ></e><e idpt="36" ha="08:23:57" ja="7" tps="01:23:57" tn="1.3991666666667" tnp="0.4525" clt="394" ></e><e idpt="38" ha="08:46:55" ja="7" tps="01:46:55" tn="1.7819444444444" tnp="0.38277777777778" clt="372" ></e><e idpt="40" ha="09:34:07" ja="7" tps="02:34:07" tn="2.5686111111111" tnp="0.78666666666667" clt="249" ></e><e idpt="42" ha="10:25:56" ja="7" tps="03:25:56" tn="3.4322222222222" tnp="0.86361111111111" clt="203" ></e><e idpt="44" ha="10:40:27" ja="7" tps="03:40:27" tn="3.6741666666667" tnp="0.24194444444444" clt="193" ></e><e idpt="46" ha="11:56:44" ja="7" tps="04:56:44" tn="4.9455555555556" tnp="1.2713888888889" clt="155" ></e><e idpt="51" ha="12:47:16" ja="7" tps="05:47:16" tn="5.7877777777778" tnp="0.84222222222222" clt="138" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="94" tps="05:34:42"
+                race="salomon gore-tex maxi-race - marathon race"
+                year="2018" dist="42"/>
+                                <e
+                pos="7" tps="01:51:58"
+                race="trail'n loue - trail des sources"
+                year="2018" dist="18"/>
+                                <e
+                pos="135" tps="05:38:58"
+                race="ergysport trail du ventoux - 48 km"
+                year="2018" dist="48"/>
+                                <e
+                pos="341" tps="08:49:11"
+                race="UTMB® - occ"
+                year="2017" dist="55"/>
+                                <e
+                pos="181" tps="00:55:25"
+                race="marathon du mont-blanc - km vertical"
+                year="2017" dist="4"/>
+                                <e
+                pos="236" tps="14:57:13"
+                race="salomon gore-tex maxi-race - maxi-race"
+                year="2017" dist="83"/>
+                                <e
+                pos="104" tps="02:47:55"
+                race="trail des forts de besançon - 28 km"
+                year="2017" dist="27"/>
+                                <e
+                pos="20" tps="02:06:44"
+                race="ultra trail du haut-koenigsbourg - thk 25 km"
+                year="2016" dist="25"/>
+                                <e
+                pos="18" tps="03:57:16"
+                race="trail volodalen du lac de vouglans - tour du regardoir 39 km"
+                year="2016" dist="39"/>
+                                <e
+                pos="71" tps="02:48:07"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2016" dist="26"/>
+                                <e
+                pos="66" tps="09:32:38"
+                race="la transju'trail - la transju'trail 72 km"
+                year="2016" dist="70"/>
+                                <e
+                pos="82" tps="05:46:11"
+                race="trail des forts de besançon - 47 km"
+                year="2016" dist="48"/>
+                                <e
+                pos="74" tps="02:57:52"
+                race="ergysport trail du ventoux - 26 km"
+                year="2016" dist="26"/>
+                                <e
+                pos="45" tps="05:35:29"
+                race="trail du haut clunysois - maratrail du haut clunysois"
+                year="2015" dist="51"/>
+                                <e
+                pos="41" tps="03:51:25"
+                race="serre che trail salomon - serre che trail salomon - pt tour cerces"
+                year="2015" dist="31"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.46.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.46.50.jpg"/>
+											</videos></fiche></d>

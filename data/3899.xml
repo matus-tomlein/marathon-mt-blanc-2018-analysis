@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3899"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3899" c="90km"  >
+						<identite nom="GUHL"
+			  prenom="Jerome"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="Suisse"
+				  cio="SUI" a2="CH" a3="CHE" 			  			  				  				  ville="COMMUGNY" pays="CH"
+			  			/>
+			<antecedents></antecedents>																								<state  test="449" code="f" clt="449"  cltcat="201" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:21:29" ja="5" tps="02:21:19" tn="2.3552777777778" tnp="2.3552777777778" clt="384" ></e><e idpt="4" ha="07:32:25" ja="5" tps="03:32:15" tn="3.5375" tnp="1.1822222222222" clt="421" ></e><e idpt="6" ha="08:17:42" ja="5" tps="04:17:32" tn="4.2922222222222" tnp="0.75472222222222" clt="443" ></e><e idpt="8" ha="09:22:26" ja="5" tps="05:22:16" tn="5.3711111111111" tnp="1.0788888888889" clt="497" ></e><e idpt="10" ha="11:01:33" ja="5" tps="07:01:23" tn="7.0230555555556" tnp="1.4772222222222" clt="519" ></e><e idpt="12" ha="11:38:01" ja="5" tps="07:37:51" tn="7.6308333333333" tnp="0.60777777777778" clt="506" ></e><e idpt="14" ha="13:25:36" ja="5" tps="09:25:26" tn="9.4238888888889" tnp="1.7930555555556" clt="494" ></e><e idpt="16" ha="14:55:11" ja="5" tps="10:55:01" tn="10.916944444444" tnp="1.4930555555556" clt="520" ></e><e idpt="18" ha="16:38:44" ja="5" tps="12:38:34" tn="12.642777777778" tnp="1.7258333333333" clt="483" ></e><e idpt="20" ha="17:18:09" ja="5" tps="13:17:59" tn="13.299722222222" tnp="0.65694444444444" clt="482" ></e><e idpt="22" ha="18:15:07" ja="5" tps="14:14:57" tn="14.249166666667" tnp="0.94944444444444" clt="497" ></e><e idpt="24" ha="20:11:36" ja="5" tps="16:11:26" tn="16.190555555556" tnp="1.9413888888889" clt="464" ></e><e idpt="26" ha="21:44:06" ja="5" tps="17:43:56" tn="17.732222222222" tnp="1.5377777777778" clt="441" ></e><e idpt="28" ha="23:14:27" ja="5" tps="19:14:17" tn="19.238055555556" tnp="1.5058333333333" clt="430" ></e><e idpt="31" ha="01:12:02" ja="6" tps="21:11:52" tn="21.197777777778" tnp="1.9597222222222" clt="449" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="2701" tps="10:30:54"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="733" tps="30:42:50"
+                race="UTMB® - TDS®"
+                year="2016" dist="119"/>
+                                <e
+                pos="309" tps="23:07:35"
+                race="eiger ultra trail - e101"
+                year="2016" dist="98"/>
+                                <e
+                pos="137" tps="08:48:53"
+                race="serre che trail salomon - serre che trail salomon - gd tour cerces"
+                year="2015" dist="46"/>
+                                <e
+                pos="1002" tps="24:26:20"
+                race="ultra-trail du mont-blanc® - CCC®"
+                year="2015" dist="101"/>
+                                <e
+                pos="333" tps="15:53:39"
+                race="ice trail tarentaise - ice trail tarentaise - itt"
+                year="2015" dist="65"/>
+                                <e
+                pos="553" tps="22:58:20"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2015" dist="82"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-01.11.35.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-01.11.35.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3325"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3325" c="90km"  >
+						<identite nom="ROMAND"
+			  prenom="Vincent"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SAINT LOUIS" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="138" code="f" clt="138"  cltcat="78" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="05:50:08" ja="5" tps="01:49:58" tn="1.8327777777778" tnp="1.8327777777778" clt="85" ></e><e idpt="4" ha="06:45:04" ja="5" tps="02:44:54" tn="2.7483333333333" tnp="0.91555555555556" clt="90" ></e><e idpt="6" ha="07:20:13" ja="5" tps="03:20:03" tn="3.3341666666667" tnp="0.58583333333333" clt="88" ></e><e idpt="8" ha="08:08:23" ja="5" tps="04:08:13" tn="4.1369444444444" tnp="0.80277777777778" clt="95" ></e><e idpt="10" ha="09:24:58" ja="5" tps="05:24:48" tn="5.4133333333333" tnp="1.1888888888889" clt="94" ></e><e idpt="12" ha="09:59:39" ja="5" tps="05:59:29" tn="5.9913888888889" tnp="0.57805555555556" clt="107" ></e><e idpt="14" ha="11:44:13" ja="5" tps="07:44:03" tn="7.7341666666667" tnp="1.4897222222222" clt="153" ></e><e idpt="16" ha="13:02:36" ja="5" tps="09:02:26" tn="9.0405555555556" tnp="1.3063888888889" clt="186" ></e><e idpt="18" ha="14:27:30" ja="5" tps="10:27:20" tn="10.455555555556" tnp="1.415" clt="160" ></e><e idpt="20" ha="14:56:18" ja="5" tps="10:56:08" tn="10.935555555556" tnp="0.48" clt="151" ></e><e idpt="22" ha="15:34:10" ja="5" tps="11:34:00" tn="11.566666666667" tnp="0.63111111111111" clt="145" ></e><e idpt="24" ha="17:29:09" ja="5" tps="13:28:59" tn="13.483055555556" tnp="1.9163888888889" clt="166" ></e><e idpt="26" ha="18:54:44" ja="5" tps="14:54:34" tn="14.909444444444" tnp="1.4225" clt="153" ></e><e idpt="28" ha="20:05:54" ja="5" tps="16:05:44" tn="16.095555555556" tnp="1.1861111111111" clt="142" ></e><e idpt="31" ha="21:05:03" ja="5" tps="17:04:53" tn="17.081388888889" tnp="0.98583333333333" clt="138" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="66" tps="03:52:55"
+                race="trail du grand ballon - 32km"
+                year="2018" dist="32"/>
+                                <e
+                pos="229" tps="23:19:46"
+                race="UTMB® - TDS®"
+                year="2017" dist="119"/>
+                                <e
+                pos="21" tps="07:10:09"
+                race="ardennes mega trail - ardennes - le roc la tour"
+                year="2017" dist="54"/>
+                                <e
+                pos="125" tps="09:40:10"
+                race="trail des aiguilles rouges - tar"
+                year="2016" dist="51"/>
+                                <e
+                pos="385" tps="04:04:10"
+                race="sierre-zinal - sierre-zinal"
+                year="2016" dist="30"/>
+                                <e
+                pos="239" tps="05:30:09"
+                race="maxi-race du lac d'annecy - marathon race"
+                year="2016" dist="38"/>
+                                <e
+                pos="195" tps="03:25:33"
+                race="les cretes vosgiennes - les cretes vosgiennes"
+                year="2015" dist="33"/>
+                                <e
+                pos="133" tps="17:15:52"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2015" dist="82"/>
+                                <e
+                pos="149" tps="02:18:50"
+                race="trail du petit ballon - 25 km - grands crus"
+                year="2015" dist="27"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.04.35.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.04.35.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3483"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3483" c="90km"  >
+						<identite nom="TROCHON"
+			  prenom="Jean-Charles"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="UAC SAVENAY"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="BOUVRON" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="305" code="f" clt="305"  cltcat="148" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:35:02" ja="5" tps="02:34:52" tn="2.5811111111111" tnp="2.5811111111111" clt="634" ></e><e idpt="4" ha="07:46:27" ja="5" tps="03:46:17" tn="3.7713888888889" tnp="1.1902777777778" clt="604" ></e><e idpt="6" ha="08:30:54" ja="5" tps="04:30:44" tn="4.5122222222222" tnp="0.74083333333333" clt="588" ></e><e idpt="8" ha="09:31:09" ja="5" tps="05:30:59" tn="5.5163888888889" tnp="1.0041666666667" clt="582" ></e><e idpt="10" ha="11:03:05" ja="5" tps="07:02:55" tn="7.0486111111111" tnp="1.3722222222222" clt="533" ></e><e idpt="12" ha="11:38:11" ja="5" tps="07:38:01" tn="7.6336111111111" tnp="0.585" clt="511" ></e><e idpt="14" ha="13:15:54" ja="5" tps="09:15:44" tn="9.2622222222222" tnp="1.5980555555556" clt="463" ></e><e idpt="16" ha="14:20:50" ja="5" tps="10:20:40" tn="10.344444444444" tnp="1.0822222222222" clt="396" ></e><e idpt="18" ha="16:05:42" ja="5" tps="12:05:32" tn="12.092222222222" tnp="1.7477777777778" clt="389" ></e><e idpt="20" ha="16:43:04" ja="5" tps="12:42:54" tn="12.715" tnp="0.62277777777778" clt="391" ></e><e idpt="22" ha="17:30:54" ja="5" tps="13:30:44" tn="13.512222222222" tnp="0.79722222222222" clt="379" ></e><e idpt="24" ha="19:04:56" ja="5" tps="15:04:46" tn="15.079444444444" tnp="1.5672222222222" clt="314" ></e><e idpt="26" ha="20:38:51" ja="5" tps="16:38:41" tn="16.644722222222" tnp="1.5608333333333" clt="307" ></e><e idpt="28" ha="22:07:20" ja="5" tps="18:07:10" tn="18.119444444444" tnp="1.4747222222222" clt="301" ></e><e idpt="31" ha="23:30:07" ja="5" tps="19:29:57" tn="19.499166666667" tnp="1.3797222222222" clt="305" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="320" tps="24:32:39"
+                race="UTMB® - TDS®"
+                year="2017" dist="119"/>
+                                <e
+                pos="99" tps="16:26:04"
+                race="trans aubrac - ultra 105 km"
+                year="2017" dist="106"/>
+                                <e
+                pos="570" tps="22:14:19"
+                race="UTMB® - CCC®"
+                year="2016" dist="101"/>
+                                <e
+                pos="73" tps="05:45:30"
+                race="trail du vignoble nantais - trail du vignoble nantais 55km"
+                year="2016" dist="54"/>
+                                <e
+                pos="161" tps="09:37:07"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - grand trail du sancy 60 km"
+                year="2015" dist="59"/>
+                                <e
+                pos="102" tps="06:26:27"
+                race="trail du vignoble nantais - trail du vignoble nantais"
+                year="2015" dist="57"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.29.40.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.29.40.jpg"/>
+											</videos></fiche></d>

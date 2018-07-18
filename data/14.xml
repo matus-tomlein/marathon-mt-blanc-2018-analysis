@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="14"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="14" c="42km"  >
+						<identite nom="MICHAUD"
+			  prenom="Adrien"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ALLINGES" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1" code="np" />			<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="19" tps="09:36:22"
+                race="penyagolosa trails hg - iautwc"
+                year="2018" dist="85"/>
+                                <e
+                pos="4" tps="04:03:26"
+                race="ergysport trail du ventoux - 48 km"
+                year="2018" dist="48"/>
+                                <e
+                pos="2" tps="01:55:17"
+                race="la skyrhune - la skyrhune - pottoken itzulia"
+                year="2017" dist="21"/>
+                                <e
+                pos="3" tps="05:46:17"
+                race="trail de la vallée des lacs - champ france trail lg"
+                year="2017" dist="62"/>
+                                <e
+                pos="3" tps="04:25:31"
+                race="marathon du montcalm - marathon du montcalm"
+                year="2017" dist="43"/>
+                                <e
+                pos="112" tps="03:15:47"
+                race="sierre-zinal - sierre-zinal"
+                year="2017" dist="30"/>
+                                <e
+                pos="5" tps="02:48:29"
+                race="skyrun comapedrosa - skyrun comapedrosa"
+                year="2017" dist="21"/>
+                                <e
+                pos="3" tps="04:16:47"
+                race="buff® epic trail aigüestortes - 42 km"
+                year="2017" dist="43"/>
+                                <e
+                pos="20" tps="04:37:00"
+                race="livigno skymarathon - livigno skymarathon"
+                year="2017" dist="34"/>
+                                <e
+                pos="5" tps="03:56:33"
+                race="zegama-aizkorri mendi maratoia - zegama-aizkorri mendi maratoia"
+                year="2017" dist="40"/>
+                                <e
+                pos="1" tps="02:51:34"
+                race="skyrace des matheysins - skyrace des matheysins"
+                year="2017" dist="28"/>
+                                <e
+                pos="6" tps="03:57:22"
+                race="ergysport trail du ventoux - 46 km"
+                year="2017" dist="46"/>
+                                <e
+                pos="1403" tps="03:17:59"
+                race="ecotrail de paris ile-de-france® - trail 30 km"
+                year="2017" dist="30"/>
+                                <e
+                pos="11" tps="02:56:04"
+                race="limonextreme - limonextreme"
+                year="2016" dist="25"/>
+                                <e
+                pos="9" tps="02:10:49"
+                race="la skyrhune - la skyrhune - pottoken itzulia"
+                year="2016" dist="21"/>
+                                <e
+                pos="10" tps="05:17:00"
+                race="matterhorn ultraks - matterhorn ultraks 45k"
+                year="2016" dist="47"/>
+                                <e
+                pos="20" tps="02:48:27"
+                race="sierre-zinal - sierre-zinal"
+                year="2016" dist="30"/>
+                                <e
+                pos="10" tps="02:09:55"
+                race="dolomites skyrace - dolomites skyrace"
+                year="2016" dist="22"/>
+                                <e
+                pos="1" tps="04:00:17"
+                race="skyrace de montgenevre - sky race chaberton"
+                year="2016" dist="38"/>
+                                <e
+                pos="2" tps="09:21:23"
+                race="pierra menta été - pierra menta été"
+                year="2016" dist="67"/>
+                                <e
+                pos="8" tps="04:07:14"
+                race="zegama-aizkorri mendi maratoia - zegama-aizkorri mendi maratoia"
+                year="2016" dist="40"/>
+                                <e
+                pos="1" tps="02:40:36"
+                race="skyrace des matheysins - skyrace des matheysins"
+                year="2016" dist="27"/>
+                                <e
+                pos="75" tps="05:11:12"
+                race="ergysport trail du ventoux - 46 km"
+                year="2016" dist="45"/>
+                                <e
+                pos="28" tps="03:17:23"
+                race="limonextreme - limonextreme"
+                year="2015" dist="24"/>
+                                <e
+                pos="3" tps="02:04:18"
+                race="trail gapen'cimes - trail des cretes"
+                year="2015" dist="27"/>
+                                <e
+                pos="16" tps="03:07:20"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - championnats de france de trail court"
+                year="2015" dist="33"/>
+                                <e
+                pos="1" tps="01:52:27"
+                race="le belier - 27 km"
+                year="2015" dist="27"/>
+                                <e
+                pos="21" tps="02:49:47"
+                race="sierre-zinal - sierre-zinal"
+                year="2015" dist="30"/>
+                                <e
+                pos="1" tps="04:00:42"
+                race="trails de la vallée du brevon - trail des cretes du brevon"
+                year="2015" dist="38"/>
+                                <e
+                pos="2" tps="02:47:25"
+                race="trail matheysin - trail matheysin"
+                year="2015" dist="31"/>
+                                <e
+                pos="5" tps="02:48:38"
+                race="trail des glaisins - le barman"
+                year="2015" dist="29"/>
+                                <e
+                pos="1" tps="02:00:21"
+                race="ergysport trail du ventoux - 26 km"
+                year="2015" dist="26"/>
+                                <e
+                pos="1" tps="01:47:36"
+                race="gruissan phoebus trail - las caladas 25k"
+                year="2015" dist="25"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

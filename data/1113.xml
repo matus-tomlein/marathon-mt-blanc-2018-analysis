@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="1113"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="1113" c="42km"  >
+						<identite nom="SCHIRTZINGER"
+			  prenom="Sylvie"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club="Les foulées Mezelloises"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="MEZEL" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="2253" code="hd" clt="2253"  cltcat="221" cltsex="479" />			<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:23:23" ja="7" tps="01:23:23" tn="1.3897222222222" tnp="1.3897222222222" clt="2238" ></e><e idpt="36" ha="09:05:12" ja="7" tps="02:05:12" tn="2.0866666666667" tnp="0.69694444444444" clt="2215" ></e><e idpt="38" ha="09:44:45" ja="7" tps="02:44:45" tn="2.7458333333333" tnp="0.65916666666667" clt="2241" ></e><e idpt="40" ha="11:18:27" ja="7" tps="04:18:27" tn="4.3075" tnp="1.5616666666667" clt="2238" ></e><e idpt="42" ha="13:28:01" ja="7" tps="06:28:01" tn="6.4669444444444" tnp="2.1594444444444" clt="2248" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="385" cltsx="81" tps="04:27:08"
+                race="trail nivolet-revard - trail le malpassant"
+                year="2018" dist="27"/>
+                                <e
+                pos="338" cltsx="55" tps="05:42:01"
+                race="festival des templiers - marathon des causses"
+                year="2017" dist="36"/>
+                                <e
+                pos="260" cltsx="38" tps="05:14:47"
+                race="festival des templiers - marathon des causses"
+                year="2016" dist="38"/>
+                                <e
+                pos="155" cltsx="28" tps="03:55:44"
+                race="grand trail du saint jacques - via podiensis 32 km"
+                year="2016" dist="32"/>
+                                <e
+                pos="335" cltsx="28" tps="05:23:52"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - trail du sancy 30 km"
+                year="2015" dist="33"/>
+                                <e
+                pos="96" cltsx="24" tps="03:03:01"
+                race="ice trail tarentaise - itt - balcons de val d'isere"
+                year="2015" dist="19"/>
+                                <e
+                pos="290" cltsx="29" tps="02:30:29"
+                race="trail de vulcain - trail de vulcain 21km"
+                year="2015" dist="21"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

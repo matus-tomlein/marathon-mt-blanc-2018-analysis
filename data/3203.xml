@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3203"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3203" c="90km"  >
+						<identite nom="LAMBERT"
+			  prenom="Julien"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="Trailers des aravis "			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="LE BOUCHET MONT CHARVIN " pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="98" code="f" clt="98"  cltcat="57" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:13:05" ja="5" tps="02:12:55" tn="2.2152777777778" tnp="2.2152777777778" clt="271" ></e><e idpt="4" ha="07:11:50" ja="5" tps="03:11:40" tn="3.1944444444444" tnp="0.97916666666667" clt="228" ></e><e idpt="6" ha="07:49:59" ja="5" tps="03:49:49" tn="3.8302777777778" tnp="0.63583333333333" clt="222" ></e><e idpt="8" ha="08:39:22" ja="5" tps="04:39:12" tn="4.6533333333333" tnp="0.82305555555556" clt="210" ></e><e idpt="10" ha="10:00:07" ja="5" tps="05:59:57" tn="5.9991666666667" tnp="1.2286111111111" clt="192" ></e><e idpt="12" ha="10:28:07" ja="5" tps="06:27:57" tn="6.4658333333333" tnp="0.46666666666667" clt="180" ></e><e idpt="14" ha="11:49:02" ja="5" tps="07:48:52" tn="7.8144444444444" tnp="1.3177777777778" clt="162" ></e><e idpt="16" ha="12:43:38" ja="5" tps="08:43:28" tn="8.7244444444444" tnp="0.91" clt="140" ></e><e idpt="18" ha="14:08:36" ja="5" tps="10:08:26" tn="10.140555555556" tnp="1.4161111111111" clt="133" ></e><e idpt="20" ha="14:38:46" ja="5" tps="10:38:36" tn="10.643333333333" tnp="0.50277777777778" clt="131" ></e><e idpt="22" ha="15:16:00" ja="5" tps="11:15:50" tn="11.263888888889" tnp="0.62055555555556" clt="119" ></e><e idpt="24" ha="16:41:58" ja="5" tps="12:41:48" tn="12.696666666667" tnp="1.3025" clt="105" ></e><e idpt="26" ha="18:09:36" ja="5" tps="14:09:26" tn="14.157222222222" tnp="1.4605555555556" clt="105" ></e><e idpt="28" ha="19:20:33" ja="5" tps="15:20:23" tn="15.339722222222" tnp="1.1825" clt="99" ></e><e idpt="31" ha="20:19:50" ja="5" tps="16:19:40" tn="16.327777777778" tnp="0.98805555555556" clt="98" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="147" tps="12:54:04"
+                race="trail du tour des fiz - 8 refuges"
+                year="2017" dist="60"/>
+                                <e
+                pos="87" tps="04:02:21"
+                race="skyrace des matheysins - skyrace des matheysins"
+                year="2017" dist="28"/>
+                                <e
+                pos="41" tps="08:46:24"
+                race="serre che trail salomon - grand tour des cerces"
+                year="2016" dist="49"/>
+                                <e
+                pos="58" tps="05:36:37"
+                race="ultra trail de cote d'or - trail des hautes cotes"
+                year="2016" dist="45"/>
+                                <e
+                pos="62" tps="03:51:39"
+                race="skyrace des matheysins - skyrace des matheysins"
+                year="2016" dist="27"/>
+                                <e
+                pos="82" tps="03:18:10"
+                race="trail faverges icebreaker - trail des sources du lac"
+                year="2015" dist="29"/>
+                                <e
+                pos="103" tps="04:20:30"
+                race="trail matheysin - trail matheysin"
+                year="2015" dist="31"/>
+                                <e
+                pos="41" tps="01:37:48"
+                race="trail des glaisins - trail de l'olive"
+                year="2015" dist="18"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-20.19.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-20.19.25.jpg"/>
+											</videos></fiche></d>

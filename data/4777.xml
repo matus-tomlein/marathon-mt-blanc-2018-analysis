@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4777"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4777" c="KmV"  >
+						<identite nom="DAIGREMONT"
+			  prenom="Nicolas"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SEYNOD" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="204" code="f" clt="204"  cltcat="109" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:59:01" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="18:25:02" ja="5" tps="00:26:01" tn="0.43361111111111" tnp="0.43361111111111" clt="188" ></e><e idpt="52" ha="18:56:13" ja="5" tps="00:57:12" tn="0.95333333333333" tnp="0.51972222222222" clt="204" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="191" tps="22:56:39"
+                race="salomon gore-tex maxi-race - ultra-race"
+                year="2018" dist="117"/>
+                                <e
+                pos="122" tps="04:07:26"
+                race="trail des glaisins - trail des glaisins"
+                year="2018" dist="33"/>
+                                <e
+                pos="38" tps="05:18:50"
+                race="trail semnoz tour - 45 km"
+                year="2017" dist="40"/>
+                                <e
+                pos="204" tps="04:18:51"
+                race="trail des glaisins - le lachat"
+                year="2017" dist="33"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.55.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.55.50.jpg"/>
+											</videos></fiche></d>

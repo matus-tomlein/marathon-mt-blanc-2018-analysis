@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3729"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3729" c="90km"  >
+						<identite nom="WARCHOL"
+			  prenom="Alexandre"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="VIRIAT MARATHON"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="VIRIAT" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="625" code="f" clt="625"  cltcat="231" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:32:01" ja="5" tps="02:31:51" tn="2.5308333333333" tnp="2.5308333333333" clt="580" ></e><e idpt="4" ha="07:45:04" ja="5" tps="03:44:54" tn="3.7483333333333" tnp="1.2175" clt="592" ></e><e idpt="6" ha="08:32:53" ja="5" tps="04:32:43" tn="4.5452777777778" tnp="0.79694444444444" clt="607" ></e><e idpt="8" ha="09:41:19" ja="5" tps="05:41:09" tn="5.6858333333333" tnp="1.1405555555556" clt="676" ></e><e idpt="10" ha="11:30:08" ja="5" tps="07:29:58" tn="7.4994444444444" tnp="1.715" clt="728" ></e><e idpt="12" ha="12:07:27" ja="5" tps="08:07:17" tn="8.1213888888889" tnp="0.62194444444444" clt="716" ></e><e idpt="14" ha="14:11:02" ja="5" tps="10:10:52" tn="10.181111111111" tnp="2.0597222222222" clt="710" ></e><e idpt="16" ha="15:20:55" ja="5" tps="11:20:45" tn="11.345833333333" tnp="1.1647222222222" clt="630" ></e><e idpt="18" ha="17:38:02" ja="5" tps="13:37:52" tn="13.631111111111" tnp="2.2852777777778" clt="672" ></e><e idpt="20" ha="18:21:35" ja="5" tps="14:21:25" tn="14.356944444444" tnp="0.72583333333333" clt="678" ></e><e idpt="22" ha="19:24:04" ja="5" tps="15:23:54" tn="15.398333333333" tnp="1.0413888888889" clt="683" ></e><e idpt="24" ha="21:33:32" ja="5" tps="17:33:22" tn="17.556111111111" tnp="2.1577777777778" clt="640" ></e><e idpt="26" ha="23:33:08" ja="5" tps="19:32:58" tn="19.549444444444" tnp="1.9719444444444" clt="637" ></e><e idpt="28" ha="01:29:41" ja="6" tps="21:29:31" tn="21.491944444444" tnp="1.9425" clt="635" ></e><e idpt="31" ha="03:14:16" ja="6" tps="23:14:06" tn="23.235" tnp="1.7430555555556" clt="625" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="204" tps="05:05:58"
+                race="trail des cabornis - 40 km"
+                year="2018" dist="40"/>
+                                <e
+                pos="170" tps="50:21:52"
+                race="ultra tour des 4 massifs - ut4m160 xtrem"
+                year="2017" dist="171"/>
+                                <e
+                pos="1206" tps="44:55:30"
+                race="UTMB® - UTMB®"
+                year="2016" dist="171"/>
+                                <e
+                pos="121" tps="13:14:24"
+                race="la montagn'hard - la montagn'hard 60"
+                year="2016" dist="61"/>
+                                <e
+                pos="147" tps="05:43:08"
+                race="trail des cabornis - 40k"
+                year="2016" dist="40"/>
+                                <e
+                pos="125" tps="14:59:26"
+                race="trails de la vallée du brevon - trail des allobroges"
+                year="2015" dist="70"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-03.13.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-03.13.50.jpg"/>
+											</videos></fiche></d>

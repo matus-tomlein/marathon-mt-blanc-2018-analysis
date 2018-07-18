@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="1219"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="1219" c="42km"  >
+						<identite nom="CHABELARD"
+			  prenom="Antoine"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SAINT GENIES DES MOURGUES" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1106" code="f" clt="1106"  cltcat="275" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:07:10" ja="7" tps="01:07:10" tn="1.1194444444444" tnp="1.1194444444444" clt="1183" ></e><e idpt="36" ha="08:41:42" ja="7" tps="01:41:42" tn="1.695" tnp="0.57111111111111" clt="1175" ></e><e idpt="38" ha="09:10:58" ja="7" tps="02:10:58" tn="2.1827777777778" tnp="0.48777777777778" clt="1149" ></e><e idpt="40" ha="10:20:14" ja="7" tps="03:20:14" tn="3.3372222222222" tnp="1.1544444444444" clt="1170" ></e><e idpt="42" ha="11:36:25" ja="7" tps="04:36:25" tn="4.6069444444444" tnp="1.2697222222222" clt="1131" ></e><e idpt="44" ha="12:03:27" ja="7" tps="05:03:27" tn="5.0575" tnp="0.45055555555556" clt="1162" ></e><e idpt="46" ha="13:57:48" ja="7" tps="06:57:48" tn="6.9633333333333" tnp="1.9058333333333" clt="1124" ></e><e idpt="51" ha="15:16:09" ja="7" tps="08:16:09" tn="8.2691666666667" tnp="1.3058333333333" clt="1106" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="164" tps="14:39:24"
+                race="salomon gore-tex maxi-race - xl-race"
+                year="2017" dist="83"/>
+                                <e
+                pos="156" tps="07:27:43"
+                race="larzac trip trail - verticausse"
+                year="2017" dist="47"/>
+                                <e
+                pos="634" tps="07:16:25"
+                race="ergysport trail du ventoux - 46 km"
+                year="2017" dist="46"/>
+                                <e
+                pos="177" tps="08:18:15"
+                race="trail faverges icebreaker - maratrail de la sambuy"
+                year="2016" dist="48"/>
+                                <e
+                pos="212" tps="02:47:55"
+                race="trail de la chaussee des geants - le ranc qualiou"
+                year="2016" dist="20"/>
+                                <e
+                pos="165" tps="08:13:08"
+                race="aurélien trail  - 44 km"
+                year="2015" dist="45"/>
+                                <e
+                pos="281" tps="03:44:55"
+                race="ergysport trail du ventoux - 26 km"
+                year="2015" dist="26"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.15.40.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.15.40.jpg"/>
+											</videos></fiche></d>

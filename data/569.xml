@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="569"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="569" c="42km"  >
+						<identite nom="CORMIER"
+			  prenom="Gilles"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="UA SOCIETE GENERALE"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="Laval" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="252" code="f" clt="252"  cltcat="13" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:57:25" ja="7" tps="00:57:25" tn="0.95694444444444" tnp="0.95694444444444" clt="512" ></e><e idpt="36" ha="08:27:09" ja="7" tps="01:27:09" tn="1.4525" tnp="0.49555555555556" clt="503" ></e><e idpt="38" ha="08:52:17" ja="7" tps="01:52:17" tn="1.8713888888889" tnp="0.41888888888889" clt="509" ></e><e idpt="40" ha="09:49:40" ja="7" tps="02:49:40" tn="2.8277777777778" tnp="0.95638888888889" clt="489" ></e><e idpt="42" ha="10:46:45" ja="7" tps="03:46:45" tn="3.7791666666667" tnp="0.95138888888889" clt="390" ></e><e idpt="44" ha="11:05:06" ja="7" tps="04:05:06" tn="4.085" tnp="0.30583333333333" clt="378" ></e><e idpt="46" ha="12:26:08" ja="7" tps="05:26:08" tn="5.4355555555556" tnp="1.3505555555556" clt="286" ></e><e idpt="51" ha="13:18:46" ja="7" tps="06:18:46" tn="6.3127777777778" tnp="0.87722222222222" clt="252" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="170" tps="14:22:12"
+                race="salomon gore-tex maxi-race - maxi-race"
+                year="2018" dist="85"/>
+                                <e
+                pos="363" tps="10:47:47"
+                race="festival des templiers - grand trail des templiers"
+                year="2017" dist="76"/>
+                                <e
+                pos="144" tps="45:23:21"
+                race="ultra-trail® côte d'azur mercantour - ultra-trail®"
+                year="2017" dist="146"/>
+                                <e
+                pos="165" tps="14:18:07"
+                race="salomon gore-tex maxi-race - maxi-race"
+                year="2017" dist="83"/>
+                                <e
+                pos="811" tps="48:39:49"
+                race="le grand raid de la réunion - le grand raid de la réunion"
+                year="2016" dist="168"/>
+                                <e
+                pos="830" tps="42:18:52"
+                race="UTMB® - UTMB®"
+                year="2016" dist="171"/>
+                                <e
+                pos="159" tps="26:29:52"
+                race="ultra tour du beaufortain - ultra tour du beaufortain"
+                year="2016" dist="105"/>
+                                <e
+                pos="714" tps="17:59:00"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2016" dist="84"/>
+                                <e
+                pos="369" tps="11:10:13"
+                race="festival des templiers - grand trail des templiers"
+                year="2015" dist="75"/>
+                                <e
+                pos="88" tps="41:01:43"
+                race="ultra-trail® côte d'azur mercantour - ultra-trail®"
+                year="2015" dist="143"/>
+                                <e
+                pos="36" tps="27:04:40"
+                race="trail du cro  - trail du cro"
+                year="2015" dist="121"/>
+                                <e
+                pos="127" tps="05:41:38"
+                race="trail des forts de besançon - 47 km"
+                year="2015" dist="48"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.18.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.18.20.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5380"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5380" c="23km"  >
+						<identite nom="BUGNON"
+			  prenom="André"			  cat="V3 H"
+			  sx="H"
+			  descat="60-69"
+			  club="LES FOULÉES CHABLAISIENNES"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ALLINGES" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="819" code="f" clt="819"  cltcat="22" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:38:03" ja="6" tps="00:37:34" tn="0.62611111111111" tnp="0.62611111111111" clt="841" ></e><e idpt="36" ha="09:37:16" ja="6" tps="01:36:47" tn="1.6130555555556" tnp="0.98694444444444" clt="924" ></e><e idpt="46" ha="11:19:59" ja="6" tps="03:19:30" tn="3.325" tnp="1.7119444444444" clt="856" ></e><e idpt="52" ha="12:32:11" ja="6" tps="04:31:42" tn="4.5283333333333" tnp="1.2033333333333" clt="823" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="162" tps="01:56:01"
+                race="trails de la vallée du brevon - trail découverte du brevon"
+                year="2018" dist="13"/>
+                                <e
+                pos="115" tps="01:37:59"
+                race="trails de la vallée du brevon - trail découverte du brevon"
+                year="2017" dist="13"/>
+                                <e
+                pos="527" tps="14:50:28"
+                race="le grand raid de la réunion - la mascareignes"
+                year="2015" dist="61"/>
+                                <e
+                pos="157" tps="02:58:16"
+                race="ecotrail praz de lys-sommand - trail 20 km"
+                year="2015" dist="21"/>
+                                <e
+                pos="103" tps="08:51:08"
+                race="la montagn'hard - la moins'hard 38"
+                year="2015" dist="40"/>
+                                <e
+                pos="142" tps="06:51:58"
+                race="trails de la vallée du brevon - trail des cretes du brevon"
+                year="2015" dist="38"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.31.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.31.50.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3495"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3495" c="90km"  >
+						<identite nom="PICOT"
+			  prenom="Antoine"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="ACVA"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="VILLENEUVE D'ASCQ" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="734" code="a" clt="734"  cltcat="84" />			<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:12:11" ja="5" tps="02:12:01" tn="2.2002777777778" tnp="2.2002777777778" clt="252" ></e><e idpt="4" ha="07:20:14" ja="5" tps="03:20:04" tn="3.3344444444444" tnp="1.1341666666667" clt="291" ></e><e idpt="6" ha="08:02:56" ja="5" tps="04:02:46" tn="4.0461111111111" tnp="0.71166666666667" clt="293" ></e><e idpt="8" ha="08:59:38" ja="5" hd="09:08:46" jd="5" tps="04:59:28" tn="4.9911111111111" tnp="0.945" clt="325" ></e><e idpt="10" ha="10:37:29" ja="5" tps="06:37:19" tn="6.6219444444444" tnp="1.4786111111111" clt="378" ></e><e idpt="12" ha="11:18:32" ja="5" tps="07:18:22" tn="7.3061111111111" tnp="0.68416666666667" clt="389" ></e><e idpt="14" ha="13:30:28" ja="5" tps="09:30:18" tn="9.505" tnp="2.1988888888889" clt="514" ></e><e idpt="16" ha="15:15:32" ja="5" tps="11:15:22" tn="11.256111111111" tnp="1.7511111111111" clt="609" ></e><e idpt="18" ha="17:58:31" ja="5" tps="13:58:21" tn="13.9725" tnp="2.7163888888889" clt="723" ></e><e idpt="20" ha="18:56:10" ja="5" tps="14:56:00" tn="14.933333333333" tnp="0.96083333333333" clt="738" ></e><e idpt="22" ha="20:04:38" ja="5" hd="20:08:48" jd="5" tps="16:04:28" tn="16.074444444444" tnp="1.1411111111111" clt="730" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="373" tps="10:35:04"
+                race="nord trail monts de flandres - 80 km"
+                year="2018" dist="80"/>
+                                <e
+                pos="268" tps="04:18:59"
+                race="le trail des poilus  - l'offensive"
+                year="2018" dist="31"/>
+                                <e
+                pos="42" tps="09:27:46"
+                race="trail côte d'opale - challenge 86 km"
+                year="2017" dist="85"/>
+                                <e
+                pos="153" tps="12:14:22"
+                race="weekend trail du tour des glaciers de la vanoise - tgv 72k"
+                year="2017" dist="73"/>
+                                <e
+                pos="23" tps="06:32:52"
+                race="le radicatrail - le trail intense"
+                year="2017" dist="58"/>
+                                <e
+                pos="374" tps="09:04:58"
+                race="ecotrail de paris ile-de-france® - trail 80km"
+                year="2017" dist="79"/>
+                                <e
+                pos="374" tps="09:44:51"
+                race="la 6000d la course des géants - la 6000d"
+                year="2016" dist="66"/>
+                                <e
+                pos="56" tps="16:40:03"
+                race="ardennes mega trail - ardennes mega trail"
+                year="2016" dist="96"/>
+                                <e
+                pos="35" tps="05:33:41"
+                race="trail des pyramides noires - trail des pyramides noires 50km"
+                year="2016" dist="50"/>
+                                <e
+                pos="37" tps="15:10:39"
+                race="le radicatrail - ultra trail"
+                year="2016" dist="114"/>
+                                <e
+                pos="426" tps="09:00:16"
+                race="ecotrail® de paris ile-de-france - trail 80 km"
+                year="2016" dist="79"/>
+                                <e
+                pos="28" tps="05:33:59"
+                race="ams tram trail - trail des bosses 50km"
+                year="2016" dist="50"/>
+                                <e
+                pos="126" tps="14:54:32"
+                race="la montagn'hard - la montagn'hard 60"
+                year="2015" dist="60"/>
+                                <e
+                pos="16" tps="04:58:09"
+                race="trail des pyramides noires - trail des pyramides noires 50km"
+                year="2015" dist="50"/>
+                                <e
+                pos="29" tps="07:05:12"
+                race="ams tram trail - trail des bosses 65km"
+                year="2015" dist="65"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

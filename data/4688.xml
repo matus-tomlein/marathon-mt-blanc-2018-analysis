@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4688"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4688" c="KmV"  >
+						<identite nom="BREUILLE"
+			  prenom="Thibaut"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="PARIS" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="258" code="f" clt="258"  cltcat="135" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:08:46" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="17:36:08" ja="5" tps="00:27:22" tn="0.45611111111111" tnp="0.45611111111111" clt="247" ></e><e idpt="52" ha="18:09:06" ja="5" tps="01:00:20" tn="1.0055555555556" tnp="0.54944444444444" clt="258" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="595" tps="23:49:54"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2017" dist="91"/>
+                                <e
+                pos="1072" tps="08:35:31"
+                race="salomon gore-tex maxi-race - marathon race"
+                year="2017" dist="41"/>
+                                <e
+                pos="109" tps="05:07:57"
+                race="trail du tour des fiz - 5 refuges"
+                year="2016" dist="30"/>
+                                <e
+                pos="833" tps="23:29:05"
+                race="ultra-trail du mont-blanc® - CCC®"
+                year="2015" dist="101"/>
+                                <e
+                pos="109" tps="14:46:41"
+                race="interlac trail - l'intégrale 80 km"
+                year="2015" dist="76"/>
+                                <e
+                pos="206" tps="11:52:31"
+                race="la transju'trail - la transju'trail 72 km"
+                year="2015" dist="72"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.08.45.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.08.45.jpg"/>
+											</videos></fiche></d>

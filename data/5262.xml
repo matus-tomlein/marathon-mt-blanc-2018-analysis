@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5262"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5262" c="23km"  >
+						<identite nom="BUSNEL"
+			  prenom="Sophie"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club="SALEVE TRAIL"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SEVRIER" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1" code="np" />			<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="114" cltsx="5" tps="03:55:46"
+                race="trail semnoz tour - 26 km"
+                year="2017" dist="29"/>
+                                <e
+                pos="52" cltsx="22" tps="02:42:35"
+                race="marathon du mont-blanc - duo étoilé"
+                year="2017" dist="16"/>
+                                <e
+                pos="254" cltsx="23" tps="03:16:52"
+                race="foulées de gruffy - trail chéran semnoz"
+                year="2017" dist="24"/>
+                                <e
+                pos="243" cltsx="25" tps="03:34:34"
+                race="ergysport trail du ventoux - 26 km"
+                year="2017" dist="26"/>
+                                <e
+                pos="113" cltsx="15" tps="03:26:37"
+                race="trail semnoz tour - 26 km"
+                year="2016" dist="25"/>
+                                <e
+                pos="354" cltsx="23" tps="03:11:16"
+                race="le belier - 27 km"
+                year="2016" dist="27"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

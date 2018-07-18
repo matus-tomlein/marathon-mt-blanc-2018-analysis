@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3341"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3341" c="90km"  >
+						<identite nom="ZULIANI"
+			  prenom="Joseph"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="Italie"
+				  cio="ITA" a2="IT" a3="ITA" 			  			  				  				  ville="74700 - SALLANCHES" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="299" code="f" clt="299"  cltcat="101" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:10:34" ja="5" tps="02:10:24" tn="2.1733333333333" tnp="2.1733333333333" clt="247" ></e><e idpt="4" ha="07:08:46" ja="5" tps="03:08:36" tn="3.1433333333333" tnp="0.97" clt="213" ></e><e idpt="6" ha="07:47:51" ja="5" tps="03:47:41" tn="3.7947222222222" tnp="0.65138888888889" clt="210" ></e><e idpt="8" ha="08:38:07" ja="5" tps="04:37:57" tn="4.6325" tnp="0.83777777777778" clt="203" ></e><e idpt="10" ha="10:04:55" ja="5" tps="06:04:45" tn="6.0791666666667" tnp="1.3225" clt="211" ></e><e idpt="12" ha="10:38:02" ja="5" tps="06:37:52" tn="6.6311111111111" tnp="0.55194444444444" clt="214" ></e><e idpt="14" ha="12:29:17" ja="5" tps="08:29:07" tn="8.4852777777778" tnp="1.8541666666667" clt="282" ></e><e idpt="16" ha="13:42:36" ja="5" tps="09:42:26" tn="9.7072222222222" tnp="1.2219444444444" clt="288" ></e><e idpt="18" ha="15:24:14" ja="5" tps="11:24:04" tn="11.401111111111" tnp="1.6938888888889" clt="287" ></e><e idpt="20" ha="16:14:24" ja="5" tps="12:14:14" tn="12.237222222222" tnp="0.83611111111111" clt="321" ></e><e idpt="22" ha="17:06:21" ja="5" tps="13:06:11" tn="13.103055555556" tnp="0.86583333333333" clt="318" ></e><e idpt="24" ha="19:15:20" ja="5" tps="15:15:10" tn="15.252777777778" tnp="1.8719444444444" clt="346" ></e><e idpt="26" ha="20:48:32" ja="5" tps="16:48:22" tn="16.806111111111" tnp="1.5533333333333" clt="325" ></e><e idpt="28" ha="22:14:04" ja="5" tps="18:13:54" tn="18.231666666667" tnp="1.4255555555556" clt="318" ></e><e idpt="31" ha="23:28:51" ja="5" tps="19:28:41" tn="19.478055555556" tnp="1.2463888888889" clt="299" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="31" tps="09:12:35"
+                race="trail du gypaète - la gypaète"
+                year="2018" dist="54"/>
+                                <e
+                pos="77" tps="06:02:13"
+                race="ultra tour du môle - ultra tour du môle"
+                year="2018" dist="36"/>
+                                <e
+                pos="75" tps="06:45:47"
+                race="trail nivolet-revard - trail nivolet-revard"
+                year="2018" dist="50"/>
+                                <e
+                pos="52" tps="02:45:07"
+                race="foulées de gruffy - trail chéran semnoz"
+                year="2018" dist="24"/>
+                                <e
+                pos="39" tps="08:30:33"
+                race="les défis du jubilé - grand parcours"
+                year="2017" dist="62"/>
+                                <e
+                pos="134" tps="12:19:09"
+                race="trail du tour des fiz - 8 refuges"
+                year="2017" dist="60"/>
+                                <e
+                pos="92" tps="03:22:38"
+                race="trail faverges seythenex - trail des sources du lac"
+                year="2017" dist="29"/>
+                                <e
+                pos="336" tps="03:42:51"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="737" tps="07:03:16"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="103" tps="04:53:11"
+                race="samoëns trail tour - tour du giffre"
+                year="2015" dist="31"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.28.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.28.25.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3409"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3409" c="90km"  >
+						<identite nom="NIESS"
+			  prenom="Damien"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="LANDAU RUNNING COMPANY"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="HERMERSWILLER" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="484" code="f" clt="484"  cltcat="47" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:44:34" ja="5" tps="02:44:24" tn="2.74" tnp="2.74" clt="812" ></e><e idpt="4" ha="08:01:01" ja="5" tps="04:00:51" tn="4.0141666666667" tnp="1.2741666666667" clt="810" ></e><e idpt="6" ha="08:44:28" ja="5" tps="04:44:18" tn="4.7383333333333" tnp="0.72416666666667" clt="742" ></e><e idpt="8" ha="09:43:10" ja="5" tps="05:43:00" tn="5.7166666666667" tnp="0.97833333333333" clt="696" ></e><e idpt="10" ha="11:18:43" ja="5" tps="07:18:33" tn="7.3091666666667" tnp="1.4338888888889" clt="635" ></e><e idpt="12" ha="11:55:26" ja="5" tps="07:55:16" tn="7.9211111111111" tnp="0.61194444444444" clt="630" ></e><e idpt="14" ha="13:56:20" ja="5" tps="09:56:10" tn="9.9361111111111" tnp="1.845" clt="650" ></e><e idpt="16" ha="15:16:22" ja="5" tps="11:16:12" tn="11.27" tnp="1.3338888888889" clt="614" ></e><e idpt="18" ha="17:16:25" ja="5" tps="13:16:15" tn="13.270833333333" tnp="2.0008333333333" clt="610" ></e><e idpt="20" ha="18:04:56" ja="5" tps="14:04:46" tn="14.079444444444" tnp="0.80861111111111" clt="628" ></e><e idpt="22" ha="18:52:41" ja="5" tps="14:52:31" tn="14.875277777778" tnp="0.79583333333333" clt="605" ></e><e idpt="24" ha="20:47:47" ja="5" tps="16:47:37" tn="16.793611111111" tnp="1.9183333333333" clt="541" ></e><e idpt="26" ha="22:29:07" ja="5" tps="18:28:57" tn="18.4825" tnp="1.6866666666667" clt="516" ></e><e idpt="28" ha="00:21:14" ja="6" tps="20:21:04" tn="20.351111111111" tnp="1.8686111111111" clt="530" ></e><e idpt="31" ha="01:37:21" ja="6" tps="21:37:11" tn="21.619722222222" tnp="1.2686111111111" clt="484" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="146" tps="07:51:40"
+                race="trail des marcaires - trail des marcaires"
+                year="2018" dist="53"/>
+                                <e
+                pos="56" tps="07:21:46"
+                race="trail du wurzel - trail du wurzel"
+                year="2018" dist="52"/>
+                                <e
+                pos="60" tps="04:49:33"
+                race="les vosgirunners trails nature - grand défi des vosges"
+                year="2018" dist="43"/>
+                                <e
+                pos="32" tps="16:14:43"
+                race="ultra trail haut-koenigsbourg ® - uthk 108 km"
+                year="2017" dist="109"/>
+                                <e
+                pos="71" tps="00:59:13"
+                race="teufelstisch trail - teufelstisch trail"
+                year="2017" dist="11"/>
+                                <e
+                pos="190" tps="07:48:38"
+                race="trail des marcaires - trail des marcaires"
+                year="2017" dist="54"/>
+                                <e
+                pos="50" tps="04:45:04"
+                race="les vosgirunners trails nature - grand défi des vosges"
+                year="2017" dist="44"/>
+                                <e
+                pos="217" tps="08:28:07"
+                race="belforttrail - belfortrail"
+                year="2016" dist="55"/>
+                                <e
+                pos="64" tps="06:09:38"
+                race="ultra trail du haut-koenigsbourg - thk 54 km"
+                year="2016" dist="52"/>
+                                <e
+                pos="171" tps="04:33:06"
+                race="trail des marcaires - defi de muhlbach"
+                year="2016" dist="30"/>
+                                <e
+                pos="159" tps="02:46:37"
+                race="les vosgirunners trails nature - la mac vi"
+                year="2016" dist="25"/>
+                                <e
+                pos="732" tps="02:55:30"
+                race="trail du petit ballon - 25 km - grands crus"
+                year="2016" dist="27"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-01.36.55.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-01.36.55.jpg"/>
+											</videos></fiche></d>

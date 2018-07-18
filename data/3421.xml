@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3421"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3421" c="90km"  >
+						<identite nom="MAILLOCHEAU"
+			  prenom="Vincent"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="Courir à Seyssins Seyssinet"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SEYSSINET" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="159" code="f" clt="159"  cltcat="11" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:01:06" ja="5" tps="02:00:56" tn="2.0155555555556" tnp="2.0155555555556" clt="164" ></e><e idpt="4" ha="07:00:33" ja="5" tps="03:00:23" tn="3.0063888888889" tnp="0.99083333333333" clt="160" ></e><e idpt="6" ha="07:37:35" ja="5" tps="03:37:25" tn="3.6236111111111" tnp="0.61722222222222" clt="153" ></e><e idpt="8" ha="08:27:28" ja="5" tps="04:27:18" tn="4.455" tnp="0.83138888888889" clt="156" ></e><e idpt="10" ha="09:47:48" ja="5" tps="05:47:38" tn="5.7938888888889" tnp="1.2033333333333" clt="154" ></e><e idpt="12" ha="10:20:23" ja="5" tps="06:20:13" tn="6.3369444444444" tnp="0.54305555555556" clt="156" ></e><e idpt="14" ha="11:46:03" ja="5" tps="07:45:53" tn="7.7647222222222" tnp="1.4277777777778" clt="157" ></e><e idpt="16" ha="12:47:49" ja="5" tps="08:47:39" tn="8.7941666666667" tnp="1.0294444444444" clt="148" ></e><e idpt="18" ha="14:16:57" ja="5" tps="10:16:47" tn="10.279722222222" tnp="1.4855555555556" clt="141" ></e><e idpt="20" ha="14:50:24" ja="5" tps="10:50:14" tn="10.837222222222" tnp="0.5575" clt="141" ></e><e idpt="22" ha="15:35:14" ja="5" tps="11:35:04" tn="11.584444444444" tnp="0.74722222222222" clt="147" ></e><e idpt="24" ha="17:09:49" ja="5" tps="13:09:39" tn="13.160833333333" tnp="1.3991666666667" clt="140" ></e><e idpt="26" ha="18:49:28" ja="5" tps="14:49:18" tn="14.821666666667" tnp="1.5186111111111" clt="142" ></e><e idpt="28" ha="20:11:23" ja="5" tps="16:11:13" tn="16.186944444444" tnp="1.3652777777778" clt="150" ></e><e idpt="31" ha="21:30:19" ja="5" tps="17:30:09" tn="17.5025" tnp="1.3025" clt="159" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="59" tps="05:48:44"
+                race="ultra tour du môle - ultra tour du môle"
+                year="2018" dist="36"/>
+                                <e
+                pos="12" tps="16:46:32"
+                race="grand trail stevenson - gts 143 km"
+                year="2018" dist="142"/>
+                                <e
+                pos="70" tps="06:16:44"
+                race="trail du cousson &quot;les routes du temps&quot; - 44 km"
+                year="2017" dist="44"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.29.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.29.50.jpg"/>
+											</videos></fiche></d>

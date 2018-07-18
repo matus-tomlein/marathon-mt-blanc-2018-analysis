@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5455"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5455" c="23km"  >
+						<identite nom="LALOY"
+			  prenom="Philippe"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="ACTE THUIN ERQUELINNES"			  			  
+			  				  nat="Belgique"
+				  cio="BEL" a2="BE" a3="BEL" 			  			  				  				  ville="JEUMONT" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="423" code="f" clt="423"  cltcat="208" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:33:12" ja="6" tps="00:32:43" tn="0.54527777777778" tnp="0.54527777777778" clt="342" ></e><e idpt="36" ha="09:24:36" ja="6" tps="01:24:07" tn="1.4019444444444" tnp="0.85666666666667" clt="406" ></e><e idpt="46" ha="10:54:54" ja="6" tps="02:54:25" tn="2.9069444444444" tnp="1.505" clt="417" ></e><e idpt="52" ha="11:59:48" ja="6" tps="03:59:19" tn="3.9886111111111" tnp="1.0816666666667" clt="426" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="152" tps="04:58:21"
+                race="ohm trail - ohm trail original"
+                year="2018" dist="36"/>
+                                <e
+                pos="222" tps="08:53:38"
+                race="trail des marcaires - trail des marcaires"
+                year="2018" dist="53"/>
+                                <e
+                pos="21" tps="11:36:51"
+                race="le radicatrail - le grand défi"
+                year="2018" dist="91"/>
+                                <e
+                pos="441" tps="03:09:32"
+                race="trail du petit ballon - 27 km - grands crus"
+                year="2018" dist="27"/>
+                                <e
+                pos="4149" tps="11:37:56"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="240" tps="03:12:27"
+                race="trail des aiguilles rouges - p'tit tar"
+                year="2017" dist="16"/>
+                                <e
+                pos="185" tps="20:05:01"
+                race="ardennes mega trail - ardennes mega trail"
+                year="2017" dist="95"/>
+                                <e
+                pos="200" tps="05:14:50"
+                race="ohm trail - ohm trail original"
+                year="2017" dist="35"/>
+                                <e
+                pos="94" tps="03:12:44"
+                race="15km de charleroi - 30km trail"
+                year="2017" dist="30"/>
+                                <e
+                pos="392" tps="07:54:38"
+                race="la bouillonnante - la bouillonnante 50"
+                year="2017" dist="50"/>
+                                <e
+                pos="164" tps="09:27:06"
+                race="trail de la primavera - 65k"
+                year="2017" dist="67"/>
+                                <e
+                pos="4367" tps="11:49:56"
+                race="la saintélyon - la saintélyon"
+                year="2016" dist="72"/>
+                                <e
+                pos="313" tps="07:42:55"
+                race="sparnatrail - sparnatrail"
+                year="2016" dist="56"/>
+                                <e
+                pos="322" tps="08:07:57"
+                race="trail côte d'opale - 62 km"
+                year="2016" dist="64"/>
+                                <e
+                pos="268" tps="08:21:35"
+                race="trail des trappistes - 55 km"
+                year="2016" dist="57"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-11.59.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-11.59.25.jpg"/>
+											</videos></fiche></d>

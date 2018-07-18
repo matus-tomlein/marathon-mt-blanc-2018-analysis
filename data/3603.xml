@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3603"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3603" c="90km"  >
+						<identite nom="DUCRUEZ"
+			  prenom="Pascal"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="JARRIENNE DES CIMES"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="VILLARGONDRAN" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="317" code="f" clt="317"  cltcat="28" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:28:56" ja="5" tps="02:28:46" tn="2.4794444444444" tnp="2.4794444444444" clt="531" ></e><e idpt="4" ha="07:37:15" ja="5" tps="03:37:05" tn="3.6180555555556" tnp="1.1386111111111" clt="477" ></e><e idpt="6" ha="08:21:12" ja="5" tps="04:21:02" tn="4.3505555555556" tnp="0.7325" clt="478" ></e><e idpt="8" ha="09:20:19" ja="5" tps="05:20:09" tn="5.3358333333333" tnp="0.98527777777778" clt="485" ></e><e idpt="10" ha="11:02:23" ja="5" tps="07:02:13" tn="7.0369444444444" tnp="1.5336111111111" clt="526" ></e><e idpt="12" ha="11:37:31" ja="5" tps="07:37:21" tn="7.6225" tnp="0.58555555555556" clt="495" ></e><e idpt="14" ha="13:17:13" ja="5" tps="09:17:03" tn="9.2841666666667" tnp="1.6616666666667" clt="467" ></e><e idpt="16" ha="14:22:55" ja="5" tps="10:22:45" tn="10.379166666667" tnp="1.095" clt="404" ></e><e idpt="18" ha="16:00:02" ja="5" tps="11:59:52" tn="11.997777777778" tnp="1.6186111111111" clt="369" ></e><e idpt="20" ha="16:35:55" ja="5" tps="12:35:45" tn="12.595833333333" tnp="0.59805555555556" clt="366" ></e><e idpt="22" ha="17:22:48" ja="5" tps="13:22:38" tn="13.377222222222" tnp="0.78138888888889" clt="356" ></e><e idpt="24" ha="19:05:58" ja="5" tps="15:05:48" tn="15.096666666667" tnp="1.4833333333333" clt="318" ></e><e idpt="26" ha="20:50:04" ja="5" tps="16:49:54" tn="16.831666666667" tnp="1.7313888888889" clt="327" ></e><e idpt="28" ha="22:17:22" ja="5" tps="18:17:12" tn="18.286666666667" tnp="1.455" clt="324" ></e><e idpt="31" ha="23:39:29" ja="5" tps="19:39:19" tn="19.655277777778" tnp="1.3686111111111" clt="317" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="105" tps="03:22:57"
+                race="grand raid 73 - allibert trekking - petit savoyard "
+                year="2018" dist="24"/>
+                                <e
+                pos="1446" tps="09:32:39"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="581" tps="10:41:22"
+                race="la 6000d la course des géants - la 6000d"
+                year="2017" dist="66"/>
+                                <e
+                pos="100" tps="07:55:04"
+                race="craft aravistrail 2017 - 44 km"
+                year="2017" dist="44"/>
+                                <e
+                pos="225" tps="07:42:21"
+                race="trail nivolet-revard - trail nivolet-revard"
+                year="2017" dist="49"/>
+                                <e
+                pos="407" tps="01:12:40"
+                race="lyon urban trail by night - 13 km"
+                year="2016" dist="13"/>
+                                <e
+                pos="73" tps="12:04:11"
+                race="la montagn'hard - la montagn'hard 60"
+                year="2016" dist="61"/>
+                                <e
+                pos="226" tps="07:25:23"
+                race="trail nivolet revard - trail nivolet-revard"
+                year="2016" dist="45"/>
+                                <e
+                pos="920" tps="41:52:46"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="103" tps="13:08:53"
+                race="le grand raid 73 - le grand raid 73"
+                year="2015" dist="72"/>
+                                <e
+                pos="220" tps="07:42:31"
+                race="trail nivolet revard - trail nivolet-revard"
+                year="2015" dist="48"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.39.00.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.39.00.jpg"/>
+											</videos></fiche></d>

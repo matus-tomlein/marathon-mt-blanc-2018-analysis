@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="258"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="258" c="42km"  >
+						<identite nom="JACQUIN"
+			  prenom="Denis"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="team intersport vesoul"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="DENEVRE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="209" code="f" clt="209"  cltcat="10" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:51:05" ja="7" tps="00:51:05" tn="0.85138888888889" tnp="0.85138888888889" clt="218" ></e><e idpt="36" ha="08:17:14" ja="7" tps="01:17:14" tn="1.2872222222222" tnp="0.43583333333333" clt="207" ></e><e idpt="38" ha="08:38:38" ja="7" tps="01:38:38" tn="1.6438888888889" tnp="0.35666666666667" clt="185" ></e><e idpt="40" ha="09:27:41" ja="7" tps="02:27:41" tn="2.4613888888889" tnp="0.8175" clt="163" ></e><e idpt="42" ha="10:21:28" ja="7" tps="03:21:28" tn="3.3577777777778" tnp="0.89638888888889" clt="169" ></e><e idpt="44" ha="10:35:39" ja="7" tps="03:35:39" tn="3.5941666666667" tnp="0.23638888888889" clt="163" ></e><e idpt="46" ha="12:07:11" ja="7" tps="05:07:11" tn="5.1197222222222" tnp="1.5255555555556" clt="190" ></e><e idpt="51" ha="13:07:39" ja="7" tps="06:07:39" tn="6.1275" tnp="1.0077777777778" clt="209" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="53" tps="05:05:43"
+                race="trail des reculees - les laves 46 km"
+                year="2018" dist="46"/>
+                                <e
+                pos="354" tps="03:57:05"
+                race="sierre-zinal - sierre-zinal"
+                year="2017" dist="30"/>
+                                <e
+                pos="239" tps="09:24:45"
+                race="la 6000d la course des géants - la 6000d"
+                year="2017" dist="66"/>
+                                <e
+                pos="95" tps="00:49:42"
+                race="marathon du mont-blanc - km vertical"
+                year="2017" dist="4"/>
+                                <e
+                pos="57" tps="04:27:23"
+                race="la transju'trail - 36 km"
+                year="2017" dist="36"/>
+                                <e
+                pos="31" tps="02:31:26"
+                race="trail des forts de besançon - 28 km"
+                year="2017" dist="27"/>
+                                <e
+                pos="145" tps="05:32:53"
+                race="ergysport trail du ventoux - 46 km"
+                year="2017" dist="46"/>
+                                <e
+                pos="17" tps="03:09:19"
+                race="l'infernal trail des vosges - 30 km"
+                year="2016" dist="33"/>
+                                <e
+                pos="51" tps="05:26:36"
+                race="trail des forts de besançon - 47 km"
+                year="2016" dist="48"/>
+                                <e
+                pos="26" tps="05:20:54"
+                race="trail des balcons d'azur - tba"
+                year="2016" dist="46"/>
+                                <e
+                pos="141" tps="07:57:17"
+                race="belforttrail - belfortrail ( solo )"
+                year="2015" dist="55"/>
+                                <e
+                pos="41" tps="05:26:31"
+                race="trail du mont d'or - 44 km"
+                year="2015" dist="44"/>
+                                <e
+                pos="584" tps="15:04:52"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2015" dist="83"/>
+                                <e
+                pos="63" tps="05:14:24"
+                race="trail des forts de besançon - 47 km"
+                year="2015" dist="48"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.07.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.07.10.jpg"/>
+											</videos></fiche></d>

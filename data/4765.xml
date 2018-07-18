@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4765"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4765" c="KmV"  >
+						<identite nom="BUCAMP"
+			  prenom="Sebastien"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="UGLOW AMBASSADOR"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="TALLOIRES MONTMIN" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="54" code="f" clt="54"  cltcat="13" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:56:01" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="18:18:01" ja="5" tps="00:22:00" tn="0.36666666666667" tnp="0.36666666666667" clt="58" ></e><e idpt="52" ha="18:42:43" ja="5" tps="00:46:42" tn="0.77833333333333" tnp="0.41166666666667" clt="54" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="88" tps="04:41:00"
+                race="le trail des hobbits - la mara-comtoise"
+                year="2018" dist="44"/>
+                                <e
+                pos="1012" tps="20:13:46"
+                race="salomon gore-tex maxi-race - maxi-race"
+                year="2018" dist="85"/>
+                                <e
+                pos="144" tps="04:32:29"
+                race="la saintélyon - la saintéxpress"
+                year="2017" dist="45"/>
+                                <e
+                pos="1360" tps="02:01:46"
+                race="marathon du mont-blanc - 10 km du mont-blanc"
+                year="2017" dist="10"/>
+                                <e
+                pos="498" tps="03:58:13"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="141" tps="00:53:24"
+                race="marathon du mont-blanc - km vertical"
+                year="2017" dist="4"/>
+                                <e
+                pos="43" tps="01:34:32"
+                race="la saintélyon - la saintésprint"
+                year="2016" dist="22"/>
+                                <e
+                pos="608" tps="11:09:45"
+                race="UTMB® - occ"
+                year="2016" dist="55"/>
+                                <e
+                pos="1121" tps="12:31:07"
+                race="la 6000d la course des géants - la 6000d"
+                year="2016" dist="66"/>
+                                <e
+                pos="417" tps="16:12:04"
+                race="trail verbier st bernard - traversée"
+                year="2016" dist="62"/>
+                                <e
+                pos="527" tps="06:40:05"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="113" tps="13:43:34"
+                race="interlac trail - l'intégrale 80 km"
+                year="2016" dist="75"/>
+                                <e
+                pos="329" tps="07:07:52"
+                race="trail des forts de besançon - 47 km"
+                year="2016" dist="48"/>
+                                <e
+                pos="259" tps="06:03:54"
+                race="ergysport trail du ventoux - 46 km"
+                year="2016" dist="45"/>
+                                <e
+                pos="175" tps="04:33:05"
+                race="la saintélyon - la saintéxpress"
+                year="2015" dist="44"/>
+                                <e
+                pos="753" tps="40:30:33"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="230" tps="05:51:44"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2015" dist="42"/>
+                                <e
+                pos="67" tps="12:17:01"
+                race="maxi-race du lac d'annecy - compressport xl-race"
+                year="2015" dist="84"/>
+                                <e
+                pos="17" tps="04:50:31"
+                race="beaujolais villages trail - marathon bvt"
+                year="2015" dist="46"/>
+                                <e
+                pos="80" tps="12:00:10"
+                race="trail de vulcain - trail de vulcain 82km"
+                year="2015" dist="82"/>
+                                <e
+                pos="82" tps="01:49:01"
+                race="le trail givre de montanay - trail givre  montanay"
+                year="2015" dist="23"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.42.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.42.20.jpg"/>
+											</videos></fiche></d>

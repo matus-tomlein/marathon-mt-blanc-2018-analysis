@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4756"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4756" c="KmV"  >
+						<identite nom="LAGARDE"
+			  prenom="Bruno"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="ASPTT Nice Athlétisme"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="VENCE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="131" code="f" clt="131"  cltcat="7" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:53:46" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="18:18:10" ja="5" tps="00:24:24" tn="0.40666666666667" tnp="0.40666666666667" clt="129" ></e><e idpt="52" ha="18:46:19" ja="5" tps="00:52:33" tn="0.87583333333333" tnp="0.46916666666667" clt="131" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="42" tps="08:04:27"
+                race="trail des hauts forts - 51km"
+                year="2017" dist="51"/>
+                                <e
+                pos="253" tps="03:31:51"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="189" tps="00:55:48"
+                race="marathon du mont-blanc - km vertical"
+                year="2017" dist="4"/>
+                                <e
+                pos="435" tps="43:35:18"
+                race="le grand raid de la réunion - le grand raid de la réunion"
+                year="2016" dist="168"/>
+                                <e
+                pos="219" tps="24:52:43"
+                race="UTMB® - TDS®"
+                year="2016" dist="119"/>
+                                <e
+                pos="187" tps="05:45:16"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="72" tps="01:57:42"
+                race="trail drome - 20 km"
+                year="2016" dist="22"/>
+                                <e
+                pos="181" tps="04:11:35"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - championnats de france de trail court"
+                year="2015" dist="33"/>
+                                <e
+                pos="427" tps="37:22:39"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="167" tps="03:06:36"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2015" dist="23"/>
+                                <e
+                pos="162" tps="12:41:17"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2015" dist="83"/>
+                                <e
+                pos="34" tps="05:26:57"
+                race="trail des balcons d'azur - tba"
+                year="2015" dist="46"/>
+                                <e
+                pos="159" tps="24:41:18"
+                race="the north face transgrancanaria - trans gc"
+                year="2015" dist="130"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.45.55.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.45.55.jpg"/>
+											</videos></fiche></d>

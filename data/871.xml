@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="871"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="871" c="42km"  >
+						<identite nom="POIRETTE"
+			  prenom="Marc"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ILLANGE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1482" code="f" clt="1482"  cltcat="385" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:20:46" ja="7" tps="01:20:46" tn="1.3461111111111" tnp="1.3461111111111" clt="2119" ></e><e idpt="36" ha="08:58:51" ja="7" tps="01:58:51" tn="1.9808333333333" tnp="0.61666666666667" clt="2033" ></e><e idpt="38" ha="09:33:04" ja="7" tps="02:33:04" tn="2.5511111111111" tnp="0.57027777777778" clt="1996" ></e><e idpt="40" ha="10:47:10" ja="7" tps="03:47:10" tn="3.7861111111111" tnp="1.235" clt="1767" ></e><e idpt="42" ha="12:11:03" ja="7" tps="05:11:03" tn="5.1841666666667" tnp="1.3980555555556" clt="1682" ></e><e idpt="44" ha="12:36:38" ja="7" tps="05:36:38" tn="5.6105555555556" tnp="0.40083333333333" clt="1675" ></e><e idpt="46" ha="14:34:43" ja="7" tps="07:34:43" tn="7.5786111111111" tnp="1.9680555555556" clt="1523" ></e><e idpt="51" ha="15:58:37" ja="7" tps="08:58:37" tn="8.9769444444444" tnp="1.3983333333333" clt="1482" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="341" tps="05:00:13"
+                race="trail des marcaires - defi de muhlbach"
+                year="2018" dist="32"/>
+                                <e
+                pos="96" tps="04:52:55"
+                race="leopard ultra-trail® du mullerthal luxembourg - trail"
+                year="2017" dist="38"/>
+                                <e
+                pos="557" tps="06:24:54"
+                race="trail des passerelles du monteynard - trail des passerelles 39 km"
+                year="2017" dist="40"/>
+                                <e
+                pos="146" tps="14:08:09"
+                race="salomon gore-tex maxi-race - xl-race"
+                year="2017" dist="83"/>
+                                <e
+                pos="46" tps="04:39:24"
+                race="leopard ultra-trail® du mullerthal luxembourg - trail"
+                year="2016" dist="37"/>
+                                <e
+                pos="127" tps="02:51:46"
+                race="mad'trail - crève tête"
+                year="2016" dist="19"/>
+                                <e
+                pos="153" tps="03:05:05"
+                race="trail du saint quentin - trail court 25 km"
+                year="2016" dist="26"/>
+                                <e
+                pos="193" tps="03:06:06"
+                race="trail des trappistes - 28 km"
+                year="2016" dist="29"/>
+                                <e
+                pos="283" tps="04:07:53"
+                race="trail hivernal de la moselotte - 28 km"
+                year="2016" dist="29"/>
+                                <e
+                pos="290" tps="02:38:17"
+                race="trail du haut-koenigsbourg - thk 25 km"
+                year="2015" dist="25"/>
+                                <e
+                pos="925" tps="04:16:46"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2015" dist="23"/>
+                                <e
+                pos="203" tps="02:17:32"
+                race="maxi-race du lac d'annecy - trail découverte"
+                year="2015" dist="14"/>
+                                <e
+                pos="1405" tps="03:13:54"
+                race="ecotrail® de paris ile-de-france - trail 30 km"
+                year="2015" dist="31"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.58.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.58.10.jpg"/>
+											</videos></fiche></d>

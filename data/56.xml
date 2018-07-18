@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="56"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="56" c="42km"  >
+						<identite nom="FERRATO"
+			  prenom="Amandine"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club="HOKA / LE PRADET"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="MALATAVERNE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="61" code="f" clt="61"  cltcat="9" cltsex="9" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:44:33" ja="7" tps="00:44:33" tn="0.7425" tnp="0.7425" clt="84" ></e><e idpt="36" ha="08:07:58" ja="7" tps="01:07:58" tn="1.1327777777778" tnp="0.39027777777778" clt="84" ></e><e idpt="38" ha="08:26:57" ja="7" tps="01:26:57" tn="1.4491666666667" tnp="0.31638888888889" clt="83" ></e><e idpt="40" ha="09:10:42" ja="7" tps="02:10:42" tn="2.1783333333333" tnp="0.72916666666667" clt="81" ></e><e idpt="42" ha="09:56:31" ja="7" tps="02:56:31" tn="2.9419444444444" tnp="0.76361111111111" clt="71" ></e><e idpt="44" ha="10:08:29" ja="7" tps="03:08:29" tn="3.1413888888889" tnp="0.19944444444444" clt="72" ></e><e idpt="46" ha="11:19:03" ja="7" tps="04:19:03" tn="4.3175" tnp="1.1761111111111" clt="67" ></e><e idpt="51" ha="12:03:24" ja="7" tps="05:03:24" tn="5.0566666666667" tnp="0.73916666666667" clt="62" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="3" cltsx="1" tps="02:42:32"
+                race="runlagnes - runlagnes"
+                year="2018" dist="31"/>
+                                <e
+                pos="89" cltsx="14" tps="10:50:05"
+                race="penyagolosa trails hg - iautwc"
+                year="2018" dist="85"/>
+                                <e
+                pos="9" cltsx="1" tps="08:56:36"
+                race="grand raid de la réunion - la mascareignes"
+                year="2017" dist="65"/>
+                                <e
+                pos="57" cltsx="3" tps="06:29:50"
+                race="UTMB® - occ"
+                year="2017" dist="55"/>
+                                <e
+                pos="82" cltsx="3" tps="03:09:43"
+                race="sierre-zinal - sierre-zinal"
+                year="2017" dist="30"/>
+                                <e
+                pos="36" cltsx="2" tps="05:00:47"
+                race="trail sacred forests - iautwc-trail world championships"
+                year="2017" dist="49"/>
+                                <e
+                pos="7" cltsx="1" tps="05:27:13"
+                race="ardéchois trail - 57 km"
+                year="2017" dist="55"/>
+                                <e
+                pos="13" cltsx="1" tps="02:44:46"
+                race="signes trail - les sentiers d'ugolin"
+                year="2017" dist="26"/>
+                                <e
+                pos="38" cltsx="3" tps="04:39:33"
+                race="ergysport trail du ventoux - 46 km"
+                year="2017" dist="46"/>
+                                <e
+                pos="9" cltsx="1" tps="06:11:14"
+                race="trail gapen'cimes - trail edelweiss"
+                year="2016" dist="56"/>
+                                <e
+                pos="40" cltsx="2" tps="03:05:58"
+                race="ultra-trail® côte d'azur mercantour - trail de la vésubie court - champ. france"
+                year="2016" dist="30"/>
+                                <e
+                pos="17" cltsx="1" tps="04:31:06"
+                race="ubaye trail salomon - ubaye trail salomon"
+                year="2016" dist="41"/>
+                                <e
+                pos="51" cltsx="2" tps="04:57:07"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="6" cltsx="1" tps="01:57:45"
+                race="trail des maures - balcon des maures 21k"
+                year="2016" dist="21"/>
+                                <e
+                pos="4" cltsx="1" tps="04:02:39"
+                race="madeira island ultra trail - marathon"
+                year="2016" dist="43"/>
+                                <e
+                pos="24" cltsx="2" tps="03:51:34"
+                race="festival des templiers - marathon des causses"
+                year="2015" dist="37"/>
+                                <e
+                pos="85" cltsx="10" tps="03:36:54"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - championnats de france de trail court"
+                year="2015" dist="33"/>
+                                <e
+                pos="12" cltsx="1" tps="04:13:39"
+                race="ultra trail di corsica - tavignanu trail"
+                year="2015" dist="34"/>
+                                <e
+                pos="69" cltsx="5" tps="05:05:57"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2015" dist="42"/>
+                                <e
+                pos="57" cltsx="3" tps="01:52:05"
+                race="trail drome lafuma - court"
+                year="2015" dist="22"/>
+                                <e
+                pos="31" cltsx="3" tps="02:30:54"
+                race="ergysport trail du ventoux - 26 km"
+                year="2015" dist="26"/>
+                                <e
+                pos="12" cltsx="1" tps="02:06:27"
+                race="trail de la galinette - la brèche du mont julien"
+                year="2015" dist="23"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.02.55.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.02.55.jpg"/>
+											</videos></fiche></d>

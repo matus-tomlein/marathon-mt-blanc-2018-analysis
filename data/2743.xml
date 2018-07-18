@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="2743"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="2743" c="42km"  >
+						<identite nom="VIENNET"
+			  prenom="Jean Michel"			  cat="V3 H"
+			  sx="H"
+			  descat="60-69"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="HAUTEROCHE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1735" code="f" clt="1735"  cltcat="21" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:15:34" ja="7" tps="01:15:34" tn="1.2594444444444" tnp="1.2594444444444" clt="1823" ></e><e idpt="36" ha="08:53:03" ja="7" tps="01:53:03" tn="1.8841666666667" tnp="0.62472222222222" clt="1767" ></e><e idpt="38" ha="09:23:48" ja="7" tps="02:23:48" tn="2.3966666666667" tnp="0.5125" clt="1669" ></e><e idpt="40" ha="10:33:23" ja="7" tps="03:33:23" tn="3.5563888888889" tnp="1.1597222222222" clt="1468" ></e><e idpt="42" ha="11:51:04" ja="7" tps="04:51:04" tn="4.8511111111111" tnp="1.2947222222222" clt="1377" ></e><e idpt="44" ha="12:11:13" ja="7" tps="05:11:13" tn="5.1869444444444" tnp="0.33583333333333" clt="1271" ></e><e idpt="46" ha="14:45:57" ja="7" tps="07:45:57" tn="7.7658333333333" tnp="2.5788888888889" clt="1671" ></e><e idpt="51" ha="16:24:46" ja="7" tps="09:24:46" tn="9.4127777777778" tnp="1.6469444444444" clt="1735" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="99" tps="02:32:34"
+                race="trail des paccots - 17 km"
+                year="2018" dist="18"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.24.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.24.20.jpg"/>
+											</videos></fiche></d>

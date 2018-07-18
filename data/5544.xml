@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5544"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5544" c="23km"  >
+						<identite nom="ROUX"
+			  prenom="Gilles"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SAINT BONNET DE MURE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="508" code="f" clt="508"  cltcat="42" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:36:57" ja="6" tps="00:36:28" tn="0.60777777777778" tnp="0.60777777777778" clt="695" ></e><e idpt="36" ha="09:31:37" ja="6" tps="01:31:08" tn="1.5188888888889" tnp="0.91111111111111" clt="659" ></e><e idpt="46" ha="11:04:53" ja="6" tps="03:04:24" tn="3.0733333333333" tnp="1.5544444444444" clt="563" ></e><e idpt="52" ha="12:07:23" ja="6" tps="04:06:54" tn="4.115" tnp="1.0416666666667" clt="512" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="658" tps="04:11:41"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="1084" tps="03:32:29"
+                race="lyon urban trail by night - 26 km"
+                year="2016" dist="26"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.07.00.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-12.07.00.jpg"/>
+											</videos></fiche></d>

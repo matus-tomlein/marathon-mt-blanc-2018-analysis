@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="1954"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="1954" c="42km"  >
+						<identite nom="CRESSENT"
+			  prenom="Justine"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="HAUDIVILLERS" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1742" code="f" clt="1742"  cltcat="171" cltsex="309" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:20:16" ja="7" tps="01:20:16" tn="1.3377777777778" tnp="1.3377777777778" clt="2092" ></e><e idpt="36" ha="09:00:14" ja="7" tps="02:00:14" tn="2.0038888888889" tnp="0.66611111111111" clt="2070" ></e><e idpt="38" ha="09:35:03" ja="7" tps="02:35:03" tn="2.5841666666667" tnp="0.58027777777778" clt="2052" ></e><e idpt="40" ha="10:58:28" ja="7" tps="03:58:28" tn="3.9744444444444" tnp="1.3902777777778" clt="2005" ></e><e idpt="42" ha="12:22:58" ja="7" tps="05:22:58" tn="5.3827777777778" tnp="1.4083333333333" clt="1850" ></e><e idpt="44" ha="12:48:16" ja="7" tps="05:48:16" tn="5.8044444444444" tnp="0.39611111111111" clt="1823" ></e><e idpt="46" ha="14:58:24" ja="7" tps="07:58:24" tn="7.9733333333333" tnp="2.1688888888889" clt="1801" ></e><e idpt="51" ha="16:25:28" ja="7" tps="09:25:28" tn="9.4244444444444" tnp="1.4511111111111" clt="1742" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="1373" cltsx="262" tps="09:57:39"
+                race="salomon gore-tex maxi-race - marathon race"
+                year="2017" dist="41"/>
+                                <e
+                pos="462" cltsx="118" tps="08:18:06"
+                race="trail du tour des fiz - 5 refuges"
+                year="2016" dist="30"/>
+                                <e
+                pos="161" cltsx="25" tps="06:56:44"
+                race="interlac trail - marathon 40 km"
+                year="2015" dist="40"/>
+                                <e
+                pos="189" cltsx="189" tps="04:13:30"
+                race="la transju'trail - transju semi-marathon"
+                year="2015" dist="25"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.25.00.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.25.00.jpg"/>
+											</videos></fiche></d>

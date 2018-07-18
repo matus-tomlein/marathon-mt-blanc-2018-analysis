@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="51"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="51" c="42km"  >
+						<identite nom="NILSSON"
+			  prenom="Ida"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club="Salomon"			  			  
+			  				  nat="Suède"
+				  cio="SWE" a2="SE" a3="SWE" 			  			  				  				  ville="MÅNDALEN" pays="NO"
+			  			/>
+			<antecedents></antecedents>																								<state  test="31" code="f" clt="31"  cltcat="2" cltsex="2" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:43:08" ja="7" tps="00:43:08" tn="0.71888888888889" tnp="0.71888888888889" clt="63" ></e><e idpt="36" ha="08:05:48" ja="7" tps="01:05:48" tn="1.0966666666667" tnp="0.37777777777778" clt="62" ></e><e idpt="38" ha="08:24:45" ja="7" tps="01:24:45" tn="1.4125" tnp="0.31583333333333" clt="62" ></e><e idpt="40" ha="09:06:36" ja="7" tps="02:06:36" tn="2.11" tnp="0.6975" clt="63" ></e><e idpt="42" ha="09:50:13" ja="7" tps="02:50:13" tn="2.8369444444444" tnp="0.72694444444444" clt="58" ></e><e idpt="44" ha="10:01:04" ja="7" tps="03:01:04" tn="3.0177777777778" tnp="0.18083333333333" clt="54" ></e><e idpt="46" ha="11:01:33" ja="7" tps="04:01:33" tn="4.0258333333333" tnp="1.0080555555556" clt="37" ></e><e idpt="51" ha="11:39:37" ja="7" tps="04:39:37" tn="4.6602777777778" tnp="0.63444444444444" clt="32" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="51" cltsx="1" tps="04:38:38"
+                race="zegama-aizkorri mendi maratoia - zegama-aizkorri mendi maratoia"
+                year="2018" dist="40"/>
+                                <e
+                pos="25" cltsx="1" tps="08:40:43"
+                race="transvulcania ultramarathon la palma island - ultramarathon"
+                year="2018" dist="73"/>
+                                <e
+                pos="17" cltsx="1" tps="07:07:56"
+                race="the north face endurance challenge california - 50m"
+                year="2017" dist="81"/>
+                                <e
+                pos="18" cltsx="2" tps="07:33:56"
+                race="festival des templiers - grand trail des templiers"
+                year="2017" dist="76"/>
+                                <e
+                pos="8" cltsx="1" tps="06:51:26"
+                race="vasaloppet ultravasan - 90 km"
+                year="2017" dist="91"/>
+                                <e
+                pos="17" cltsx="1" tps="04:12:11"
+                race="fjällmaratonveckan Årefjällen - fjällmaraton 43k"
+                year="2017" dist="43"/>
+                                <e
+                pos="6" cltsx="1" tps="07:05:19"
+                race="swissalpine davos - k78"
+                year="2017" dist="78"/>
+                                <e
+                pos="39" cltsx="2" tps="04:49:03"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2017" dist="42"/>
+                                <e
+                pos="17" cltsx="1" tps="08:04:17"
+                race="transvulcania ultramarathon la palma island - ultramarathon"
+                year="2017" dist="74"/>
+                                <e
+                pos="5" cltsx="1" tps="06:05:02"
+                race="yading skyrunning festival - ultra kora"
+                year="2017" dist="50"/>
+                                <e
+                pos="7" cltsx="1" tps="01:19:45"
+                race="yading skyrunning festival - vertical"
+                year="2017" dist="7"/>
+                                <e
+                pos="4" cltsx="1" tps="04:30:14"
+                race="ultimate tsaigu  - xtx"
+                year="2017" dist="47"/>
+                                <e
+                pos="18" cltsx="1" tps="06:59:49"
+                race="the north face endurance challenge california - 50m"
+                year="2016" dist="82"/>
+                                <e
+                pos="19" cltsx="1" tps="04:27:29"
+                race="run the rut - run the rut 50k"
+                year="2016" dist="42"/>
+                                <e
+                pos="11" cltsx="1" tps="04:01:10"
+                race="fjällmaratonveckan Årefjällen - axa fjällmaraton 43k"
+                year="2016" dist="46"/>
+                                <e
+                pos="42" cltsx="4" tps="04:53:52"
+                race="buff® epic trail aigüestortes - 42 km"
+                year="2016" dist="40"/>
+                                <e
+                pos="148" cltsx="10" tps="02:49:36"
+                race="dolomites skyrace - dolomites skyrace"
+                year="2016" dist="22"/>
+                                <e
+                pos="39" cltsx="1" tps="04:46:18"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="24" cltsx="1" tps="08:14:18"
+                race="transvulcania ultramarathon la palma island - ultramarathon"
+                year="2016" dist="74"/>
+                                <e
+                pos="19" cltsx="2" tps="07:05:56"
+                race="vasaloppet ultravasan - 90 km"
+                year="2015" dist="91"/>
+                                <e
+                pos="21" cltsx="1" tps="04:15:45"
+                race="fjällmaratonveckan Årefjällen - axa fjällmaraton 43k"
+                year="2015" dist="46"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-11.39.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-11.39.10.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4668"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4668" c="KmV"  >
+						<identite nom="VANDEWALLE"
+			  prenom="Stephane"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Montbéliard Marathon"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="BUSSUREL" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="155" code="f" clt="155"  cltcat="36" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:31:45" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="17:56:15" ja="5" tps="00:24:30" tn="0.40833333333333" tnp="0.40833333333333" clt="136" ></e><e idpt="52" ha="18:25:38" ja="5" tps="00:53:53" tn="0.89805555555556" tnp="0.48972222222222" clt="155" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="429" tps="07:40:38"
+                race="trail des forts de besançon - 48 km"
+                year="2018" dist="47"/>
+                                <e
+                pos="256" tps="09:04:23"
+                race="belforttrail - belfortrail "
+                year="2017" dist="57"/>
+                                <e
+                pos="241" tps="08:39:08"
+                race="belforttrail - belfortrail"
+                year="2016" dist="55"/>
+                                <e
+                pos="82" tps="03:34:25"
+                race="l'infernal trail des vosges - 30 km"
+                year="2016" dist="33"/>
+                                <e
+                pos="51" tps="06:40:56"
+                race="trail faverges icebreaker - maratrail de la sambuy"
+                year="2016" dist="48"/>
+                                <e
+                pos="92" tps="07:22:59"
+                race="trail des maures - trail des maures long"
+                year="2016" dist="45"/>
+                                <e
+                pos="161" tps="02:51:41"
+                race="trail des forts de besançon - 28 km"
+                year="2016" dist="27"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.25.15.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.25.15.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3428"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3428" c="90km"  >
+						<identite nom="MACQUART"
+			  prenom="Grégory"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Team Papycoach"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="CARCASSONNE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="278" code="f" clt="278"  cltcat="93" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:22:47" ja="5" tps="02:22:37" tn="2.3769444444444" tnp="2.3769444444444" clt="417" ></e><e idpt="4" ha="07:38:28" ja="5" tps="03:38:18" tn="3.6383333333333" tnp="1.2613888888889" clt="500" ></e><e idpt="6" ha="08:21:20" ja="5" tps="04:21:10" tn="4.3527777777778" tnp="0.71444444444444" clt="481" ></e><e idpt="8" ha="09:18:48" ja="5" tps="05:18:38" tn="5.3105555555556" tnp="0.95777777777778" clt="468" ></e><e idpt="10" ha="10:53:57" ja="5" tps="06:53:47" tn="6.8963888888889" tnp="1.3483333333333" clt="465" ></e><e idpt="12" ha="11:27:41" ja="5" tps="07:27:31" tn="7.4586111111111" tnp="0.56222222222222" clt="454" ></e><e idpt="14" ha="13:02:07" ja="5" tps="09:01:57" tn="9.0325" tnp="1.5738888888889" clt="399" ></e><e idpt="16" ha="14:15:32" ja="5" tps="10:15:22" tn="10.256111111111" tnp="1.2236111111111" clt="372" ></e><e idpt="18" ha="15:53:05" ja="5" tps="11:52:55" tn="11.881944444444" tnp="1.6258333333333" clt="352" ></e><e idpt="20" ha="16:30:16" ja="5" tps="12:30:06" tn="12.501666666667" tnp="0.61972222222222" clt="350" ></e><e idpt="22" ha="17:16:38" ja="5" tps="13:16:28" tn="13.274444444444" tnp="0.77277777777778" clt="339" ></e><e idpt="24" ha="19:00:19" ja="5" tps="15:00:09" tn="15.0025" tnp="1.7280555555556" clt="309" ></e><e idpt="26" ha="20:38:10" ja="5" tps="16:38:00" tn="16.633333333333" tnp="1.6255555555556" clt="303" ></e><e idpt="28" ha="21:59:00" ja="5" tps="17:58:50" tn="17.980555555556" tnp="1.3472222222222" clt="286" ></e><e idpt="31" ha="23:18:39" ja="5" tps="19:18:29" tn="19.308055555556" tnp="1.3275" clt="278" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="93" tps="09:57:47"
+                race="aude trails cathares - course des seigneurs 54km"
+                year="2018" dist="52"/>
+                                <e
+                pos="140" tps="04:56:02"
+                race="argeles nature trail - argeles nature trail"
+                year="2018" dist="34"/>
+                                <e
+                pos="29" tps="03:10:23"
+                race="trail quillan - trail quillan 28km"
+                year="2018" dist="28"/>
+                                <e
+                pos="91" tps="05:21:51"
+                race="gruissan phoebus trail - gruissan phoebus trail"
+                year="2018" dist="50"/>
+                                <e
+                pos="151" tps="07:01:02"
+                race="marathon du montcalm - marathon du montcalm"
+                year="2017" dist="43"/>
+                                <e
+                pos="273" tps="13:42:22"
+                race="weekend trail du tour des glaciers de la vanoise - tgv 72k"
+                year="2017" dist="73"/>
+                                <e
+                pos="132" tps="10:30:42"
+                race="trail des citadelles - 70 km"
+                year="2017" dist="70"/>
+                                <e
+                pos="108" tps="05:22:12"
+                race="gruissan phoebus trail - 50k"
+                year="2017" dist="50"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.18.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.18.10.jpg"/>
+											</videos></fiche></d>

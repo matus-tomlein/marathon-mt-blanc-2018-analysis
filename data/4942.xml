@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4942"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4942" c="KmV"  >
+						<identite nom="DURAND"
+			  prenom="Régis"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="TEAM TRAIL ISOSTAR"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="POUILLY LES FEURS" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="20" code="f" clt="20"  cltcat="3" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="18:55:30" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="19:15:25" ja="5" tps="00:19:55" tn="0.33194444444444" tnp="0.33194444444444" clt="17" ></e><e idpt="52" ha="19:38:27" ja="5" tps="00:42:57" tn="0.71583333333333" tnp="0.38388888888889" clt="20" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="2" tps="05:37:41"
+                race="samoëns trail tour - tour du criou"
+                year="2018" dist="50"/>
+                                <e
+                pos="11" tps="01:41:09"
+                race="trail drome - 23 km"
+                year="2018" dist="23"/>
+                                <e
+                pos="25" tps="04:39:24"
+                race="ergysport trail du ventoux - 48 km"
+                year="2018" dist="48"/>
+                                <e
+                pos="5" tps="03:01:36"
+                race="transgrancanaria hg - maratón"
+                year="2018" dist="42"/>
+                                <e
+                pos="23" tps="06:15:37"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="20" tps="11:56:40"
+                race="UTMB® - CCC®"
+                year="2017" dist="100"/>
+                                <e
+                pos="1" tps="03:30:47"
+                race="trail du tour des fiz - 5 refuges"
+                year="2017" dist="29"/>
+                                <e
+                pos="5" tps="02:25:07"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2017" dist="23"/>
+                                <e
+                pos="8" tps="04:14:54"
+                race="salomon gore-tex maxi-race - marathon race"
+                year="2017" dist="41"/>
+                                <e
+                pos="2" tps="02:53:25"
+                race="ardéchois trail - 36 km"
+                year="2017" dist="36"/>
+                                <e
+                pos="22" tps="07:45:54"
+                race="festival des templiers - grand trail des templiers"
+                year="2016" dist="76"/>
+                                <e
+                pos="4" tps="03:17:31"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - trail du sancy 30 km"
+                year="2016" dist="32"/>
+                                <e
+                pos="10" tps="04:18:19"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="1" tps="02:01:41"
+                race="ecotrail® de paris ile-de-france - trail 30 km"
+                year="2016" dist="31"/>
+                                <e
+                pos="14" tps="07:34:20"
+                race="festival des templiers - grand trail des templiers"
+                year="2015" dist="75"/>
+                                <e
+                pos="13" tps="03:05:55"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - championnats de france de trail court"
+                year="2015" dist="33"/>
+                                <e
+                pos="1" tps="02:44:11"
+                race="edf cenis tour - 30 km"
+                year="2015" dist="30"/>
+                                <e
+                pos="13" tps="04:19:45"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2015" dist="42"/>
+                                <e
+                pos="1" tps="02:57:56"
+                race="trail ardechois - 36 km"
+                year="2015" dist="36"/>
+                                <e
+                pos="2" tps="01:57:27"
+                race="ecotrail® de paris ile-de-france - trail 30 km"
+                year="2015" dist="31"/>
+                                <e
+                pos="8" tps="01:31:09"
+                race="le trail givre de montanay - trail givre  montanay"
+                year="2015" dist="23"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-19.38.05.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-19.38.05.jpg"/>
+											</videos></fiche></d>

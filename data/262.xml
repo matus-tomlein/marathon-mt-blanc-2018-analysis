@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="262"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="262" c="42km"  >
+						<identite nom="SAELENS"
+			  prenom="Aurélien"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="TEAM ST YORRE"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="WICRES" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="239" code="f" clt="239"  cltcat="153" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:50:35" ja="7" tps="00:50:35" tn="0.84305555555556" tnp="0.84305555555556" clt="196" ></e><e idpt="36" ha="08:17:10" ja="7" tps="01:17:10" tn="1.2861111111111" tnp="0.44305555555556" clt="202" ></e><e idpt="38" ha="08:40:07" ja="7" tps="01:40:07" tn="1.6686111111111" tnp="0.3825" clt="217" ></e><e idpt="40" ha="09:31:13" ja="7" tps="02:31:13" tn="2.5202777777778" tnp="0.85166666666667" clt="210" ></e><e idpt="42" ha="10:29:04" ja="7" tps="03:29:04" tn="3.4844444444444" tnp="0.96416666666667" clt="229" ></e><e idpt="44" ha="10:45:20" ja="7" tps="03:45:20" tn="3.7555555555556" tnp="0.27111111111111" clt="225" ></e><e idpt="46" ha="12:12:37" ja="7" tps="05:12:37" tn="5.2102777777778" tnp="1.4547222222222" clt="224" ></e><e idpt="51" ha="13:14:11" ja="7" tps="06:14:11" tn="6.2363888888889" tnp="1.0261111111111" clt="239" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="39" tps="08:07:38"
+                race="nord trail monts de flandres - 80 km"
+                year="2018" dist="80"/>
+                                <e
+                pos="231" tps="06:08:45"
+                race="ergysport trail du ventoux - 48 km"
+                year="2018" dist="48"/>
+                                <e
+                pos="13" tps="03:16:02"
+                race="le trail des poilus  - l'offensive"
+                year="2018" dist="31"/>
+                                <e
+                pos="202" tps="09:54:28"
+                race="festival des templiers - grand trail des templiers"
+                year="2017" dist="76"/>
+                                <e
+                pos="50" tps="29:39:00"
+                race="ultra tour des 4 massifs - ut4m160 challenge"
+                year="2017" dist="176"/>
+                                <e
+                pos="68" tps="04:14:00"
+                race="transgrancanaria hg - maratón"
+                year="2017" dist="42"/>
+                                <e
+                pos="148" tps="15:33:33"
+                race="festival des templiers - endurance trail"
+                year="2016" dist="100"/>
+                                <e
+                pos="330" tps="06:10:44"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="70" tps="04:47:29"
+                race="maxi-race du lac d'annecy - marathon race"
+                year="2016" dist="38"/>
+                                <e
+                pos="841" tps="08:26:49"
+                race="la saintélyon - la saintélyon"
+                year="2015" dist="72"/>
+                                <e
+                pos="807" tps="23:20:14"
+                race="ultra-trail du mont-blanc® - CCC®"
+                year="2015" dist="101"/>
+                                <e
+                pos="526" tps="06:38:16"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2015" dist="42"/>
+                                <e
+                pos="964" tps="16:44:06"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2015" dist="83"/>
+                                <e
+                pos="19" tps="03:05:43"
+                race="the north face transgrancanaria - starter"
+                year="2015" dist="33"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.13.45.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.13.45.jpg"/>
+											</videos></fiche></d>

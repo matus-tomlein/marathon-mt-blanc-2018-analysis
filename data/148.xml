@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="148"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="148" c="42km"  >
+						<identite nom="SELMOUNI"
+			  prenom="Ali"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="Jog’r Mulhouse of Running"			  			  
+			  				  nat="Algérie"
+				  cio="ALG" a2="DZ" a3="DZA" 			  			  				  				  ville="BLODELSHEIM" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="100" code="f" clt="100"  cltcat="67" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:46:41" ja="7" tps="00:46:41" tn="0.77805555555556" tnp="0.77805555555556" clt="114" ></e><e idpt="36" ha="08:12:31" ja="7" tps="01:12:31" tn="1.2086111111111" tnp="0.43055555555556" clt="133" ></e><e idpt="38" ha="08:33:07" ja="7" tps="01:33:07" tn="1.5519444444444" tnp="0.34333333333333" clt="132" ></e><e idpt="40" ha="09:20:57" ja="7" tps="02:20:57" tn="2.3491666666667" tnp="0.79722222222222" clt="131" ></e><e idpt="42" ha="10:09:14" ja="7" tps="03:09:14" tn="3.1538888888889" tnp="0.80472222222222" clt="109" ></e><e idpt="44" ha="10:21:43" ja="7" tps="03:21:43" tn="3.3619444444444" tnp="0.20805555555556" clt="109" ></e><e idpt="46" ha="11:38:39" ja="7" tps="04:38:39" tn="4.6441666666667" tnp="1.2822222222222" clt="104" ></e><e idpt="51" ha="12:27:31" ja="7" tps="05:27:31" tn="5.4586111111111" tnp="0.81444444444444" clt="100" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="142" tps="11:46:20"
+                race="penyagolosa trails hg - iautwc"
+                year="2018" dist="85"/>
+                                <e
+                pos="20" tps="05:11:58"
+                race="trail de la galinette - les drailles de la galinette"
+                year="2018" dist="46"/>
+                                <e
+                pos="113" tps="34:52:09"
+                race="grand raid de la réunion - la diagonale des fous"
+                year="2017" dist="165"/>
+                                <e
+                pos="83" tps="14:12:39"
+                race="UTMB® - CCC®"
+                year="2017" dist="100"/>
+                                <e
+                pos="34" tps="14:39:01"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2017" dist="91"/>
+                                <e
+                pos="126" tps="05:54:32"
+                race="trail sacred forests - iautwc-trail world championships"
+                year="2017" dist="49"/>
+                                <e
+                pos="5" tps="03:09:26"
+                race="trail des marcaires - defi de muhlbach"
+                year="2017" dist="32"/>
+                                <e
+                pos="30" tps="02:03:08"
+                race="trail du petit ballon - 25 km - grands crus"
+                year="2017" dist="27"/>
+                                <e
+                pos="90" tps="11:11:22"
+                race="trans peneda gerês - trail world championships"
+                year="2016" dist="86"/>
+                                <e
+                pos="8" tps="23:58:34"
+                race="ultra tour des 4 massifs - ut4m 160 challenge"
+                year="2016" dist="176"/>
+                                <e
+                pos="115" tps="03:51:21"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - championnats de france de trail court"
+                year="2015" dist="33"/>
+                                <e
+                pos="10" tps="16:46:45"
+                race="ultra tour du beaufortain - ultra tour du beaufortain"
+                year="2015" dist="105"/>
+                                <e
+                pos="22" tps="04:28:58"
+                race="trail du petit ballon - 50 km"
+                year="2015" dist="51"/>
+                                <e
+                pos="60" tps="03:17:32"
+                race="trail hivernal de la moselotte - 28 km"
+                year="2015" dist="29"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.27.05.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-12.27.05.jpg"/>
+											</videos></fiche></d>

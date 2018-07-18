@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4403"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4403" c="KmV"  >
+						<identite nom="BENARD"
+			  prenom="Timothée"			  cat="JU H"
+			  sx="H"
+			  descat="18-19"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="BIVILLE LA BAIGNARDE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="272" code="f" clt="272"  cltcat="7" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="16:25:30" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="16:53:48" ja="5" tps="00:28:18" tn="0.47166666666667" tnp="0.47166666666667" clt="279" ></e><e idpt="52" ha="17:26:32" ja="5" tps="01:01:02" tn="1.0172222222222" tnp="0.54555555555556" clt="272" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			</palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-17.26.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-17.26.10.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3696"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3696" c="90km"  >
+						<identite nom="ZHANG"
+			  prenom="Lei"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="Chine"
+				  cio="CHN" a2="CN" a3="CHN" 			  			  				  				  ville="MUNICH" pays="CN"
+			  			/>
+			<antecedents></antecedents>																								<state  test="563" code="f" clt="563"  cltcat="237" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:14:44" ja="5" tps="02:14:34" tn="2.2427777777778" tnp="2.2427777777778" clt="287" ></e><e idpt="4" ha="07:35:15" ja="5" tps="03:35:05" tn="3.5847222222222" tnp="1.3419444444444" clt="461" ></e><e idpt="6" ha="08:17:44" ja="5" tps="04:17:34" tn="4.2927777777778" tnp="0.70805555555556" clt="445" ></e><e idpt="8" ha="09:19:31" ja="5" tps="05:19:21" tn="5.3225" tnp="1.0297222222222" clt="476" ></e><e idpt="10" ha="10:54:45" ja="5" tps="06:54:35" tn="6.9097222222222" tnp="1.4669444444444" clt="469" ></e><e idpt="12" ha="11:42:49" ja="5" tps="07:42:39" tn="7.7108333333333" tnp="0.80111111111111" clt="534" ></e><e idpt="14" ha="13:44:19" ja="5" tps="09:44:09" tn="9.7358333333333" tnp="1.98" clt="590" ></e><e idpt="16" ha="15:11:06" ja="5" tps="11:10:56" tn="11.182222222222" tnp="1.4463888888889" clt="593" ></e><e idpt="18" ha="17:06:39" ja="5" tps="13:06:29" tn="13.108055555556" tnp="1.9258333333333" clt="584" ></e><e idpt="20" ha="17:50:07" ja="5" tps="13:49:57" tn="13.8325" tnp="0.72444444444444" clt="591" ></e><e idpt="22" ha="18:48:52" ja="5" tps="14:48:42" tn="14.811666666667" tnp="0.97916666666667" clt="593" ></e><e idpt="24" ha="20:53:04" ja="5" tps="16:52:54" tn="16.881666666667" tnp="1.9369444444444" clt="556" ></e><e idpt="26" ha="22:42:41" ja="5" tps="18:42:31" tn="18.708611111111" tnp="1.8227777777778" clt="546" ></e><e idpt="28" ha="00:35:20" ja="6" tps="20:35:10" tn="20.586111111111" tnp="1.8775" clt="555" ></e><e idpt="31" ha="02:27:55" ja="6" tps="22:27:45" tn="22.4625" tnp="1.8763888888889" clt="563" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="190" tps="18:34:24"
+                race="mozart 100® - mozart 100®"
+                year="2018" dist="105"/>
+                                <e
+                pos="125" tps="17:01:53"
+                race="columbia 168 ultra-trail® challenge chongli - 88km"
+                year="2017" dist="87"/>
+                                <e
+                pos="68" tps="14:28:36"
+                race="grand wutai pilgrimage - grand wutai pilgrimage"
+                year="2017" dist="71"/>
+                                <e
+                pos="273" tps="152:56:39"
+                race="4k alpine endurance trail valle d'aosta - 4k alpine endurance trail valle d'aosta"
+                year="2016" dist="349"/>
+                                <e
+                pos="28" tps="13:36:50"
+                race="grand wutai pilgrimage - grand wutai pilgrimage"
+                year="2016" dist="72"/>
+                                <e
+                pos="197" tps="20:18:56"
+                race="the north face 100 beijing ultra trail challenge - 100 km"
+                year="2016" dist="95"/>
+                                <e
+                pos="1073" tps="43:07:31"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="38" tps="07:59:24"
+                race="chongli100 ultra sky trail challenge - 50 km"
+                year="2015" dist="52"/>
+                                <e
+                pos="14" tps="15:38:26"
+                race="grand wutai pilgrimage - grand wutai pilgrimage"
+                year="2015" dist="74"/>
+                                <e
+                pos="131" tps="19:12:45"
+                race="the north face 100 beijing ultra trail challenge - 100 km"
+                year="2015" dist="101"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-02.27.30.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-02.27.30.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="638"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="638" c="42km"  >
+						<identite nom="MARTIN"
+			  prenom="Benoît"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="TRIATHLON AMBERIEU EN BUGEY"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="VILLEURBANNE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1117" code="f" clt="1117"  cltcat="552" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:06:38" ja="7" tps="01:06:38" tn="1.1105555555556" tnp="1.1105555555556" clt="1149" ></e><e idpt="36" ha="08:38:27" ja="7" tps="01:38:27" tn="1.6408333333333" tnp="0.53027777777778" clt="1005" ></e><e idpt="38" ha="09:07:36" ja="7" tps="02:07:36" tn="2.1266666666667" tnp="0.48583333333333" clt="1013" ></e><e idpt="40" ha="10:18:36" ja="7" tps="03:18:36" tn="3.31" tnp="1.1833333333333" clt="1134" ></e><e idpt="42" ha="11:40:26" ja="7" tps="04:40:26" tn="4.6738888888889" tnp="1.3638888888889" clt="1194" ></e><e idpt="44" ha="12:05:06" ja="7" tps="05:05:06" tn="5.085" tnp="0.41111111111111" clt="1186" ></e><e idpt="46" ha="13:58:00" ja="7" tps="06:58:00" tn="6.9666666666667" tnp="1.8816666666667" clt="1126" ></e><e idpt="51" ha="15:16:53" ja="7" tps="08:16:53" tn="8.2813888888889" tnp="1.3147222222222" clt="1117" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="548" tps="08:28:07"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="142" tps="10:21:52"
+                race="course de l'arc en ciel - course de l'arc en ciel"
+                year="2016" dist="62"/>
+                                <e
+                pos="147" tps="06:31:51"
+                race="trail du colorado - trail du colorado"
+                year="2016" dist="38"/>
+                                <e
+                pos="816" tps="08:38:13"
+                race="la saintélyon - la saintélyon"
+                year="2014" dist="72"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.16.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-15.16.25.jpg"/>
+											</videos></fiche></d>

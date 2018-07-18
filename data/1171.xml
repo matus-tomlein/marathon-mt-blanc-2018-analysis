@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="1171"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="1171" c="42km"  >
+						<identite nom="VEELENTURF"
+			  prenom="Louiza"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="Pays-Bas"
+				  cio="NED" a2="NL" a3="NLD" 			  			  				  				  ville="ALPHEN AAN DEN RIJN" pays="NL"
+			  			/>
+			<antecedents></antecedents>																								<state  test="920" code="f" clt="920"  cltcat="84" cltsex="129" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:11:32" ja="7" tps="01:11:32" tn="1.1922222222222" tnp="1.1922222222222" clt="1528" ></e><e idpt="36" ha="08:47:00" ja="7" tps="01:47:00" tn="1.7833333333333" tnp="0.59111111111111" clt="1465" ></e><e idpt="38" ha="09:14:04" ja="7" tps="02:14:04" tn="2.2344444444444" tnp="0.45111111111111" clt="1263" ></e><e idpt="40" ha="10:24:33" ja="7" tps="03:24:33" tn="3.4091666666667" tnp="1.1747222222222" clt="1272" ></e><e idpt="42" ha="11:44:02" ja="7" tps="04:44:02" tn="4.7338888888889" tnp="1.3247222222222" clt="1249" ></e><e idpt="44" ha="12:02:47" ja="7" tps="05:02:47" tn="5.0463888888889" tnp="0.3125" clt="1155" ></e><e idpt="46" ha="13:45:10" ja="7" tps="06:45:10" tn="6.7527777777778" tnp="1.7063888888889" clt="981" ></e><e idpt="51" ha="14:55:29" ja="7" tps="07:55:29" tn="7.9247222222222" tnp="1.1719444444444" clt="920" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="117" cltsx="14" tps="11:41:30"
+                race="ultra skymarathon® madeira - usm"
+                year="2017" dist="55"/>
+                                <e
+                pos="72" cltsx="8" tps="07:41:52"
+                race="pitz alpine glacier trail - pitz 42"
+                year="2016" dist="41"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.55.00.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.55.00.jpg"/>
+											</videos></fiche></d>

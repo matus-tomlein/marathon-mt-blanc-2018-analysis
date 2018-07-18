@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3466"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3466" c="90km"  >
+						<identite nom="SERIVE"
+			  prenom="Etienne"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="NOIRMOUTIER EN L'ÎLE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="350" code="f" clt="350"  cltcat="161" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="05:58:32" ja="5" tps="01:58:22" tn="1.9727777777778" tnp="1.9727777777778" clt="152" ></e><e idpt="4" ha="07:07:57" ja="5" tps="03:07:47" tn="3.1297222222222" tnp="1.1569444444444" clt="202" ></e><e idpt="6" ha="07:47:22" ja="5" tps="03:47:12" tn="3.7866666666667" tnp="0.65694444444444" clt="204" ></e><e idpt="8" ha="08:41:52" ja="5" tps="04:41:42" tn="4.695" tnp="0.90833333333333" clt="226" ></e><e idpt="10" ha="10:21:54" ja="5" tps="06:21:44" tn="6.3622222222222" tnp="1.3466666666667" clt="285" ></e><e idpt="12" ha="10:57:52" ja="5" tps="06:57:42" tn="6.9616666666667" tnp="0.59944444444444" clt="294" ></e><e idpt="14" ha="12:29:01" ja="5" tps="08:28:51" tn="8.4808333333333" tnp="1.5191666666667" clt="280" ></e><e idpt="16" ha="13:51:10" ja="5" tps="09:51:00" tn="9.85" tnp="1.3691666666667" clt="305" ></e><e idpt="18" ha="15:30:47" ja="5" tps="11:30:37" tn="11.510277777778" tnp="1.6602777777778" clt="303" ></e><e idpt="20" ha="16:07:57" ja="5" tps="12:07:47" tn="12.129722222222" tnp="0.61944444444444" clt="298" ></e><e idpt="22" ha="16:51:02" ja="5" tps="12:50:52" tn="12.847777777778" tnp="0.71805555555556" clt="280" ></e><e idpt="24" ha="18:53:43" ja="5" tps="14:53:33" tn="14.8925" tnp="2.0447222222222" clt="293" ></e><e idpt="26" ha="20:27:42" ja="5" tps="16:27:32" tn="16.458888888889" tnp="1.5619444444444" clt="285" ></e><e idpt="28" ha="22:09:55" ja="5" tps="18:09:45" tn="18.1625" tnp="1.7036111111111" clt="311" ></e><e idpt="31" ha="23:59:02" ja="5" tps="19:58:52" tn="19.981111111111" tnp="1.8186111111111" clt="350" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="371" tps="06:17:55"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.58.35.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.58.35.jpg"/>
+											</videos></fiche></d>

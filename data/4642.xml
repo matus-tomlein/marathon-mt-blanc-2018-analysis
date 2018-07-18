@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4642"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4642" c="KmV"  >
+						<identite nom="WRAITH"
+			  prenom="Lizzie"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club="Team Bath"			  			  
+			  				  nat="Royaume-Uni"
+				  cio="GBR" a2="GB" a3="GBR" 			  			  				  				  ville="BATH" pays="GB"
+			  			/>
+			<antecedents></antecedents>																								<state  test="146" code="f" clt="146"  cltcat="7" cltsex="7" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:25:15" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="17:50:22" ja="5" tps="00:25:07" tn="0.41861111111111" tnp="0.41861111111111" clt="152" ></e><e idpt="52" ha="18:18:41" ja="5" tps="00:53:26" tn="0.89055555555556" tnp="0.47194444444444" clt="146" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="4" cltsx="1" tps="17:42:27"
+                race="west highland way race - west highland way race"
+                year="2016" dist="151"/>
+                                <e
+                pos="17" cltsx="4" tps="08:18:40"
+                race="highland fling race - 53 mile ultra race"
+                year="2016" dist="86"/>
+                                <e
+                pos="128" cltsx="28" tps="11:36:17"
+                race="maxi-race du lac d'annecy - iautwc-trail world championships"
+                year="2015" dist="83"/>
+                                <e
+                pos="25" cltsx="1" tps="10:42:23"
+                race="3x3000 80k ultra - 80km"
+                year="2014" dist="77"/>
+                                <e
+                pos="13" cltsx="2" tps="09:18:22"
+                race="lakeland - lakeland 50"
+                year="2014" dist="81"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.18.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.18.20.jpg"/>
+											</videos></fiche></d>

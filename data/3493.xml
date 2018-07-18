@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3493"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3493" c="90km"  >
+						<identite nom="HAMMER"
+			  prenom="Niels Henrik"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Skive Trailrunners"			  			  
+			  				  nat="Danemark"
+				  cio="DEN" a2="DK" a3="DNK" 			  			  				  				  ville="SKIVE" pays="DK"
+			  			/>
+			<antecedents></antecedents>																								<state  test="817" code="a" clt="817"  cltcat="302" />			<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:39:05" ja="5" tps="02:38:55" tn="2.6486111111111" tnp="2.6486111111111" clt="704" ></e><e idpt="4" ha="08:01:03" ja="5" tps="04:00:53" tn="4.0147222222222" tnp="1.3661111111111" clt="811" ></e><e idpt="6" ha="08:55:31" ja="5" tps="04:55:21" tn="4.9225" tnp="0.90777777777778" clt="861" ></e><e idpt="8" ha="10:03:39" ja="5" hd="10:13:34" jd="5" tps="06:03:29" tn="6.0580555555556" tnp="1.1355555555556" clt="851" ></e><e idpt="10" ha="11:44:17" ja="5" tps="07:44:07" tn="7.7352777777778" tnp="1.5119444444444" clt="795" ></e><e idpt="12" ha="12:25:52" ja="5" hd="12:31:28" jd="5" tps="08:25:42" tn="8.4283333333333" tnp="0.69305555555556" clt="787" ></e><e idpt="14" ha="14:45:52" ja="5" tps="10:45:42" tn="10.761666666667" tnp="2.24" clt="821" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="685" tps="12:28:10"
+                race="transgrancanaria hg - advanced"
+                year="2018" dist="64"/>
+                                <e
+                pos="11" tps="00:57:10"
+                race="rosenhøj grandprix 2.0 autumn edition - 10 km"
+                year="2017" dist="10"/>
+                                <e
+                pos="7" tps="01:58:25"
+                race="rosenhøj grandprix 2.0 - rgp 20 km"
+                year="2017" dist="20"/>
+                                <e
+                pos="34" tps="03:42:40"
+                race="julsø ultra - 30 km"
+                year="2017" dist="33"/>
+                                <e
+                pos="1130" tps="25:40:59"
+                race="UTMB® - CCC®"
+                year="2016" dist="101"/>
+                                <e
+                pos="99" tps="04:46:14"
+                race="thy trail marathon - thy trail marathon"
+                year="2016" dist="43"/>
+                                <e
+                pos="180" tps="08:46:23"
+                race="salomon zugspitz ultratrail - supertrail"
+                year="2015" dist="51"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

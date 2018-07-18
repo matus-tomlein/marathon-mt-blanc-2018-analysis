@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="439"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="439" c="42km"  >
+						<identite nom="LE NOAN"
+			  prenom="Yoann"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="A.G ANDEL"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ANDEL" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="339" code="f" clt="339"  cltcat="205" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:52:55" ja="7" tps="00:52:55" tn="0.88194444444444" tnp="0.88194444444444" clt="300" ></e><e idpt="36" ha="08:22:06" ja="7" tps="01:22:06" tn="1.3683333333333" tnp="0.48638888888889" clt="337" ></e><e idpt="38" ha="08:46:32" ja="7" tps="01:46:32" tn="1.7755555555556" tnp="0.40722222222222" clt="361" ></e><e idpt="42" ha="10:42:14" ja="7" tps="03:42:14" tn="3.7038888888889" tnp="1.9283333333333" clt="345" ></e><e idpt="44" ha="11:00:02" ja="7" tps="04:00:02" tn="4.0005555555556" tnp="0.29666666666667" clt="347" ></e><e idpt="46" ha="12:33:58" ja="7" tps="05:33:58" tn="5.5661111111111" tnp="1.5655555555556" clt="327" ></e><e idpt="51" ha="13:39:34" ja="7" tps="06:39:34" tn="6.6594444444444" tnp="1.0933333333333" clt="340" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="89" tps="14:06:41"
+                race="endurance trail des corsaires - ultra"
+                year="2018" dist="107"/>
+                                <e
+                pos="96" tps="05:43:55"
+                race="menestrail - montcontour - grand menestrail de moncontour"
+                year="2016" dist="54"/>
+                                <e
+                pos="141" tps="06:17:21"
+                race="trail du bout du monde - trail du bout du monde"
+                year="2016" dist="57"/>
+                                <e
+                pos="137" tps="04:28:33"
+                race="trail glazig - 45 km"
+                year="2016" dist="45"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.39.05.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.39.05.jpg"/>
+											</videos></fiche></d>

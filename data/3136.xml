@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3136"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3136" c="90km"  >
+						<identite nom="PENG"
+			  prenom="Zhenhui"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="CMBC"			  			  
+			  				  nat="Chine"
+				  cio="CHN" a2="CN" a3="CHN" 			  			  				  				  ville="SHANGHAI" pays="CN"
+			  			/>
+			<antecedents></antecedents>																								<state  test="147" code="f" clt="147"  cltcat="80" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:28:58" ja="5" tps="02:28:48" tn="2.48" tnp="2.48" clt="533" ></e><e idpt="4" ha="07:35:00" ja="5" tps="03:34:50" tn="3.5805555555556" tnp="1.1005555555556" clt="459" ></e><e idpt="6" ha="08:14:33" ja="5" tps="04:14:23" tn="4.2397222222222" tnp="0.65916666666667" clt="402" ></e><e idpt="8" ha="09:05:34" ja="5" tps="05:05:24" tn="5.09" tnp="0.85027777777778" clt="372" ></e><e idpt="10" ha="10:24:58" ja="5" tps="06:24:48" tn="6.4133333333333" tnp="1.2191666666667" clt="294" ></e><e idpt="12" ha="10:53:39" ja="5" tps="06:53:29" tn="6.8913888888889" tnp="0.47805555555556" clt="274" ></e><e idpt="14" ha="12:17:37" ja="5" tps="08:17:27" tn="8.2908333333333" tnp="1.3994444444444" clt="238" ></e><e idpt="16" ha="13:15:12" ja="5" tps="09:15:02" tn="9.2505555555556" tnp="0.95972222222222" clt="210" ></e><e idpt="18" ha="14:45:50" ja="5" tps="10:45:40" tn="10.761111111111" tnp="1.5105555555556" clt="196" ></e><e idpt="20" ha="15:17:15" ja="5" tps="11:17:05" tn="11.284722222222" tnp="0.52361111111111" clt="191" ></e><e idpt="22" ha="15:58:12" ja="5" tps="11:58:02" tn="11.967222222222" tnp="0.6825" clt="189" ></e><e idpt="24" ha="17:25:36" ja="5" tps="13:25:26" tn="13.423888888889" tnp="1.4566666666667" clt="164" ></e><e idpt="26" ha="18:51:59" ja="5" tps="14:51:49" tn="14.863611111111" tnp="1.4397222222222" clt="147" ></e><e idpt="28" ha="20:07:00" ja="5" tps="16:06:50" tn="16.113888888889" tnp="1.2502777777778" clt="144" ></e><e idpt="31" ha="21:15:57" ja="5" tps="17:15:47" tn="17.263055555556" tnp="1.1491666666667" clt="147" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="1" tps="12:03:37"
+                race="grand wutai pilgrimage - (team, 70km)"
+                year="2018" dist="71"/>
+                                <e
+                pos="9" tps="13:29:41"
+                race="lijiang skyview adventure - ultra dragon 65k"
+                year="2018" dist="64"/>
+                                <e
+                pos="3" tps="05:15:54"
+                race="wuxi trail challenge  spring - 50 km"
+                year="2018" dist="51"/>
+                                <e
+                pos="6" tps="05:48:36"
+                race="yuquan mountain trail - 50km"
+                year="2018" dist="48"/>
+                                <e
+                pos="7" tps="05:31:36"
+                race="ninghai classic - 50k"
+                year="2018" dist="49"/>
+                                <e
+                pos="67" tps="13:12:34"
+                race="vibram hong kong 100 - vibram hong kong 100"
+                year="2018" dist="96"/>
+                                <e
+                pos="40" tps="06:22:36"
+                race="adidas terrex  ultra trail invitational xuedoushan - adidas terrex  ultra trail invitational xuedoushan"
+                year="2017" dist="44"/>
+                                <e
+                pos="29" tps="07:00:00"
+                race="grand wutai pilgrimage - 40km"
+                year="2017" dist="42"/>
+                                <e
+                pos="2" tps="07:25:43"
+                race="laoshan 100 - 50k"
+                year="2017" dist="52"/>
+                                <e
+                pos="8" tps="10:54:08"
+                race="lijiang skyview adventure - ultra 50 km"
+                year="2017" dist="50"/>
+                                <e
+                pos="4" tps="05:37:57"
+                race="ninghai classic - 50k"
+                year="2017" dist="49"/>
+                                <e
+                pos="71" tps="13:20:35"
+                race="vibram hong kong 100 - vibram hong kong 100"
+                year="2017" dist="96"/>
+                                <e
+                pos="282" tps="36:27:31"
+                race="UTMB® - UTMB®"
+                year="2016" dist="171"/>
+                                <e
+                pos="24" tps="16:30:34"
+                race="xtrail wulong trail run - 100 km"
+                year="2016" dist="101"/>
+                                <e
+                pos="12" tps="06:00:42"
+                race="ninghai trail - 50k"
+                year="2015" dist="51"/>
+                                <e
+                pos="304" tps="25:17:58"
+                race="ultra-trail du mont-blanc® - TDS®"
+                year="2015" dist="119"/>
+                                <e
+                pos="61" tps="08:24:57"
+                race="chongli100 ultra sky trail challenge - 50 km"
+                year="2015" dist="52"/>
+                                <e
+                pos="70" tps="13:08:49"
+                race="tsaigu tangsi trail - tgts 57 km"
+                year="2015" dist="58"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.15.30.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.15.30.jpg"/>
+											</videos></fiche></d>

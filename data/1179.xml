@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="1179"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="1179" c="42km"  >
+						<identite nom="DELILLE"
+			  prenom="Rose"			  cat="V2 F"
+			  sx="F"
+			  descat="50-59"
+			  club="les crocos"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="TALANT" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1765" code="f" clt="1765"  cltcat="30" cltsex="319" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:15:13" ja="7" tps="01:15:13" tn="1.2536111111111" tnp="1.2536111111111" clt="1794" ></e><e idpt="36" ha="08:51:38" ja="7" tps="01:51:38" tn="1.8605555555556" tnp="0.59805555555556" clt="1693" ></e><e idpt="38" ha="09:26:08" ja="7" tps="02:26:08" tn="2.4355555555556" tnp="0.575" clt="1769" ></e><e idpt="40" ha="10:55:42" ja="7" tps="03:55:42" tn="3.9283333333333" tnp="1.4927777777778" clt="1959" ></e><e idpt="42" ha="12:26:36" ja="7" tps="05:26:36" tn="5.4433333333333" tnp="1.515" clt="1919" ></e><e idpt="44" ha="12:59:13" ja="7" tps="05:59:13" tn="5.9869444444444" tnp="0.54361111111111" clt="1956" ></e><e idpt="46" ha="15:03:24" ja="7" tps="08:03:24" tn="8.0566666666667" tnp="2.0697222222222" clt="1840" ></e><e idpt="51" ha="16:28:01" ja="7" tps="09:28:01" tn="9.4669444444444" tnp="1.4102777777778" clt="1765" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="103" cltsx="6" tps="14:33:48"
+                race="trails de la vallée du brevon - trail des allobroges"
+                year="2018" dist="66"/>
+                                <e
+                pos="21" cltsx="3" tps="13:04:12"
+                race="taranis arga trail - défi solo 60 km"
+                year="2017" dist="68"/>
+                                <e
+                pos="108" cltsx="16" tps="11:39:37"
+                race="trail du gypaète - la gypaète"
+                year="2017" dist="54"/>
+                                <e
+                pos="820" cltsx="117" tps="41:01:22"
+                race="le grand raid de la réunion - trail de bourbon"
+                year="2016" dist="111"/>
+                                <e
+                pos="147" cltsx="16" tps="04:24:17"
+                race="alesia trail - mandubienne"
+                year="2016" dist="34"/>
+                                <e
+                pos="21" cltsx="4" tps="13:53:25"
+                race="trail verbier st bernard - x-alpine 1er relais"
+                year="2016" dist="48"/>
+                                <e
+                pos="453" cltsx="51" tps="12:48:17"
+                race="trail des aiguilles rouges - tar"
+                year="2015" dist="52"/>
+                                <e
+                pos="175" cltsx="21" tps="08:52:21"
+                race="aravistrail - aravistrail 44km"
+                year="2015" dist="44"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.27.35.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.27.35.jpg"/>
+											</videos></fiche></d>

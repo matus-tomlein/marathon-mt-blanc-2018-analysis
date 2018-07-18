@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4346"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4346" c="KmV"  >
+						<identite nom="PUJOL"
+			  prenom="Vincent"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ITTENHEIM" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="341" code="f" clt="341"  cltcat="31" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="16:11:31" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="16:42:08" ja="5" tps="00:30:37" tn="0.51027777777778" tnp="0.51027777777778" clt="370" ></e><e idpt="52" ha="17:17:24" ja="5" tps="01:05:53" tn="1.0980555555556" tnp="0.58777777777778" clt="341" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="205" tps="03:14:08"
+                race="trail du wurzel - wurzel - roche des fees"
+                year="2018" dist="24"/>
+                                <e
+                pos="76" tps="14:08:12"
+                race="les vosgirunners trails nature - challenge des seigneurs"
+                year="2018" dist="98"/>
+                                <e
+                pos="645" tps="08:03:46"
+                race="trail du petit ballon - 52 km"
+                year="2018" dist="53"/>
+                                <e
+                pos="1587" tps="45:13:17"
+                race="UTMB® - UTMB®"
+                year="2017" dist="169"/>
+                                <e
+                pos="133" tps="03:12:29"
+                race="marathon du mont-blanc - duo étoilé"
+                year="2017" dist="16"/>
+                                <e
+                pos="354" tps="01:08:45"
+                race="marathon du mont-blanc - km vertical"
+                year="2017" dist="4"/>
+                                <e
+                pos="280" tps="08:41:11"
+                race="trail des marcaires - trail des marcaires"
+                year="2017" dist="54"/>
+                                <e
+                pos="204" tps="03:02:43"
+                race="trail du wurzel - wurzel - roche des fees"
+                year="2017" dist="24"/>
+                                <e
+                pos="53" tps="13:23:31"
+                race="les vosgirunners trails nature - challenge des seigneurs"
+                year="2017" dist="99"/>
+                                <e
+                pos="561" tps="06:59:07"
+                race="trail du petit ballon - 50 km"
+                year="2017" dist="53"/>
+                                <e
+                pos="1661" tps="62:33:00"
+                race="le grand raid de la réunion - le grand raid de la réunion"
+                year="2016" dist="168"/>
+                                <e
+                pos="503" tps="10:08:16"
+                race="la 6000d la course des géants - la 6000d"
+                year="2016" dist="66"/>
+                                <e
+                pos="876" tps="07:15:47"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="300" tps="19:40:31"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2016" dist="85"/>
+                                <e
+                pos="261" tps="08:22:20"
+                race="trail des marcaires - trail des marcaires"
+                year="2016" dist="50"/>
+                                <e
+                pos="51" tps="06:55:57"
+                race="trail du wurzel - trail du wurzel"
+                year="2016" dist="52"/>
+                                <e
+                pos="76" tps="06:50:59"
+                race="les vosgirunners trails nature - grand défi des vosges"
+                year="2016" dist="59"/>
+                                <e
+                pos="439" tps="06:09:33"
+                race="trail du petit ballon - 50 km"
+                year="2016" dist="51"/>
+                                <e
+                pos="1150" tps="43:38:23"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="480" tps="22:07:15"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2015" dist="82"/>
+                                <e
+                pos="738" tps="15:45:21"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2015" dist="83"/>
+                                <e
+                pos="143" tps="07:51:10"
+                race="les vosgirunners trails nature - grand défi des vosges"
+                year="2015" dist="59"/>
+                                <e
+                pos="92" tps="09:38:36"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2015" dist="75"/>
+                                <e
+                pos="18" tps="17:29:46"
+                race="les vosgirunners trails nature - l'intégrale des seigneurs"
+                year="2015" dist="127"/>
+                                <e
+                pos="392" tps="05:57:28"
+                race="trail du petit ballon - 50 km"
+                year="2015" dist="51"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-17.17.00.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-17.17.00.jpg"/>
+											</videos></fiche></d>

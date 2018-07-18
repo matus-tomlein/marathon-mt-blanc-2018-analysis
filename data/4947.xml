@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4947"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4947" c="KmV"  >
+						<identite nom="PIERRE-YVES"
+			  prenom="Oddone"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=" pont saint martin"			  			  
+			  				  nat="Italie"
+				  cio="ITA" a2="IT" a3="ITA" 			  			  				  				  ville="ANTEY SAINT ANDRÉ" pays="IT"
+			  			/>
+			<antecedents></antecedents>																								<state  test="22" code="f" clt="22"  cltcat="13" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="18:57:30" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="19:17:47" ja="5" tps="00:20:17" tn="0.33805555555556" tnp="0.33805555555556" clt="22" ></e><e idpt="52" ha="19:40:52" ja="5" tps="00:43:22" tn="0.72277777777778" tnp="0.38472222222222" clt="22" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="2" tps="02:14:50"
+                race="mont avic trail - mont avic mini trail"
+                year="2015" dist="22"/>
+                                <e
+                pos="2" tps="02:20:40"
+                race="gran paradiso trail - gran paradiso - granta parey tour"
+                year="2015" dist="20"/>
+                                <e
+                pos="18" tps="02:11:29"
+                race="le belier - 27 km"
+                year="2015" dist="27"/>
+                                <e
+                pos="141" tps="122:01:56"
+                race="tor des géants - tor des géants"
+                year="2014" dist="330"/>
+                                <e
+                pos="33" tps="09:56:37"
+                race="ice trail tarentaise - ice trail tarentaise - itt"
+                year="2014" dist="65"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-19.40.30.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-19.40.30.jpg"/>
+											</videos></fiche></d>

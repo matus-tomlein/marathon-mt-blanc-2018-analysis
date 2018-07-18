@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4656"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4656" c="KmV"  >
+						<identite nom="BELFROND"
+			  prenom="Marco"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="TRAIL MOUNTAIN"			  			  
+			  				  nat="Italie"
+				  cio="ITA" a2="IT" a3="ITA" 			  			  				  				  ville="PRE SAINT DIDIER" pays="IT"
+			  			/>
+			<antecedents></antecedents>																								<state  test="194" code="f" clt="194"  cltcat="12" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:28:45" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="17:55:44" ja="5" tps="00:26:59" tn="0.44972222222222" tnp="0.44972222222222" clt="224" ></e><e idpt="52" ha="18:25:23" ja="5" tps="00:56:38" tn="0.94388888888889" tnp="0.49416666666667" clt="194" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="47" tps="09:01:00"
+                race="quartrail des alpages - quartrail des alpages"
+                year="2018" dist="52"/>
+                                <e
+                pos="133" tps="06:33:07"
+                race="the north face lavaredo ultra trail - cortina trail"
+                year="2017" dist="48"/>
+                                <e
+                pos="17" tps="25:57:14"
+                race="ultra tour monte rosa - ultra marathon"
+                year="2016" dist="114"/>
+                                <e
+                pos="42" tps="09:16:54"
+                race="licony trail - licony trail"
+                year="2016" dist="64"/>
+                                <e
+                pos="28" tps="03:37:16"
+                race="trail del motty - sky del motty - 23km"
+                year="2016" dist="23"/>
+                                <e
+                pos="29" tps="06:04:46"
+                race="mont avic trail - mont avic trail"
+                year="2015" dist="37"/>
+                                <e
+                pos="106" tps="78:40:18"
+                race="tor des géants - tor des géants courmayeur - 6 valtournenche"
+                year="2015" dist="247"/>
+                                <e
+                pos="43" tps="08:38:00"
+                race="licony trail - licony trail"
+                year="2015" dist="64"/>
+                                <e
+                pos="26" tps="06:43:33"
+                race="trail del motty - trail del motty - 45km"
+                year="2015" dist="48"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.25.00.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.25.00.jpg"/>
+											</videos></fiche></d>

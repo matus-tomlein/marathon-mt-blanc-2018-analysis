@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4958"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4958" c="KmV"  >
+						<identite nom="RICCARDO"
+			  prenom="Borgialli"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="TEAM SALOMON ITALIA"			  			  
+			  				  nat="Italie"
+				  cio="ITA" a2="IT" a3="ITA" 			  			  				  				  ville="ARMENO" pays="IT"
+			  			/>
+			<antecedents></antecedents>																								<state  test="5" code="f" clt="5"  cltcat="3" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="19:00:30" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="19:18:53" ja="5" tps="00:18:23" tn="0.30638888888889" tnp="0.30638888888889" clt="4" ></e><e idpt="52" ha="19:40:14" ja="5" tps="00:39:44" tn="0.66222222222222" tnp="0.35583333333333" clt="5" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="14" tps="05:09:07"
+                race="the north face lavaredo ultra trail - cortina trail"
+                year="2018" dist="48"/>
+                                <e
+                pos="1" tps="08:02:58"
+                race="bvg trail - bvg trail"
+                year="2018" dist="74"/>
+                                <e
+                pos="3" tps="05:46:40"
+                race="ultrabericus trail - trail integrale"
+                year="2018" dist="67"/>
+                                <e
+                pos="2" tps="07:09:33"
+                race="ronda ghibellina plus - ronda ghibellina plus"
+                year="2018" dist="69"/>
+                                <e
+                pos="1" tps="05:54:20"
+                race="ultra trail lago d'orta - utlo 58 km"
+                year="2017" dist="61"/>
+                                <e
+                pos="5" tps="07:16:52"
+                race="eolo campo dei fiori trail - ultra cft 65k"
+                year="2017" dist="66"/>
+                                <e
+                pos="24" tps="05:55:29"
+                race="UTMB® - occ"
+                year="2017" dist="55"/>
+                                <e
+                pos="8" tps="04:31:08"
+                race="swissalpine davos - k47"
+                year="2017" dist="47"/>
+                                <e
+                pos="1" tps="05:37:37"
+                race="bettelmatt trail - b race 50 km"
+                year="2017" dist="50"/>
+                                <e
+                pos="10" tps="04:14:54"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2017" dist="42"/>
+                                <e
+                pos="6" tps="04:16:23"
+                race="le porte di pietra - val borbera marathon"
+                year="2017" dist="43"/>
+                                <e
+                pos="2" tps="04:44:50"
+                race="vibram maremontana - trail 46 km"
+                year="2017" dist="44"/>
+                                <e
+                pos="1" tps="01:39:09"
+                race="trail monte casto - trail del monte casto - 21km"
+                year="2016" dist="21"/>
+                                <e
+                pos="3" tps="06:24:07"
+                race="ultra trail lago d'orta - utlo 58 km"
+                year="2016" dist="57"/>
+                                <e
+                pos="61" tps="08:47:07"
+                race="trofeo kima - trofeo kima"
+                year="2016" dist="52"/>
+                                <e
+                pos="19" tps="03:25:36"
+                race="giir di mont - giir di mont skyrace"
+                year="2016" dist="30"/>
+                                <e
+                pos="3" tps="03:33:06"
+                race="bettelmatt trail - b sky race 35 km"
+                year="2016" dist="34"/>
+                                <e
+                pos="32" tps="04:42:18"
+                race="marathon du mont-blanc - 42 km du mont-blanc"
+                year="2016" dist="42"/>
+                                <e
+                pos="2" tps="03:51:27"
+                race="le porte di pietra - val borbera marathon"
+                year="2016" dist="43"/>
+                                <e
+                pos="1" tps="01:46:00"
+                race="trail del motty - trail del motty - 25km"
+                year="2016" dist="25"/>
+                                <e
+                pos="6" tps="06:51:27"
+                race="ultra trail lago d'orta - utlo 58 km"
+                year="2015" dist="57"/>
+                                <e
+                pos="2" tps="04:40:44"
+                race="oulx trail - oulx trail 50km"
+                year="2015" dist="49"/>
+                                <e
+                pos="18" tps="06:09:53"
+                race="ultra-trail du mont-blanc® - occ"
+                year="2015" dist="52"/>
+                                <e
+                pos="39" tps="03:57:06"
+                race="giir di mont - giir di mont"
+                year="2015" dist="31"/>
+                                <e
+                pos="16" tps="05:30:17"
+                race="la maratona del cielo skymarathon - maratona del cielo 42k"
+                year="2015" dist="42"/>
+                                <e
+                pos="7" tps="06:57:49"
+                race="lugano &amp; capriasca scenic trail - lugano scenic trail 54k"
+                year="2015" dist="58"/>
+                                <e
+                pos="3" tps="03:27:25"
+                race="le porte di pietra - le finestre di pietra"
+                year="2015" dist="38"/>
+                                <e
+                pos="1" tps="02:52:34"
+                race="trail del motty - sky del motty - 23km"
+                year="2015" dist="23"/>
+                                <e
+                pos="1" tps="02:06:19"
+                race="mare montana - mare montana 25km"
+                year="2015" dist="25"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-19.39.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-19.39.50.jpg"/>
+											</videos></fiche></d>

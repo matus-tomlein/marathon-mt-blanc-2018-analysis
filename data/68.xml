@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="68"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="68" c="42km"  >
+						<identite nom="BUGNARD"
+			  prenom="Corail"			  cat="SE F"
+			  sx="F"
+			  descat="23-39"
+			  club="Courchevel Sport Outdoor"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="TRESSERVE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="724" code="f" clt="724"  cltcat="62" cltsex="89" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:01:06" ja="7" tps="01:01:06" tn="1.0183333333333" tnp="1.0183333333333" clt="742" ></e><e idpt="36" ha="08:36:42" ja="7" tps="01:36:42" tn="1.6116666666667" tnp="0.59333333333333" clt="904" ></e><e idpt="38" ha="09:11:31" ja="7" tps="02:11:31" tn="2.1919444444444" tnp="0.58027777777778" clt="1169" ></e><e idpt="40" ha="10:19:45" ja="7" tps="03:19:45" tn="3.3291666666667" tnp="1.1372222222222" clt="1157" ></e><e idpt="42" ha="11:25:42" ja="7" tps="04:25:42" tn="4.4283333333333" tnp="1.0991666666667" clt="949" ></e><e idpt="44" ha="11:46:53" ja="7" tps="04:46:53" tn="4.7813888888889" tnp="0.35305555555556" clt="904" ></e><e idpt="46" ha="13:23:27" ja="7" tps="06:23:27" tn="6.3908333333333" tnp="1.6094444444444" clt="734" ></e><e idpt="51" ha="14:33:36" ja="7" tps="07:33:36" tn="7.56" tnp="1.1691666666667" clt="724" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="342" cltsx="14" tps="06:34:37"
+                race="ergysport trail du ventoux - 48 km"
+                year="2018" dist="48"/>
+                                <e
+                pos="37" cltsx="3" tps="07:03:48"
+                race="festival des templiers - boffi fifty"
+                year="2017" dist="50"/>
+                                <e
+                pos="46" cltsx="7" tps="29:29:46"
+                race="ultra tour des 4 massifs - ut4m160 challenge"
+                year="2017" dist="176"/>
+                                <e
+                pos="85" cltsx="17" tps="01:48:45"
+                race="trail du tour des fiz - balcon des fiz"
+                year="2017" dist="15"/>
+                                <e
+                pos="14" cltsx="8" tps="04:41:50"
+                race="be run - marathon duo 40km"
+                year="2017" dist="41"/>
+                                <e
+                pos="83" cltsx="13" tps="05:29:18"
+                race="vallevaraitatrail - vallevaraitatrail"
+                year="2017" dist="38"/>
+                                <e
+                pos="20" cltsx="1" tps="03:10:28"
+                race="l'infernal trail des vosges - 30 km"
+                year="2016" dist="33"/>
+                                <e
+                pos="15" cltsx="3" tps="07:08:43"
+                race="high trail vanoise - petit parcours"
+                year="2016" dist="38"/>
+                                <e
+                pos="37" cltsx="8" tps="12:02:40"
+                race="pierra menta été - pierra menta été"
+                year="2016" dist="67"/>
+                                <e
+                pos="51" cltsx="9" tps="11:50:44"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2016" dist="84"/>
+                                <e
+                pos="60" cltsx="6" tps="03:48:59"
+                race="skyrace des matheysins - skyrace des matheysins"
+                year="2016" dist="27"/>
+                                <e
+                pos="26" cltsx="1" tps="03:04:27"
+                race="trail nivolet revard - le malpassant"
+                year="2016" dist="27"/>
+                                <e
+                pos="104" cltsx="7" tps="02:45:41"
+                race="trail cheran semnoz - trail cheran semnoz"
+                year="2016" dist="23"/>
+                                <e
+                pos="185" cltsx="14" tps="05:49:32"
+                race="ergysport trail du ventoux - 46 km"
+                year="2016" dist="45"/>
+                                <e
+                pos="58" cltsx="1" tps="06:32:54"
+                race="la saintélyon - la saintélyon"
+                year="2015" dist="72"/>
+                                <e
+                pos="31" cltsx="3" tps="03:55:07"
+                race="festival des templiers - marathon des causses"
+                year="2015" dist="37"/>
+                                <e
+                pos="107" cltsx="13" tps="03:48:40"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - championnats de france de trail court"
+                year="2015" dist="33"/>
+                                <e
+                pos="26" cltsx="1" tps="02:56:57"
+                race="l'infernal trail des vosges - 30 km"
+                year="2015" dist="30"/>
+                                <e
+                pos="12" cltsx="1" tps="03:37:27"
+                race="courchevel x-trail - 33 km"
+                year="2015" dist="33"/>
+                                <e
+                pos="1" cltsx="1" tps="01:38:05"
+                race="maxi-race du lac d'annecy - femina race"
+                year="2015" dist="14"/>
+                                <e
+                pos="16" cltsx="1" tps="02:23:10"
+                race="le grand raid 73 - le grand raid 73 - petit savoyard"
+                year="2015" dist="24"/>
+                                <e
+                pos="51" cltsx="8" tps="03:46:13"
+                race="trail matheysin - trail matheysin"
+                year="2015" dist="31"/>
+                                <e
+                pos="20" cltsx="1" tps="02:45:55"
+                race="trail nivolet revard - le malpassant"
+                year="2015" dist="26"/>
+                                <e
+                pos="133" cltsx="8" tps="02:06:39"
+                race="trail drome lafuma - court"
+                year="2015" dist="22"/>
+                                <e
+                pos="14" cltsx="1" tps="02:17:40"
+                race="trail des balcons d'azur - ptit tba"
+                year="2015" dist="24"/>
+                                <e
+                pos="37" cltsx="2" tps="02:03:34"
+                race="trail du petit ballon - 25 km - grands crus"
+                year="2015" dist="27"/>
+                                <e
+                pos="73" cltsx="4" tps="01:47:07"
+                race="le trail givre de montanay - trail givre  montanay"
+                year="2015" dist="23"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.33.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.33.10.jpg"/>
+											</videos></fiche></d>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3231"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3231" c="90km"  >
+						<identite nom="DELFORGE"
+			  prenom="Bruno"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="DijonSingletrack "			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="SAINT-EUSTACHE" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="645" code="f" clt="645"  cltcat="266" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:48:17" ja="5" tps="02:48:07" tn="2.8019444444444" tnp="2.8019444444444" clt="876" ></e><e idpt="4" ha="08:05:24" ja="5" tps="04:05:14" tn="4.0872222222222" tnp="1.2852777777778" clt="863" ></e><e idpt="6" ha="08:54:05" ja="5" tps="04:53:55" tn="4.8986111111111" tnp="0.81138888888889" clt="840" ></e><e idpt="8" ha="09:59:46" ja="5" tps="05:59:36" tn="5.9933333333333" tnp="1.0947222222222" clt="819" ></e><e idpt="10" ha="11:39:36" ja="5" tps="07:39:26" tn="7.6572222222222" tnp="1.5152777777778" clt="778" ></e><e idpt="12" ha="12:21:57" ja="5" tps="08:21:47" tn="8.3630555555556" tnp="0.70583333333333" clt="774" ></e><e idpt="14" ha="14:21:42" ja="5" tps="10:21:32" tn="10.358888888889" tnp="1.9633333333333" clt="754" ></e><e idpt="16" ha="15:47:40" ja="5" tps="11:47:30" tn="11.791666666667" tnp="1.4327777777778" clt="733" ></e><e idpt="18" ha="17:48:07" ja="5" tps="13:47:57" tn="13.799166666667" tnp="2.0075" clt="707" ></e><e idpt="20" ha="18:29:43" ja="5" tps="14:29:33" tn="14.4925" tnp="0.69333333333333" clt="705" ></e><e idpt="22" ha="19:36:28" ja="5" tps="15:36:18" tn="15.605" tnp="1.1125" clt="708" ></e><e idpt="24" ha="21:51:36" ja="5" tps="17:51:26" tn="17.857222222222" tnp="2.2522222222222" clt="664" ></e><e idpt="26" ha="23:42:38" ja="5" tps="19:42:28" tn="19.707777777778" tnp="1.8447222222222" clt="655" ></e><e idpt="28" ha="01:39:34" ja="6" tps="21:39:24" tn="21.656666666667" tnp="1.9488888888889" clt="653" ></e><e idpt="31" ha="03:28:15" ja="6" tps="23:28:05" tn="23.468055555556" tnp="1.8113888888889" clt="645" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="48" tps="23:29:12"
+                race="salomon gore-tex maxi-race - xxl-race"
+                year="2018" dist="116"/>
+                                <e
+                pos="1119" tps="09:15:14"
+                race="la saintélyon - la saintélyon"
+                year="2017" dist="73"/>
+                                <e
+                pos="1279" tps="13:40:12"
+                race="festival des templiers - grand trail des templiers"
+                year="2017" dist="76"/>
+                                <e
+                pos="215" tps="10:48:40"
+                race="trail des aiguilles rouges - tar"
+                year="2017" dist="52"/>
+                                <e
+                pos="295" tps="03:02:56"
+                race="le belier - 27 km"
+                year="2017" dist="27"/>
+                                <e
+                pos="312" tps="05:44:25"
+                race="trail des passerelles du monteynard - trail des passerelles 39 km"
+                year="2017" dist="40"/>
+                                <e
+                pos="109" tps="07:53:52"
+                race="trail faverges seythenex - trail de la sambuy"
+                year="2017" dist="49"/>
+                                <e
+                pos="122" tps="13:36:03"
+                race="salomon gore-tex maxi-race - xl-race"
+                year="2017" dist="83"/>
+                                <e
+                pos="32" tps="01:19:45"
+                race="foulées de gruffy - gruff'à l'eau"
+                year="2017" dist="14"/>
+                                <e
+                pos="49" tps="01:49:52"
+                race="trail des glaisins - le talabar"
+                year="2017" dist="17"/>
+                                <e
+                pos="114" tps="03:04:58"
+                race="ergysport trail du ventoux - 26 km"
+                year="2017" dist="26"/>
+                                <e
+                pos="2047" tps="09:43:23"
+                race="la saintélyon - la saintélyon"
+                year="2016" dist="72"/>
+                                <e
+                pos="44" tps="13:04:18"
+                race="trail des patrouilleurs - trubelstock - 55km"
+                year="2016" dist="56"/>
+                                <e
+                pos="326" tps="07:07:26"
+                race="trail des forts de besançon - 47 km"
+                year="2016" dist="48"/>
+                                <e
+                pos="515" tps="05:10:02"
+                race="la saintélyon - la saintéxpress"
+                year="2015" dist="44"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-03.27.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-03.27.50.jpg"/>
+											</videos></fiche></d>

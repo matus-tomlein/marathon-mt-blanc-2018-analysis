@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3263"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3263" c="90km"  >
+						<identite nom="GIL"
+			  prenom="Frederic"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ORSAN" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="393" code="f" clt="393"  cltcat="36" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:27:41" ja="5" tps="02:27:31" tn="2.4586111111111" tnp="2.4586111111111" clt="498" ></e><e idpt="4" ha="07:36:16" ja="5" tps="03:36:06" tn="3.6016666666667" tnp="1.1430555555556" clt="468" ></e><e idpt="6" ha="08:19:34" ja="5" tps="04:19:24" tn="4.3233333333333" tnp="0.72166666666667" clt="457" ></e><e idpt="8" ha="09:15:34" ja="5" tps="05:15:24" tn="5.2566666666667" tnp="0.93333333333333" clt="445" ></e><e idpt="10" ha="10:48:06" ja="5" tps="06:47:56" tn="6.7988888888889" tnp="1.3886111111111" clt="432" ></e><e idpt="12" ha="11:23:35" ja="5" tps="07:23:25" tn="7.3902777777778" tnp="0.59138888888889" clt="417" ></e><e idpt="14" ha="13:03:10" ja="5" tps="09:03:00" tn="9.05" tnp="1.6597222222222" clt="404" ></e><e idpt="16" ha="14:15:27" ja="5" tps="10:15:17" tn="10.254722222222" tnp="1.2047222222222" clt="370" ></e><e idpt="18" ha="16:05:01" ja="5" tps="12:04:51" tn="12.080833333333" tnp="1.8261111111111" clt="386" ></e><e idpt="20" ha="16:45:24" ja="5" tps="12:45:14" tn="12.753888888889" tnp="0.67305555555556" clt="399" ></e><e idpt="22" ha="17:36:13" ja="5" tps="13:36:03" tn="13.600833333333" tnp="0.84694444444444" clt="397" ></e><e idpt="24" ha="19:32:53" ja="5" tps="15:32:43" tn="15.545277777778" tnp="1.9444444444444" clt="383" ></e><e idpt="26" ha="21:13:28" ja="5" tps="17:13:18" tn="17.221666666667" tnp="1.6763888888889" clt="373" ></e><e idpt="28" ha="22:59:12" ja="5" tps="18:59:02" tn="18.983888888889" tnp="1.7622222222222" clt="390" ></e><e idpt="31" ha="00:31:54" ja="6" tps="20:31:44" tn="20.528888888889" tnp="1.545" clt="393" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="46" tps="16:49:07"
+                race="lozère trail - ultra lozere"
+                year="2018" dist="113"/>
+                                <e
+                pos="39" tps="15:44:29"
+                race="grand trail gigondas - 95km solo officiel"
+                year="2018" dist="97"/>
+                                <e
+                pos="168" tps="09:03:09"
+                race="trail sainte-victoire - les crêtes"
+                year="2018" dist="58"/>
+                                <e
+                pos="97" tps="06:22:22"
+                race="trail de la galinette - les drailles de la galinette"
+                year="2018" dist="46"/>
+                                <e
+                pos="78" tps="39:27:04"
+                race="tor des géants - tot dret"
+                year="2017" dist="134"/>
+                                <e
+                pos="157" tps="31:26:11"
+                race="grand raid des pyrénées - tour des cirques"
+                year="2017" dist="120"/>
+                                <e
+                pos="54" tps="26:51:46"
+                race="trail du cro  - trail du cro"
+                year="2017" dist="111"/>
+                                <e
+                pos="108" tps="30:34:12"
+                race="ultimate race marseille - ultimate race"
+                year="2017" dist="134"/>
+                                <e
+                pos="127" tps="04:02:34"
+                race="trail sainte-victoire - trail sainte-victoire"
+                year="2017" dist="36"/>
+                                <e
+                pos="28" tps="06:22:48"
+                race="trans-saint-paulienne - trail sud ardéchois "
+                year="2017" dist="50"/>
+                                <e
+                pos="94" tps="08:32:27"
+                race="ceven'trail - le trail aux etoiles"
+                year="2017" dist="58"/>
+                                <e
+                pos="93" tps="06:10:43"
+                race="trail de la galinette - les drailles de la galinette"
+                year="2017" dist="44"/>
+                                <e
+                pos="322" tps="144:41:50"
+                race="tor des géants - tor des géants"
+                year="2016" dist="343"/>
+                                <e
+                pos="32" tps="06:51:20"
+                race="trail de la chaussee des geants - les 3 vallées"
+                year="2016" dist="51"/>
+                                <e
+                pos="80" tps="07:23:58"
+                race="trail sainte victoire - trail sainte victoire"
+                year="2016" dist="53"/>
+                                <e
+                pos="135" tps="05:32:01"
+                race="ergysport trail du ventoux - 46 km"
+                year="2016" dist="45"/>
+                                <e
+                pos="84" tps="08:02:09"
+                race="ceven'trail - le trail aux etoiles"
+                year="2016" dist="58"/>
+                                <e
+                pos="46" tps="05:38:39"
+                race="trail de la galinette - les drailles de la galinette"
+                year="2016" dist="44"/>
+                                <e
+                pos="7" tps="15:23:10"
+                race="grand trail stevenson - gts2 - 110"
+                year="2015" dist="110"/>
+                                <e
+                pos="54" tps="08:27:48"
+                race="ceven'trail - le trail aux etoiles"
+                year="2015" dist="58"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-00.31.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-00.31.25.jpg"/>
+											</videos></fiche></d>

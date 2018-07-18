@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4535"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4535" c="KmV"  >
+						<identite nom="AQUINO LEAL"
+			  prenom="Rafael"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="CANI PRO TEAM"			  			  
+			  				  nat="Brésil"
+				  cio="BRA" a2="BR" a3="BRA" 			  			  				  				  ville="RIO DE JANEIRO" pays="BR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="368" code="f" clt="368"  cltcat="176" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="16:58:30" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="17:30:18" ja="5" tps="00:31:48" tn="0.53" tnp="0.53" clt="401" ></e><e idpt="52" ha="18:06:14" ja="5" tps="01:07:44" tn="1.1288888888889" tnp="0.59888888888889" clt="368" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="33" tps="04:53:32"
+                race="desafio corja pedra branca - cruzada corja - 27km"
+                year="2018" dist="27"/>
+                                <e
+                pos="582" tps="03:49:23"
+                race="dolomites skyrace - dolomites skyrace"
+                year="2017" dist="22"/>
+                                <e
+                pos="133" tps="12:31:24"
+                race="royal race gran paradiso - royal ultra sky marathon"
+                year="2017" dist="56"/>
+                                <e
+                pos="54" tps="02:23:35"
+                race="high trail vanoise - balcons de val"
+                year="2017" dist="20"/>
+                                <e
+                pos="287" tps="03:50:55"
+                race="marathon du mont-blanc - duo étoilé"
+                year="2017" dist="16"/>
+                                <e
+                pos="233" tps="19:52:10"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2017" dist="91"/>
+                                <e
+                pos="21" tps="11:06:33"
+                race="aptr ultra de videiras - 63 km"
+                year="2017" dist="63"/>
+                                <e
+                pos="59" tps="23:35:52"
+                race="vulcano ultra-trail® - ultra terra 100k"
+                year="2016" dist="101"/>
+                                <e
+                pos="714" tps="23:08:36"
+                race="UTMB® - CCC®"
+                year="2016" dist="101"/>
+                                <e
+                pos="38" tps="10:42:27"
+                race="aptr ultra de videiras - 75 km"
+                year="2016" dist="73"/>
+                                <e
+                pos="821" tps="11:07:21"
+                race="ultra-trail du mont-blanc® - occ"
+                year="2015" dist="52"/>
+                                <e
+                pos="117" tps="08:25:12"
+                race="the north face endurance challenge ultra trail agulhas negras - 50k"
+                year="2015" dist="51"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.05.50.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.05.50.jpg"/>
+											</videos></fiche></d>

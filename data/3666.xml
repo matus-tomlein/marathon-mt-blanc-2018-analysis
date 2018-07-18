@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3666"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3666" c="90km"  >
+						<identite nom="GRANDSEIGNE"
+			  prenom="Stéphanie"			  cat="V1 F"
+			  sx="F"
+			  descat="40-49"
+			  club="Vulca Raid"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="CLERMONT-FERRAND" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="506" code="f" clt="506"  cltcat="18" cltsex="41" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:33:25" ja="5" tps="02:33:15" tn="2.5541666666667" tnp="2.5541666666667" clt="612" ></e><e idpt="4" ha="07:44:28" ja="5" tps="03:44:18" tn="3.7383333333333" tnp="1.1841666666667" clt="568" ></e><e idpt="6" ha="08:29:55" ja="5" tps="04:29:45" tn="4.4958333333333" tnp="0.7575" clt="572" ></e><e idpt="8" ha="09:30:24" ja="5" tps="05:30:14" tn="5.5038888888889" tnp="1.0080555555556" clt="565" ></e><e idpt="10" ha="11:08:20" ja="5" tps="07:08:10" tn="7.1361111111111" tnp="1.4658333333333" clt="563" ></e><e idpt="12" ha="11:40:32" ja="5" tps="07:40:22" tn="7.6727777777778" tnp="0.53666666666667" clt="526" ></e><e idpt="14" ha="13:43:57" ja="5" tps="09:43:47" tn="9.7297222222222" tnp="1.8688888888889" clt="589" ></e><e idpt="16" ha="15:01:39" ja="5" tps="11:01:29" tn="11.024722222222" tnp="1.295" clt="547" ></e><e idpt="18" ha="16:57:46" ja="5" tps="12:57:36" tn="12.96" tnp="1.9352777777778" clt="547" ></e><e idpt="20" ha="17:39:00" ja="5" tps="13:38:50" tn="13.647222222222" tnp="0.68722222222222" clt="551" ></e><e idpt="22" ha="18:40:58" ja="5" tps="14:40:48" tn="14.68" tnp="1.0327777777778" clt="569" ></e><e idpt="24" ha="20:48:20" ja="5" tps="16:48:10" tn="16.802777777778" tnp="2.1227777777778" clt="542" ></e><e idpt="26" ha="22:37:21" ja="5" tps="18:37:11" tn="18.619722222222" tnp="1.8130555555556" clt="528" ></e><e idpt="28" ha="00:23:00" ja="6" tps="20:22:50" tn="20.380555555556" tnp="1.7608333333333" clt="534" ></e><e idpt="31" ha="01:51:34" ja="6" tps="21:51:24" tn="21.856666666667" tnp="1.4761111111111" clt="506" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="314" cltsx="35" tps="08:30:05"
+                race="la pastourelle - trail du grand cirque"
+                year="2018" dist="53"/>
+                                <e
+                pos="122" cltsx="15" tps="06:04:20"
+                race="trail napoléon - trail impérial"
+                year="2018" dist="43"/>
+                                <e
+                pos="296" cltsx="35" tps="05:42:31"
+                race="trail des passerelles du monteynard - trail des passerelles 39 km"
+                year="2017" dist="40"/>
+                                <e
+                pos="264" cltsx="17" tps="24:06:00"
+                race="utpma - ultra trail puy mary aurillac"
+                year="2017" dist="108"/>
+                                <e
+                pos="164" cltsx="14" tps="07:00:51"
+                race="la pastourelle - trail 53 km"
+                year="2017" dist="50"/>
+                                <e
+                pos="219" cltsx="25" tps="03:30:04"
+                race="trail des piqueurs - 25 km"
+                year="2017" dist="25"/>
+                                <e
+                pos="247" cltsx="24" tps="01:53:14"
+                race="la saintélyon - la saintésprint"
+                year="2016" dist="22"/>
+                                <e
+                pos="905" cltsx="72" tps="12:56:13"
+                race="festival des templiers - grand trail des templiers"
+                year="2016" dist="76"/>
+                                <e
+                pos="277" cltsx="47" tps="07:01:36"
+                race="ultra-trail® di corsica - tavignanu trail"
+                year="2016" dist="32"/>
+                                <e
+                pos="738" cltsx="78" tps="06:34:17"
+                race="maxi-race du lac d'annecy - marathon race"
+                year="2016" dist="38"/>
+                                <e
+                pos="363" cltsx="32" tps="03:10:53"
+                race="trail des forts de besançon - 28 km"
+                year="2016" dist="27"/>
+                                <e
+                pos="199" cltsx="7" tps="09:50:54"
+                race="trails du sancy mont-dore/caisse d'epargne auvergne-limousin - grand trail du sancy 60 km"
+                year="2015" dist="59"/>
+                                <e
+                pos="170" cltsx="18" tps="07:16:21"
+                race="skyrace de montgenevre - sky race chaberton"
+                year="2015" dist="38"/>
+                                <e
+                pos="274" cltsx="15" tps="03:48:32"
+                race="la pastourelle - la pastourelle - trail 32km"
+                year="2015" dist="31"/>
+                                <e
+                pos="268" cltsx="14" tps="05:54:56"
+                race="trail de vulcain - trail de vulcain 42km"
+                year="2015" dist="41"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-01.51.05.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-30-01.51.05.jpg"/>
+											</videos></fiche></d>

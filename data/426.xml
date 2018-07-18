@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="426"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="426" c="42km"  >
+						<identite nom="KO"
+			  prenom="Ethan"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="tRab/Avenahte"			  			  
+			  				  nat="Hong Kong, Chine"
+				  cio="HKG" a2="HK" a3="HKG" 			  			  				  				  ville="HONG KONG" pays="HK"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1629" code="f" clt="1629"  cltcat="711" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:24:10" ja="7" tps="01:24:10" tn="1.4027777777778" tnp="1.4027777777778" clt="2287" ></e><e idpt="36" ha="09:05:20" ja="7" tps="02:05:20" tn="2.0888888888889" tnp="0.68611111111111" clt="2222" ></e><e idpt="38" ha="09:39:56" ja="7" tps="02:39:56" tn="2.6655555555556" tnp="0.57666666666667" clt="2164" ></e><e idpt="40" ha="11:02:53" ja="7" tps="04:02:53" tn="4.0480555555556" tnp="1.3825" clt="2084" ></e><e idpt="42" ha="12:27:25" ja="7" tps="05:27:25" tn="5.4569444444444" tnp="1.4088888888889" clt="1935" ></e><e idpt="44" ha="12:51:23" ja="7" tps="05:51:23" tn="5.8563888888889" tnp="0.37333333333333" clt="1889" ></e><e idpt="46" ha="14:50:05" ja="7" tps="07:50:05" tn="7.8347222222222" tnp="1.9783333333333" clt="1710" ></e><e idpt="51" ha="16:12:45" ja="7" tps="09:12:45" tn="9.2125" tnp="1.3777777777778" clt="1629" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="21" tps="14:38:02"
+                race="greenrace ultra - 75km"
+                year="2018" dist="78"/>
+                                <e
+                pos="15" tps="17:43:38"
+                race="translantau - 100km"
+                year="2018" dist="103"/>
+                                <e
+                pos="186" tps="15:12:12"
+                race="vibram hong kong 100 - vibram hong kong 100"
+                year="2018" dist="96"/>
+                                <e
+                pos="427" tps="21:32:46"
+                race="oxfam trailwalker hong kong - oxfam trailwalker hong kong "
+                year="2017" dist="99"/>
+                                <e
+                pos="23" tps="15:55:54"
+                race="the 9 dragons ultra - 50 mile"
+                year="2017" dist="87"/>
+                                <e
+                pos="20" tps="26:07:35"
+                race="the 9 dragons ultra - 50/50"
+                year="2017" dist="135"/>
+                                <e
+                pos="995" tps="24:28:39"
+                race="oxfam trailwalker hong kong - oxfam trailwalker hong kong"
+                year="2016" dist="99"/>
+                                <e
+                pos="65" tps="13:36:15"
+                race="salomon lantau trail - 70 km"
+                year="2016" dist="69"/>
+                                <e
+                pos="410" tps="22:36:05"
+                race="translantau - 100 km stopped cp9"
+                year="2016" dist="85"/>
+                                <e
+                pos="10" tps="19:10:49"
+                race="ultra trail hong kong - uthk 100"
+                year="2016" dist="105"/>
+                                <e
+                pos="705" tps="22:40:36"
+                race="oxfam trailwalker hong kong - oxfam trailwalker hong kong"
+                year="2015" dist="99"/>
+                                <e
+                pos="45" tps="19:34:13"
+                race="raleigh challenge - wilson trail - whole course"
+                year="2015" dist="85"/>
+                                <e
+                pos="364" tps="05:47:14"
+                race="lantau 2 peaks skyrunning  - 23k"
+                year="2015" dist="23"/>
+                                <e
+                pos="105" tps="08:41:58"
+                race="translantau - 50 km"
+                year="2015" dist="50"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.12.20.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-16.12.20.jpg"/>
+											</videos></fiche></d>

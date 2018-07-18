@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="563"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="563" c="42km"  >
+						<identite nom="DABROWSKI"
+			  prenom="Cezary"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="MAXI Piaseczno"			  			  
+			  				  nat="Pologne"
+				  cio="POL" a2="PL" a3="POL" 			  			  				  				  ville="PIASECZNO" pays="PL"
+			  			/>
+			<antecedents></antecedents>																								<state  test="2026" code="hd" clt="2026"  cltcat="536" />			<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="08:14:25" ja="7" tps="01:14:25" tn="1.2402777777778" tnp="1.2402777777778" clt="1726" ></e><e idpt="36" ha="08:51:49" ja="7" tps="01:51:49" tn="1.8636111111111" tnp="0.62333333333333" clt="1701" ></e><e idpt="38" ha="09:21:48" ja="7" tps="02:21:48" tn="2.3633333333333" tnp="0.49972222222222" clt="1592" ></e><e idpt="40" ha="10:42:14" ja="7" tps="03:42:14" tn="3.7038888888889" tnp="1.3405555555556" clt="1662" ></e><e idpt="42" ha="12:05:40" ja="7" tps="05:05:40" tn="5.0944444444444" tnp="1.3905555555556" clt="1608" ></e><e idpt="44" ha="12:33:32" ja="7" tps="05:33:32" tn="5.5588888888889" tnp="0.46444444444444" clt="1631" ></e><e idpt="46" ha="15:49:06" ja="7" tps="08:49:06" tn="8.8183333333333" tnp="3.2594444444444" clt="2039" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="145" tps="16:52:57"
+                race="krakonošova stovka - k100"
+                year="2018" dist="97"/>
+                                <e
+                pos="43" tps="22:53:58"
+                race="ultra fiord - 100k - shortened race 81k"
+                year="2018" dist="82"/>
+                                <e
+                pos="78" tps="23:14:09"
+                race="lower silesian mountain runs festival - super trail b7s"
+                year="2017" dist="131"/>
+                                <e
+                pos="58" tps="05:19:31"
+                race="tricity trail - maraton+"
+                year="2017" dist="48"/>
+                                <e
+                pos="315" tps="07:55:05"
+                race="maraton karkonoski - 9 pzu maraton ultra"
+                year="2017" dist="52"/>
+                                <e
+                pos="10" tps="11:22:53"
+                race="ultraroztocze - 80 km"
+                year="2017" dist="82"/>
+                                <e
+                pos="497" tps="28:58:35"
+                race="transgrancanaria hg - trans gc"
+                year="2017" dist="124"/>
+                                <e
+                pos="489" tps="27:47:03"
+                race="ultra pirineu - salomon ultra pirineu"
+                year="2016" dist="109"/>
+                                <e
+                pos="517" tps="11:28:24"
+                race="vasaloppet ultravasan - 90 km"
+                year="2016" dist="91"/>
+                                <e
+                pos="84" tps="22:50:36"
+                race="lower silesian mountain runs festival - super trail b7s"
+                year="2016" dist="123"/>
+                                <e
+                pos="294" tps="14:00:21"
+                race="trail verbier st bernard - traversée"
+                year="2016" dist="62"/>
+                                <e
+                pos="31" tps="13:10:01"
+                race="mozart 100® - scenic 100"
+                year="2016" dist="104"/>
+                                <e
+                pos="309" tps="13:55:21"
+                race="rzeźnicki festiwal biegowy - bieg rzeźnika 80k team"
+                year="2016" dist="82"/>
+                                <e
+                pos="59" tps="17:19:38"
+                race="rzeźnicki festiwal biegowy - bieg rzeźnika ultra 100k"
+                year="2016" dist="103"/>
+                                <e
+                pos="88" tps="10:47:54"
+                race="beskidy ultra - trail® - but 60"
+                year="2015" dist="62"/>
+                                <e
+                pos="301" tps="35:10:34"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="66" tps="06:41:53"
+                race="chudy wawrzyniec - chudy wawrzyniec - 50km"
+                year="2015" dist="53"/>
+                                <e
+                pos="28" tps="09:21:47"
+                race="lower silesian mountain runs festival - lower silesian mount - dfbg - ultra"
+                year="2015" dist="69"/>
+                                <e
+                pos="299" tps="21:27:15"
+                race="the north face lavaredo ultra trail - lavaredo ultra trail"
+                year="2015" dist="126"/>
+                                <e
+                pos="43" tps="05:37:24"
+                race="chojnik karkonoski festiwal biegowy - chojnik maraton"
+                year="2015" dist="44"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

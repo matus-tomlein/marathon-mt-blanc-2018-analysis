@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3206"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3206" c="90km"  >
+						<identite nom="SCHNEIDER"
+			  prenom="Jean-Claude"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="BASTIA" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="244" code="f" clt="244"  cltcat="79" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:04:38" ja="5" tps="02:04:28" tn="2.0744444444444" tnp="2.0744444444444" clt="190" ></e><e idpt="4" ha="07:08:22" ja="5" tps="03:08:12" tn="3.1366666666667" tnp="1.0622222222222" clt="206" ></e><e idpt="6" ha="07:47:45" ja="5" tps="03:47:35" tn="3.7930555555556" tnp="0.65638888888889" clt="206" ></e><e idpt="8" ha="08:39:02" ja="5" tps="04:38:52" tn="4.6477777777778" tnp="0.85472222222222" clt="208" ></e><e idpt="10" ha="10:07:23" ja="5" tps="06:07:13" tn="6.1202777777778" tnp="1.2725" clt="223" ></e><e idpt="12" ha="10:39:34" ja="5" tps="06:39:24" tn="6.6566666666667" tnp="0.53638888888889" clt="218" ></e><e idpt="14" ha="12:13:53" ja="5" tps="08:13:43" tn="8.2286111111111" tnp="1.5719444444444" clt="227" ></e><e idpt="16" ha="13:20:45" ja="5" tps="09:20:35" tn="9.3430555555556" tnp="1.1144444444444" clt="224" ></e><e idpt="18" ha="14:57:13" ja="5" tps="10:57:03" tn="10.950833333333" tnp="1.6077777777778" clt="217" ></e><e idpt="20" ha="15:35:52" ja="5" tps="11:35:42" tn="11.595" tnp="0.64416666666667" clt="220" ></e><e idpt="22" ha="16:19:06" ja="5" tps="12:18:56" tn="12.315555555556" tnp="0.72055555555556" clt="214" ></e><e idpt="24" ha="17:59:58" ja="5" tps="13:59:48" tn="13.996666666667" tnp="1.6811111111111" clt="213" ></e><e idpt="26" ha="19:43:49" ja="5" tps="15:43:39" tn="15.7275" tnp="1.7286111111111" clt="211" ></e><e idpt="28" ha="21:25:18" ja="5" tps="17:25:08" tn="17.418888888889" tnp="1.6913888888889" clt="244" ></e><e idpt="31" ha="22:45:53" ja="5" tps="18:45:43" tn="18.761944444444" tnp="1.3430555555556" clt="244" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="18" tps="05:16:29"
+                race="trail gravona - marathon de la gravona"
+                year="2018" dist="40"/>
+                                <e
+                pos="17" tps="04:38:27"
+                race="alisgianinca trail - 31 km"
+                year="2017" dist="31"/>
+                                <e
+                pos="20" tps="05:33:15"
+                race="trail gravona - marathon de la gravona"
+                year="2017" dist="43"/>
+                                <e
+                pos="39" tps="12:28:20"
+                race="ultra-trail® di corsica - restonica trail"
+                year="2016" dist="65"/>
+                                <e
+                pos="16" tps="04:52:26"
+                race="alisgianinca trail - 31 km"
+                year="2016" dist="31"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-22.45.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-22.45.25.jpg"/>
+											</videos></fiche></d>

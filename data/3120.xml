@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3120"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3120" c="90km"  >
+						<identite nom="GARIBALDI"
+			  prenom="Diego"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club=""			  			  
+			  				  nat="Italie"
+				  cio="ITA" a2="IT" a3="ITA" 			  			  				  				  ville="CHIAVARI" pays="IT"
+			  			/>
+			<antecedents></antecedents>																								<state  test="40" code="f" clt="40"  cltcat="7" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="05:49:33" ja="5" tps="01:49:23" tn="1.8230555555556" tnp="1.8230555555556" clt="77" ></e><e idpt="4" ha="06:43:26" ja="5" tps="02:43:16" tn="2.7211111111111" tnp="0.89805555555556" clt="85" ></e><e idpt="6" ha="07:17:36" ja="5" tps="03:17:26" tn="3.2905555555556" tnp="0.56944444444444" clt="81" ></e><e idpt="8" ha="08:01:42" ja="5" tps="04:01:32" tn="4.0255555555556" tnp="0.735" clt="77" ></e><e idpt="10" ha="09:13:38" ja="5" tps="05:13:28" tn="5.2244444444444" tnp="1.1336111111111" clt="72" ></e><e idpt="12" ha="09:40:46" ja="5" tps="05:40:36" tn="5.6766666666667" tnp="0.45222222222222" clt="75" ></e><e idpt="14" ha="10:54:59" ja="5" tps="06:54:49" tn="6.9136111111111" tnp="1.2369444444444" clt="73" ></e><e idpt="16" ha="11:38:50" ja="5" tps="07:38:40" tn="7.6444444444444" tnp="0.73083333333333" clt="59" ></e><e idpt="18" ha="12:55:48" ja="5" tps="08:55:38" tn="8.9272222222222" tnp="1.2827777777778" clt="55" ></e><e idpt="20" ha="13:24:51" ja="5" tps="09:24:41" tn="9.4113888888889" tnp="0.48416666666667" clt="53" ></e><e idpt="22" ha="14:00:36" ja="5" tps="10:00:26" tn="10.007222222222" tnp="0.59583333333333" clt="51" ></e><e idpt="24" ha="15:17:33" ja="5" tps="11:17:23" tn="11.289722222222" tnp="1.2825" clt="50" ></e><e idpt="26" ha="16:33:05" ja="5" tps="12:32:55" tn="12.548611111111" tnp="1.2566666666667" clt="47" ></e><e idpt="28" ha="17:31:53" ja="5" tps="13:31:43" tn="13.528611111111" tnp="0.98" clt="42" ></e><e idpt="31" ha="18:26:36" ja="5" tps="14:26:26" tn="14.440555555556" tnp="0.91194444444444" clt="40" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="4" tps="15:23:57"
+                race="le porte di pietra - i villaggi di pietra"
+                year="2018" dist="106"/>
+                                <e
+                pos="13" tps="06:28:32"
+                race="gran trail rensen - gran trail rensen"
+                year="2018" dist="45"/>
+                                <e
+                pos="13" tps="04:40:13"
+                race="trail del marchesato - 38km"
+                year="2018" dist="38"/>
+                                <e
+                pos="142" tps="15:17:51"
+                race="UTMB® - CCC®"
+                year="2017" dist="100"/>
+                                <e
+                pos="8" tps="07:44:49"
+                race="ferriere trail festival - ferriere trail festival"
+                year="2017" dist="56"/>
+                                <e
+                pos="19" tps="12:35:06"
+                race="trans d' havet - ultra 80 km"
+                year="2017" dist="81"/>
+                                <e
+                pos="19" tps="03:17:23"
+                race="genova trail - genova night trail 30k"
+                year="2017" dist="30"/>
+                                <e
+                pos="15" tps="13:12:03"
+                race="5° quadrifoglio - quadrifoglio ultra-trail® della valtaro"
+                year="2017" dist="101"/>
+                                <e
+                pos="29" tps="05:57:18"
+                race="sciacchetrail - sciacchetrail"
+                year="2017" dist="48"/>
+                                <e
+                pos="6" tps="08:38:38"
+                race="trail dei fieschi 57k - trail dei fieschi 57k"
+                year="2016" dist="57"/>
+                                <e
+                pos="21" tps="03:28:09"
+                race="genova trail - genova night trail 30k"
+                year="2016" dist="30"/>
+                                <e
+                pos="23" tps="07:20:46"
+                race="gran trail rensen - gran trail"
+                year="2016" dist="45"/>
+                                <e
+                pos="14" tps="05:23:38"
+                race="trail dei gorrei  - trail dei gorrei 45km"
+                year="2016" dist="44"/>
+                                <e
+                pos="45" tps="06:22:12"
+                race="sciacchetrail - sciacchetrail"
+                year="2016" dist="48"/>
+                                <e
+                pos="20" tps="04:49:57"
+                race="trail golfo dei poeti - trail golfo dei poeti - cinque terre"
+                year="2015" dist="37"/>
+                                <e
+                pos="30" tps="02:11:43"
+                race="aschero trail - aschero trail 20km"
+                year="2015" dist="20"/>
+                                <e
+                pos="29" tps="02:43:27"
+                race="gran trail rensen - trail"
+                year="2015" dist="23"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-18.26.10.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-18.26.10.jpg"/>
+											</videos></fiche></d>

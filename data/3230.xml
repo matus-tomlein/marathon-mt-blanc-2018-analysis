@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3230"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3230" c="90km"  >
+						<identite nom="ALLIX"
+			  prenom="Franck"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="ADNGPS"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="VIEUX MANOIR" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="181" code="f" clt="181"  cltcat="56" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="05:57:41" ja="5" tps="01:57:31" tn="1.9586111111111" tnp="1.9586111111111" clt="131" ></e><e idpt="4" ha="06:59:27" ja="5" tps="02:59:17" tn="2.9880555555556" tnp="1.0294444444444" clt="152" ></e><e idpt="6" ha="07:39:57" ja="5" tps="03:39:47" tn="3.6630555555556" tnp="0.675" clt="167" ></e><e idpt="8" ha="08:28:15" ja="5" tps="04:28:05" tn="4.4680555555556" tnp="0.805" clt="159" ></e><e idpt="10" ha="09:52:20" ja="5" tps="05:52:10" tn="5.8694444444444" tnp="1.3352777777778" clt="163" ></e><e idpt="12" ha="10:22:49" ja="5" tps="06:22:39" tn="6.3775" tnp="0.50805555555556" clt="164" ></e><e idpt="14" ha="12:19:16" ja="5" tps="08:19:06" tn="8.3183333333333" tnp="1.9408333333333" clt="240" ></e><e idpt="16" ha="13:23:21" ja="5" tps="09:23:11" tn="9.3863888888889" tnp="1.0680555555556" clt="233" ></e><e idpt="18" ha="14:53:09" ja="5" tps="10:52:59" tn="10.883055555556" tnp="1.4966666666667" clt="211" ></e><e idpt="20" ha="15:27:30" ja="5" tps="11:27:20" tn="11.455555555556" tnp="0.5725" clt="210" ></e><e idpt="22" ha="16:07:26" ja="5" tps="12:07:16" tn="12.121111111111" tnp="0.66555555555556" clt="201" ></e><e idpt="24" ha="17:44:08" ja="5" tps="13:43:58" tn="13.732777777778" tnp="1.6116666666667" clt="181" ></e><e idpt="26" ha="19:20:37" ja="5" tps="15:20:27" tn="15.340833333333" tnp="1.6080555555556" clt="181" ></e><e idpt="28" ha="20:48:03" ja="5" tps="16:47:53" tn="16.798055555556" tnp="1.4572222222222" clt="193" ></e><e idpt="31" ha="21:51:13" ja="5" tps="17:51:03" tn="17.850833333333" tnp="1.0527777777778" clt="181" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="2" tps="24:10:49"
+                race="le radicatrail - le crazy défi"
+                year="2018" dist="192"/>
+                                <e
+                pos="15" tps="05:50:51"
+                race="trail des 2 amants - gran'trail"
+                year="2018" dist="54"/>
+                                <e
+                pos="4" tps="20:14:29"
+                race="le radicatrail - le super défi"
+                year="2017" dist="176"/>
+                                <e
+                pos="17" tps="05:42:13"
+                race="trail des 2 amants - gran'trail des 2 amants"
+                year="2017" dist="56"/>
+                                <e
+                pos="44" tps="09:56:05"
+                race="trails du tour du canton - 82 km"
+                year="2016" dist="82"/>
+                                <e
+                pos="414" tps="11:08:24"
+                race="festival des templiers - grand trail des templiers"
+                year="2016" dist="76"/>
+                                <e
+                pos="90" tps="43:31:39"
+                race="ultra tour des 4 massifs - ut4m160 xtrem"
+                year="2016" dist="163"/>
+                                <e
+                pos="81" tps="14:20:23"
+                race="ultra-trail® di corsica - restonica trail"
+                year="2016" dist="65"/>
+                                <e
+                pos="180" tps="10:53:04"
+                race="la transju'trail - la transju'trail 72 km"
+                year="2016" dist="70"/>
+                                <e
+                pos="21" tps="14:16:35"
+                race="le radicatrail - ultra trail"
+                year="2016" dist="114"/>
+                                <e
+                pos="34" tps="09:38:40"
+                race="trails du tour du canton - 82 km"
+                year="2015" dist="83"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.50.45.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-21.50.45.jpg"/>
+											</videos></fiche></d>

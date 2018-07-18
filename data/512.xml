@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="512"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="512" c="42km"  >
+						<identite nom="BELLONE"
+			  prenom="Andrea"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club=""			  			  
+			  				  nat="Italie"
+				  cio="ITA" a2="IT" a3="ITA" 			  			  				  				  ville="LONDON" pays="GB"
+			  			/>
+			<antecedents></antecedents>																								<state  test="291" code="f" clt="291"  cltcat="17" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:54:34" ja="7" tps="00:54:34" tn="0.90944444444444" tnp="0.90944444444444" clt="366" ></e><e idpt="36" ha="08:23:02" ja="7" tps="01:23:02" tn="1.3838888888889" tnp="0.47444444444444" clt="368" ></e><e idpt="38" ha="08:46:06" ja="7" tps="01:46:06" tn="1.7683333333333" tnp="0.38444444444444" clt="346" ></e><e idpt="40" ha="09:41:23" ja="7" tps="02:41:23" tn="2.6897222222222" tnp="0.92138888888889" clt="354" ></e><e idpt="42" ha="10:40:10" ja="7" tps="03:40:10" tn="3.6694444444444" tnp="0.97972222222222" clt="329" ></e><e idpt="44" ha="10:56:58" ja="7" tps="03:56:58" tn="3.9494444444444" tnp="0.28" clt="314" ></e><e idpt="46" ha="12:29:50" ja="7" tps="05:29:50" tn="5.4972222222222" tnp="1.5477777777778" clt="301" ></e><e idpt="51" ha="13:29:42" ja="7" tps="06:29:42" tn="6.495" tnp="0.99777777777778" clt="291" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="62" tps="07:18:07"
+                race="tour monviso trail - tour monviso trail"
+                year="2017" dist="40"/>
+                                <e
+                pos="41" tps="06:56:51"
+                race="tour monviso trail - tour monviso trail"
+                year="2016" dist="40"/>
+                                <e
+                pos="171" tps="03:07:55"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2016" dist="26"/>
+                                <e
+                pos="194" tps="03:10:24"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2015" dist="23"/>
+                                <e
+                pos="583" tps="03:49:29"
+                race="marathon du mont-blanc - cross du mont-blanc"
+                year="2014" dist="24"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.29.15.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.29.15.jpg"/>
+											</videos></fiche></d>

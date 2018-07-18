@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="4695"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="4695" c="KmV"  >
+						<identite nom="FARSY"
+			  prenom="Bernard"			  cat="V3 H"
+			  sx="H"
+			  descat="60-69"
+			  club="CHAMONIX MONT BLANC MARATHON"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="CHAMONIX" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="322" code="f" clt="322"  cltcat="10" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="17:38:31" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="48" ha="18:09:03" ja="5" tps="00:30:32" tn="0.50888888888889" tnp="0.50888888888889" clt="366" ></e><e idpt="52" ha="18:42:46" ja="5" tps="01:04:15" tn="1.0708333333333" tnp="0.56194444444444" clt="322" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1060" x="50" y="149" px="6" py="75" lon="6.86915" lat="45.9236" /><pt idpt="48" n="500m" nc="500m" km="2.16" d="486" a="1532" x="481" y="109" px="57" py="55" lon="6.85748" lat="45.9305" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="3.96" d="1003" a="2048" x="840" y="65" px="99" py="33" lon="6.8526" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="928" tps="08:00:32"
+                race="salomon gore-tex maxi-race - marathon race"
+                year="2018" dist="42"/>
+                                <e
+                pos="131" tps="07:02:35"
+                race="trail des glieres - le duo du roc - team"
+                year="2017" dist="37"/>
+                                <e
+                pos="127" tps="02:41:35"
+                race="trail des aiguilles rouges - p'tit tar"
+                year="2017" dist="16"/>
+                                <e
+                pos="801" tps="10:31:43"
+                race="UTMB® - occ"
+                year="2017" dist="55"/>
+                                <e
+                pos="977" tps="09:23:44"
+                race="the north face lavaredo ultra trail - cortina trail"
+                year="2017" dist="48"/>
+                                <e
+                pos="158" tps="05:56:11"
+                race="trail du roc de la lune - trail du roc de la lune"
+                year="2017" dist="29"/>
+                                <e
+                pos="87" tps="01:38:14"
+                race="alpin trail de pichauris - alpin sport"
+                year="2016" dist="15"/>
+                                <e
+                pos="204" tps="04:53:48"
+                race="trail des hauts forts - 27 km"
+                year="2016" dist="27"/>
+                                <e
+                pos="208" tps="18:23:54"
+                race="pierra menta été - pierra menta été"
+                year="2016" dist="67"/>
+                                <e
+                pos="222" tps="15:00:22"
+                race="maxi-race du lac d'annecy - compressport xl-race"
+                year="2015" dist="84"/>
+                                <e
+                pos="318" tps="03:52:55"
+                race="ergysport trail du ventoux - 26 km"
+                year="2015" dist="26"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.42.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-29-18.42.25.jpg"/>
+											</videos></fiche></d>

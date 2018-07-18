@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="5154"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="5154" c="23km"  >
+						<identite nom="CHALVET"
+			  prenom="Laurent"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="SALTA BARTAS"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="LA SALLE PRUNET" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="1379" code="f" clt="1379"  cltcat="244" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="08:00:29" jd="6" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="32" ha="08:56:24" ja="6" tps="00:55:55" tn="0.93194444444444" tnp="0.93194444444444" clt="1857" ></e><e idpt="36" ha="10:14:00" ja="6" tps="02:13:31" tn="2.2252777777778" tnp="1.2933333333333" clt="1851" ></e><e idpt="46" ha="12:21:10" ja="6" tps="04:20:41" tn="4.3447222222222" tnp="2.1194444444444" clt="1731" ></e><e idpt="52" ha="13:20:29" ja="6" tps="05:20:00" tn="5.3333333333333" tnp="0.98861111111111" clt="1382" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1038" x="50" y="151" px="6" py="76" lon="6.87565" lat="45.9282" /><pt idpt="32" n="Le Lavancher" nc="Lavanch" km="5.03" d="210" a="1207" x="218" y="137" px="26" py="69" lon="6.90755" lat="45.9575" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="12.35" d="577" a="1412" x="462" y="119" px="54" py="60" lon="6.92671" lat="45.9968" /><pt idpt="46" n="Flégère" nc="Flégère" km="18.5" d="1305" a="1891" x="668" y="79" px="79" py="40" lon="6.88621" lat="45.9603" /><pt idpt="52" n="Planpraz - Arrivée" nc="Arrivée" km="23.66" d="1657" a="2048" x="840" y="65" px="99" py="33" lon="6.85245" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="29" tps="20:58:52"
+                race="salomon gore-tex maxi-race - xxl-race"
+                year="2018" dist="116"/>
+                                <e
+                pos="48" tps="02:47:46"
+                race="lozère trail - lozere tra"
+                year="2018" dist="26"/>
+                                <e
+                pos="16" tps="17:13:45"
+                race="grand trail stevenson - gts 143 km"
+                year="2018" dist="142"/>
+                                <e
+                pos="152" tps="08:32:22"
+                race="hivernale des templiers - astragale trail"
+                year="2017" dist="63"/>
+                                <e
+                pos="134" tps="10:05:21"
+                race="festival des templiers - intégrale des causses"
+                year="2017" dist="63"/>
+                                <e
+                pos="870" tps="41:02:00"
+                race="UTMB® - UTMB®"
+                year="2017" dist="169"/>
+                                <e
+                pos="160" tps="05:44:23"
+                race="ubaye trail salomon - ubaye trail salomon"
+                year="2017" dist="41"/>
+                                <e
+                pos="99" tps="13:29:19"
+                race="be run - l'intégrale 80 km"
+                year="2017" dist="75"/>
+                                <e
+                pos="11" tps="04:01:14"
+                race="grand trail stevenson - gts 40 km"
+                year="2017" dist="38"/>
+                                <e
+                pos="1114" tps="08:54:57"
+                race="la saintélyon - la saintélyon"
+                year="2016" dist="72"/>
+                                <e
+                pos="255" tps="16:26:05"
+                race="festival des templiers - endurance trail"
+                year="2016" dist="100"/>
+                                <e
+                pos="158" tps="53:32:35"
+                race="Échappée belle - l'intégrale"
+                year="2016" dist="144"/>
+                                <e
+                pos="436" tps="09:57:14"
+                race="la 6000d la course des géants - la 6000d"
+                year="2016" dist="66"/>
+                                <e
+                pos="32" tps="06:30:34"
+                race="interlac trail - marathon duo 40km"
+                year="2016" dist="41"/>
+                                <e
+                pos="141" tps="26:54:53"
+                race="trail du roc de la lune - ultra du pas du diable "
+                year="2016" dist="126"/>
+                                <e
+                pos="42" tps="02:58:49"
+                race="trail de l escalo - trail de l escalo"
+                year="2016" dist="25"/>
+                                <e
+                pos="906" tps="08:32:19"
+                race="la saintélyon - la saintélyon"
+                year="2015" dist="72"/>
+                                <e
+                pos="115" tps="08:29:04"
+                race="trail gapen'cimes - trail edelweiss"
+                year="2015" dist="56"/>
+                                <e
+                pos="671" tps="28:42:51"
+                race="ultra-trail du mont-blanc® - TDS®"
+                year="2015" dist="119"/>
+                                <e
+                pos="59" tps="09:58:05"
+                race="courchevel x-trail - 54 km"
+                year="2015" dist="53"/>
+                                <e
+                pos="44" tps="14:47:10"
+                race="lozère trail - ultra lozere"
+                year="2015" dist="108"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="52" v="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-13.20.05.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt52_2018-06-30-13.20.05.jpg"/>
+											</videos></fiche></d>

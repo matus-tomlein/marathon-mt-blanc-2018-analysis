@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3680"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3680" c="90km"  >
+						<identite nom="BIBA"
+			  prenom="Anton"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club="mountain-race.ru"			  			  
+			  				  nat="Russie"
+				  cio="RUS" a2="RU" a3="RUS" 			  			  				  				  ville="KOPEYSK " pays="RU"
+			  			/>
+			<antecedents></antecedents>																								<state  test="268" code="f" clt="268"  cltcat="129" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:46:53" ja="5" tps="02:46:43" tn="2.7786111111111" tnp="2.7786111111111" clt="854" ></e><e idpt="4" ha="07:52:12" ja="5" tps="03:52:02" tn="3.8672222222222" tnp="1.0886111111111" clt="676" ></e><e idpt="6" ha="08:36:50" ja="5" tps="04:36:40" tn="4.6111111111111" tnp="0.74388888888889" clt="654" ></e><e idpt="8" ha="09:30:33" ja="5" tps="05:30:23" tn="5.5063888888889" tnp="0.89527777777778" clt="567" ></e><e idpt="10" ha="10:56:35" ja="5" tps="06:56:25" tn="6.9402777777778" tnp="1.3769444444444" clt="478" ></e><e idpt="12" ha="11:31:18" ja="5" tps="07:31:08" tn="7.5188888888889" tnp="0.57861111111111" clt="467" ></e><e idpt="14" ha="13:11:11" ja="5" tps="09:11:01" tn="9.1836111111111" tnp="1.6647222222222" clt="437" ></e><e idpt="16" ha="14:18:06" ja="5" tps="10:17:56" tn="10.298888888889" tnp="1.1152777777778" clt="383" ></e><e idpt="18" ha="16:02:12" ja="5" tps="12:02:02" tn="12.033888888889" tnp="1.735" clt="379" ></e><e idpt="20" ha="16:39:03" ja="5" tps="12:38:53" tn="12.648055555556" tnp="0.61416666666667" clt="375" ></e><e idpt="22" ha="17:30:28" ja="5" tps="13:30:18" tn="13.505" tnp="0.85694444444444" clt="377" ></e><e idpt="24" ha="19:13:56" ja="5" tps="15:13:46" tn="15.229444444444" tnp="1.7244444444444" clt="340" ></e><e idpt="26" ha="20:46:31" ja="5" tps="16:46:21" tn="16.7725" tnp="1.5430555555556" clt="319" ></e><e idpt="28" ha="21:57:31" ja="5" tps="17:57:21" tn="17.955833333333" tnp="1.1833333333333" clt="285" ></e><e idpt="31" ha="23:08:21" ja="5" tps="19:08:11" tn="19.136388888889" tnp="1.1805555555556" clt="268" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="47" tps="05:21:12"
+                race="ural ultra-trail - trail 50km "
+                year="2018" dist="49"/>
+                                <e
+                pos="34" tps="18:22:46"
+                race="trail ultramarathon markotkh - hard"
+                year="2018" dist="110"/>
+                                <e
+                pos="34" tps="05:24:51"
+                race="race over clouds - marathon"
+                year="2017" dist="42"/>
+                                <e
+                pos="93" tps="03:30:02"
+                race="trail-ultramarathon markotkh - 30 km"
+                year="2017" dist="29"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.07.55.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.07.55.jpg"/>
+											</videos></fiche></d>

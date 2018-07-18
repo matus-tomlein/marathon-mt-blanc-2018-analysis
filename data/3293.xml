@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3293"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3293" c="90km"  >
+						<identite nom="CHAUVET"
+			  prenom="Benoit"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="cap endurance"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="ORVAULT" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="297" code="f" clt="297"  cltcat="100" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:10:04" ja="5" tps="02:09:54" tn="2.165" tnp="2.165" clt="244" ></e><e idpt="4" ha="07:25:23" ja="5" tps="03:25:13" tn="3.4202777777778" tnp="1.2552777777778" clt="337" ></e><e idpt="6" ha="08:05:24" ja="5" tps="04:05:14" tn="4.0872222222222" tnp="0.66694444444444" clt="322" ></e><e idpt="8" ha="08:57:58" ja="5" tps="04:57:48" tn="4.9633333333333" tnp="0.87611111111111" clt="300" ></e><e idpt="10" ha="10:22:01" ja="5" tps="06:21:51" tn="6.3641666666667" tnp="1.2413888888889" clt="286" ></e><e idpt="12" ha="10:57:03" ja="5" tps="06:56:53" tn="6.9480555555556" tnp="0.58388888888889" clt="287" ></e><e idpt="14" ha="12:22:41" ja="5" tps="08:22:31" tn="8.3752777777778" tnp="1.4272222222222" clt="253" ></e><e idpt="16" ha="13:38:45" ja="5" tps="09:38:35" tn="9.6430555555556" tnp="1.2677777777778" clt="280" ></e><e idpt="18" ha="15:26:29" ja="5" tps="11:26:19" tn="11.438611111111" tnp="1.7955555555556" clt="295" ></e><e idpt="20" ha="16:05:55" ja="5" tps="12:05:45" tn="12.095833333333" tnp="0.65722222222222" clt="290" ></e><e idpt="22" ha="17:00:02" ja="5" tps="12:59:52" tn="12.997777777778" tnp="0.90194444444444" clt="311" ></e><e idpt="24" ha="18:53:52" ja="5" tps="14:53:42" tn="14.895" tnp="1.8972222222222" clt="294" ></e><e idpt="26" ha="20:27:12" ja="5" tps="16:27:02" tn="16.450555555556" tnp="1.5522222222222" clt="282" ></e><e idpt="28" ha="22:03:55" ja="5" tps="18:03:45" tn="18.0625" tnp="1.6119444444444" clt="298" ></e><e idpt="31" ha="23:28:13" ja="5" tps="19:28:03" tn="19.4675" tnp="1.405" clt="297" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="101" tps="16:56:33"
+                race="andorra ultra trail vallnord - andorra celestrail"
+                year="2017" dist="83"/>
+                                <e
+                pos="222" tps="13:40:18"
+                race="weekend trail du tour des glaciers de la vanoise - le tour des glaciers de la vanoise"
+                year="2016" dist="71"/>
+                                <e
+                pos="180" tps="02:55:24"
+                race="les gendarmes et les voleurs de temps - les voleurs de temps"
+                year="2016" dist="32"/>
+                                <e
+                pos="497" tps="02:23:48"
+                race="trail du vignoble nantais - trail du vignoble nantais 24km"
+                year="2016" dist="24"/>
+                                <e
+                pos="797" tps="12:41:19"
+                race="festival des templiers - grand trail des templiers"
+                year="2015" dist="75"/>
+                                <e
+                pos="461" tps="14:30:56"
+                race="maxi-race du lac d'annecy - tecnica maxi-race"
+                year="2015" dist="83"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.27.45.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-23.27.45.jpg"/>
+											</videos></fiche></d>

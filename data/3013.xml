@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3013"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3013" c="90km"  >
+						<identite nom="BARRET"
+			  prenom="Clement"			  cat="SE H"
+			  sx="H"
+			  descat="23-39"
+			  club=""			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="GOURDON" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="18" code="f" clt="18"  cltcat="10" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="05:33:45" ja="5" tps="01:33:35" tn="1.5597222222222" tnp="1.5597222222222" clt="11" ></e><e idpt="4" ha="06:16:56" ja="5" tps="02:16:46" tn="2.2794444444444" tnp="0.71972222222222" clt="8" ></e><e idpt="6" ha="06:44:44" ja="5" tps="02:44:34" tn="2.7427777777778" tnp="0.46333333333333" clt="8" ></e><e idpt="8" ha="07:20:01" ja="5" tps="03:19:51" tn="3.3308333333333" tnp="0.58805555555556" clt="8" ></e><e idpt="10" ha="08:12:59" ja="5" tps="04:12:49" tn="4.2136111111111" tnp="0.87416666666667" clt="7" ></e><e idpt="12" ha="08:34:19" ja="5" tps="04:34:09" tn="4.5691666666667" tnp="0.35555555555556" clt="6" ></e><e idpt="14" ha="09:31:21" ja="5" tps="05:31:11" tn="5.5197222222222" tnp="0.95055555555556" clt="6" ></e><e idpt="16" ha="10:03:40" ja="5" tps="06:03:30" tn="6.0583333333333" tnp="0.53861111111111" clt="4" ></e><e idpt="18" ha="11:09:59" ja="5" tps="07:09:49" tn="7.1636111111111" tnp="1.1052777777778" clt="5" ></e><e idpt="20" ha="11:33:23" ja="5" tps="07:33:13" tn="7.5536111111111" tnp="0.39" clt="4" ></e><e idpt="22" ha="12:04:14" ja="5" tps="08:04:04" tn="8.0677777777778" tnp="0.51416666666667" clt="7" ></e><e idpt="24" ha="13:02:46" ja="5" tps="09:02:36" tn="9.0433333333333" tnp="0.97555555555556" clt="7" ></e><e idpt="26" ha="14:40:01" ja="5" tps="10:39:51" tn="10.664166666667" tnp="1.6208333333333" clt="15" ></e><e idpt="28" ha="15:56:46" ja="5" tps="11:56:36" tn="11.943333333333" tnp="1.2791666666667" clt="17" ></e><e idpt="31" ha="16:52:53" ja="5" tps="12:52:43" tn="12.878611111111" tnp="0.93527777777778" clt="18" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="39" tps="04:31:20"
+                race="zegama-aizkorri mendi maratoia - zegama-aizkorri mendi maratoia"
+                year="2018" dist="40"/>
+                                <e
+                pos="1" tps="02:12:29"
+                race="volvic volcanic expérience - trail expérience volcanique "
+                year="2018" dist="25"/>
+                                <e
+                pos="1" tps="06:37:31"
+                race="trail du roc de la lune - trail saint-guiral"
+                year="2018" dist="62"/>
+                                <e
+                pos="2" tps="02:31:40"
+                race="le trail des ruthènes - 31 km"
+                year="2018" dist="31"/>
+                                <e
+                pos="16" tps="07:29:49"
+                race="festival des templiers - grand trail des templiers"
+                year="2017" dist="76"/>
+                                <e
+                pos="11" tps="07:39:34"
+                race="salomon skyline scotland - glen coe skyline"
+                year="2017" dist="55"/>
+                                <e
+                pos="10" tps="07:45:22"
+                race="royal race gran paradiso - royal ultra sky marathon"
+                year="2017" dist="56"/>
+                                <e
+                pos="5" tps="01:48:47"
+                race="high trail vanoise - balcons de val"
+                year="2017" dist="20"/>
+                                <e
+                pos="1" tps="03:44:07"
+                race="utpma - marathon de la jordanne"
+                year="2017" dist="43"/>
+                                <e
+                pos="1" tps="01:34:15"
+                race="trans aubrac - trans aubrac - relais 3"
+                year="2017" dist="21"/>
+                                <e
+                pos="2" tps="11:55:28"
+                race="100 miles of istria - 110 km"
+                year="2017" dist="108"/>
+                                <e
+                pos="19" tps="04:15:27"
+                race="ergysport trail du ventoux - 46 km"
+                year="2017" dist="46"/>
+                                <e
+                pos="1" tps="04:49:14"
+                race="le trail des ruthènes - 56 km"
+                year="2017" dist="57"/>
+                                <e
+                pos="32" tps="08:09:54"
+                race="festival des templiers - grand trail des templiers"
+                year="2016" dist="76"/>
+                                <e
+                pos="12" tps="13:27:19"
+                race="UTMB® - CCC®"
+                year="2016" dist="101"/>
+                                <e
+                pos="5" tps="09:51:48"
+                race="pierra menta été - pierra menta été"
+                year="2016" dist="67"/>
+                                <e
+                pos="31" tps="08:32:46"
+                race="transvulcania ultramarathon la palma island - ultramarathon"
+                year="2016" dist="74"/>
+                                <e
+                pos="17" tps="04:11:00"
+                race="ergysport trail du ventoux - 46 km"
+                year="2016" dist="45"/>
+                                <e
+                pos="2" tps="04:54:16"
+                race="le trail des ruthènes - 55 km"
+                year="2016" dist="57"/>
+                                <e
+                pos="26" tps="14:21:44"
+                race="ultra-trail du mont-blanc® - CCC®"
+                year="2015" dist="101"/>
+                                <e
+                pos="2" tps="08:12:16"
+                race="interlac trail - l'intégrale 80 km"
+                year="2015" dist="76"/>
+                                <e
+                pos="5" tps="01:45:39"
+                race="la verticausse - 21k"
+                year="2015" dist="22"/>
+                                <e
+                pos="1" tps="10:59:37"
+                race="trans aubrac - ultra 105 km"
+                year="2015" dist="106"/>
+                                <e
+                pos="18" tps="09:59:47"
+                race="the north face transgrancanaria - advanced"
+                year="2015" dist="85"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="31" v="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-16.52.25.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt31_2018-06-29-16.52.25.jpg"/>
+											</videos></fiche></d>

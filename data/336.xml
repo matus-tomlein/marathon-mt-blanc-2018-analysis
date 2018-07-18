@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="336"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="336" c="42km"  >
+						<identite nom="DROUHIN"
+			  prenom="David"			  cat="V1 H"
+			  sx="H"
+			  descat="40-49"
+			  club="Team maennelstein"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="HINDISHEIM " pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="368" code="f" clt="368"  cltcat="71" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:53:41" ja="7" tps="00:53:41" tn="0.89472222222222" tnp="0.89472222222222" clt="333" ></e><e idpt="36" ha="08:22:01" ja="7" tps="01:22:01" tn="1.3669444444444" tnp="0.47222222222222" clt="336" ></e><e idpt="38" ha="08:45:17" ja="7" tps="01:45:17" tn="1.7547222222222" tnp="0.38777777777778" clt="326" ></e><e idpt="40" ha="09:43:30" ja="7" tps="02:43:30" tn="2.725" tnp="0.97027777777778" clt="384" ></e><e idpt="42" ha="10:50:29" ja="7" tps="03:50:29" tn="3.8413888888889" tnp="1.1163888888889" clt="434" ></e><e idpt="44" ha="11:11:34" ja="7" tps="04:11:34" tn="4.1927777777778" tnp="0.31222222222222" clt="445" ></e><e idpt="46" ha="12:41:37" ja="7" tps="05:41:37" tn="5.6936111111111" tnp="1.5008333333333" clt="390" ></e><e idpt="51" ha="13:43:31" ja="7" tps="06:43:31" tn="6.7252777777778" tnp="1.0316666666667" clt="369" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="81" tps="10:11:34"
+                race="trail des marcaires - l'utra tdm"
+                year="2018" dist="69"/>
+                                <e
+                pos="386" tps="28:43:12"
+                race="miut® - madeira island ultra-trail® - miut"
+                year="2018" dist="115"/>
+                                <e
+                pos="103" tps="11:09:00"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2018" dist="73"/>
+                                <e
+                pos="752" tps="12:16:34"
+                race="festival des templiers - grand trail des templiers"
+                year="2017" dist="76"/>
+                                <e
+                pos="62" tps="06:37:22"
+                race="trail des marcaires - trail des marcaires"
+                year="2017" dist="54"/>
+                                <e
+                pos="239" tps="08:20:33"
+                race="trail des roches - 55k"
+                year="2017" dist="55"/>
+                                <e
+                pos="128" tps="16:21:35"
+                race="les vosgirunners trails nature - challenge des seigneurs"
+                year="2017" dist="99"/>
+                                <e
+                pos="169" tps="05:53:08"
+                race="trail du petit ballon - 50 km"
+                year="2017" dist="53"/>
+                                <e
+                pos="56" tps="19:15:09"
+                race="ultra trail du haut-koenigsbourg - uthk 108 km"
+                year="2016" dist="108"/>
+                                <e
+                pos="190" tps="09:07:39"
+                race="trail du pays welche a orbey - trail du pays welche a orbey"
+                year="2016" dist="50"/>
+                                <e
+                pos="63" tps="04:28:56"
+                race="la transju'trail - marathon de la transju 36 km"
+                year="2016" dist="37"/>
+                                <e
+                pos="53" tps="06:45:30"
+                race="trail des marcaires - trail des marcaires"
+                year="2016" dist="50"/>
+                                <e
+                pos="23" tps="06:01:18"
+                race="trail du wurzel - trail du wurzel"
+                year="2016" dist="52"/>
+                                <e
+                pos="264" tps="05:41:58"
+                race="trail du petit ballon - 50 km"
+                year="2016" dist="51"/>
+                                <e
+                pos="36" tps="05:49:28"
+                race="trail du haut-koenigsbourg - thk 54 km"
+                year="2015" dist="52"/>
+                                <e
+                pos="421" tps="04:06:40"
+                race="sierre-zinal - sierre-zinal"
+                year="2015" dist="30"/>
+                                <e
+                pos="170" tps="03:07:03"
+                race="marathon du mont-blanc - 23 km du mont-blanc"
+                year="2015" dist="23"/>
+                                <e
+                pos="45" tps="02:32:00"
+                race="trail du wurzel - wurzel - roche des fees"
+                year="2015" dist="24"/>
+                                <e
+                pos="214" tps="02:23:44"
+                race="trail du petit ballon - 25 km - grands crus"
+                year="2015" dist="27"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.43.05.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-13.43.05.jpg"/>
+											</videos></fiche></d>

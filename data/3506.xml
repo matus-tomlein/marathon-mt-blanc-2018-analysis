@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="3506"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="3506" c="90km"  >
+						<identite nom="HERTZOG"
+			  prenom="Yvan"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="Val Saint Pierre Athle"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="MECLEUVES" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="743" code="a" clt="743"  cltcat="86" />			<pass>
+			<e idpt="0" hd="04:00:10" jd="5" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="2" ha="06:21:38" ja="5" tps="02:21:28" tn="2.3577777777778" tnp="2.3577777777778" clt="387" ></e><e idpt="4" ha="07:32:06" ja="5" tps="03:31:56" tn="3.5322222222222" tnp="1.1744444444444" clt="415" ></e><e idpt="6" ha="08:21:16" ja="5" tps="04:21:06" tn="4.3516666666667" tnp="0.81944444444444" clt="479" ></e><e idpt="8" ha="09:19:01" ja="5" hd="09:27:06" jd="5" tps="05:18:51" tn="5.3141666666667" tnp="0.9625" clt="470" ></e><e idpt="10" ha="10:51:17" ja="5" tps="06:51:07" tn="6.8519444444444" tnp="1.4030555555556" clt="447" ></e><e idpt="12" ha="11:30:45" ja="5" tps="07:30:35" tn="7.5097222222222" tnp="0.65777777777778" clt="463" ></e><e idpt="14" ha="13:22:15" ja="5" tps="09:22:05" tn="9.3680555555556" tnp="1.8583333333333" clt="481" ></e><e idpt="16" ha="14:57:21" ja="5" tps="10:57:11" tn="10.953055555556" tnp="1.585" clt="526" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1095" x="50" y="153" px="6" py="77" lon="6.86917" lat="45.9236" /><pt idpt="2" n="Brévent" nc="Brévent" km="10.04" d="1371" a="2474" x="137" y="59" px="16" py="30" lon="6.8367" lat="45.9334" /><pt idpt="4" n="Flégère " nc="Flégère" km="18.05" d="1515" a="1900" x="206" y="98" px="24" py="49" lon="6.88605" lat="45.9602" /><pt idpt="6" n="Tete aux vents" nc="T.Vents" km="21.56" d="1814" a="2136" x="236" y="82" px="28" py="41" lon="6.90654" lat="45.9825" /><pt idpt="8" n="Buet" nc="Buet" km="27.7" d="1852" a="1392" x="289" y="133" px="34" py="67" lon="6.9184" lat="46.0188" /><pt idpt="10" n="Chalet de la Loriaz" nc="Loriaz" km="34.43" d="2509" a="1995" x="347" y="92" px="41" py="46" lon="6.91394" lat="46.0376" /><pt idpt="12" n="la Villaz" nc="la Villaz" km="38.57" d="2509" a="1291" x="383" y="140" px="45" py="70" lon="6.93773" lat="46.0407" /><pt idpt="14" n="Barrage Emosson" nc="Emosson" km="43.62" d="3193" a="1971" x="427" y="94" px="50" py="47" lon="6.93659" lat="46.068" /><pt idpt="16" n="Chatelard Village" nc="Chatela" km="47.86" d="3239" a="1177" x="463" y="148" px="54" py="74" lon="6.95762" lat="46.0598" /><pt idpt="18" n="Catogne" nc="Catogne" km="53.7" d="4075" a="2013" x="514" y="91" px="60" py="46" lon="6.9707" lat="46.0394" /><pt idpt="20" n="Col des Posettes" nc="Posette" km="57.68" d="4412" a="2013" x="548" y="91" px="64" py="46" lon="6.95121" lat="46.0243" /><pt idpt="22" n="Le Tour 80km" nc="Tour" km="62.74" d="4464" a="1510" x="592" y="125" px="70" py="63" lon="6.94775" lat="46.0013" /><pt idpt="24" n="Les Bois" nc="Bois" km="72.8" d="4697" a="1126" x="678" y="151" px="80" py="76" lon="6.89795" lat="45.94" /><pt idpt="26" n="Montenvers" nc="Montenv" km="77.48" d="5512" a="1836" x="719" y="103" px="85" py="52" lon="6.91836" lat="45.9331" /><pt idpt="28" n="Plan de l'Aiguille" nc="Plan " km="83.65" d="5905" a="2211" x="772" y="77" px="91" py="39" lon="6.88296" lat="45.9057" /><pt idpt="31" n="Chamonix Arrivée" nc="Arrivée" km="91.51" d="6220" a="1105" x="840" y="152" px="99" py="76" lon="6.86901" lat="45.9236" /></pts>		  			<palm>
+			                <e
+                pos="65" tps="10:23:28"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2018" dist="73"/>
+                                <e
+                pos="157" tps="12:47:55"
+                race="grand trail du lac - 77 km"
+                year="2017" dist="74"/>
+                                <e
+                pos="35" tps="17:25:11"
+                race="chiemgauer 100 - 100 km"
+                year="2017" dist="100"/>
+                                <e
+                pos="341" tps="07:36:47"
+                race="samoëns trail tour - tour du giffre"
+                year="2017" dist="33"/>
+                                <e
+                pos="47" tps="09:14:38"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2017" dist="73"/>
+                                <e
+                pos="67" tps="27:05:32"
+                race="l'infernal trail des vosges - 110 km"
+                year="2016" dist="116"/>
+                                <e
+                pos="79" tps="17:32:49"
+                race="ardennes mega trail - ardennes mega trail"
+                year="2016" dist="96"/>
+                                <e
+                pos="348" tps="03:12:28"
+                race="les vosgirunners trails nature - la mac vi"
+                year="2016" dist="25"/>
+                                <e
+                pos="36" tps="12:29:38"
+                race="les vosgirunners trails nature - challenge des seigneurs"
+                year="2016" dist="101"/>
+                                <e
+                pos="84" tps="09:17:10"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2016" dist="76"/>
+                                <e
+                pos="545" tps="04:26:56"
+                race="sparnatrail - sparnatrail ptiot"
+                year="2015" dist="32"/>
+                                <e
+                pos="1271" tps="44:30:26"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="421" tps="21:08:58"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2015" dist="82"/>
+                                <e
+                pos="61" tps="09:08:01"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2015" dist="75"/>
+                                <e
+                pos="390" tps="05:57:16"
+                race="trail du petit ballon - 50 km"
+                year="2015" dist="51"/>
+                                <e
+                pos="229" tps="03:50:40"
+                race="trail hivernal de la moselotte - 28 km"
+                year="2015" dist="29"/>
+                </palm>		<videos
+																				>
+					
+				</videos></fiche></d>

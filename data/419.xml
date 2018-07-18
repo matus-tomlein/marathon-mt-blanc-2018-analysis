@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="coureur.xsl.php"?><d rech="419"><courses><c id="90km" n="90km du Mont-Blanc" nc="90km du Mont-Blanc" /><c id="KmV" n="Kilomètre Vertical" nc="Kilomètre Vertical" /><c id="23km" n="23km du Mont-Blanc" nc="23km du Mont-Blanc" /><c id="10km" n="10Km du Mont-Blanc" nc="10Km du Mont-Blanc" /><c id="Duo" n="Duo étoilé" nc="Duo étoilé" /><c id="42km" n="42km du Mont-Blanc" nc="42km" /><c id="YRM" n="Young Race Marathon" nc="Young" /></courses>		  <fiche doss="419" c="42km"  >
+						<identite nom="RODRIGUES"
+			  prenom="Jc"			  cat="V2 H"
+			  sx="H"
+			  descat="50-59"
+			  club="Team CéramiQ"			  			  
+			  				  nat="France"
+				  cio="FRA" a2="FR" a3="FRA" 			  			  				  				  ville="HAGUENAU" pays="FR"
+			  			/>
+			<antecedents></antecedents>																								<state  test="815" code="f" clt="815"  cltcat="71" />			<prev >
+			  			</prev>
+						<pass>
+			<e idpt="0" hd="07:00:00" jd="7" tps="00:00:00"  clt="-" tn="0" ></e><e idpt="34" ha="07:53:32" ja="7" tps="00:53:32" tn="0.89222222222222" tnp="0.89222222222222" clt="325" ></e><e idpt="36" ha="08:21:10" ja="7" tps="01:21:10" tn="1.3527777777778" tnp="0.46055555555556" clt="314" ></e><e idpt="38" ha="08:44:03" ja="7" tps="01:44:03" tn="1.7341666666667" tnp="0.38138888888889" clt="298" ></e><e idpt="40" ha="09:37:25" ja="7" tps="02:37:25" tn="2.6236111111111" tnp="0.88944444444444" clt="296" ></e><e idpt="42" ha="10:37:54" ja="7" tps="03:37:54" tn="3.6316666666667" tnp="1.0080555555556" clt="304" ></e><e idpt="44" ha="10:59:17" ja="7" tps="03:59:17" tn="3.9880555555556" tnp="0.35638888888889" clt="339" ></e><e idpt="46" ha="12:50:59" ja="7" tps="05:50:59" tn="5.8497222222222" tnp="1.8616666666667" clt="457" ></e><e idpt="51" ha="14:44:03" ja="7" tps="07:44:03" tn="7.7341666666667" tnp="1.8844444444444" clt="815" ></e>		  </pass>
+		  
+		  
+		  		  
+		  
+		  <pts><pt idpt="0" n="Départ" nc="Départ" km="0" d="0" a="1036" x="50" y="151" px="6" py="76" lon="6.86885" lat="45.9237" /><pt idpt="34" n="Argentière" nc="Argenti" km="8.96" d="324" a="1257" x="216" y="133" px="25" py="67" lon="6.92909" lat="45.9772" /><pt idpt="36" n="Tré le Champ" nc="TréChamp" km="13.25" d="564" a="1409" x="295" y="120" px="35" py="60" lon="6.92683" lat="45.9967" /><pt idpt="38" n="Vallorcine" nc="Vallo" km="17.73" d="626" a="1276" x="378" y="131" px="44" py="66" lon="6.93241" lat="46.0314" /><pt idpt="40" n="Col des Posettes" nc="Posette" km="22.28" d="1344" a="1998" x="463" y="70" px="54" py="35" lon="6.95122" lat="46.0243" /><pt idpt="42" n="Le Tour 42km" nc="Tour" km="28.03" d="1559" a="1476" x="569" y="114" px="67" py="57" lon="6.94556" lat="46.0037" /><pt idpt="44" n="Tré le Champ 2" nc="Tré Champ2" km="31.31" d="1634" a="1410" x="630" y="120" px="74" py="60" lon="6.92662" lat="45.9967" /><pt idpt="46" n="Flégère" nc="Flégère" km="37.42" d="2368" a="1887" x="743" y="79" px="87" py="40" lon="6.88624" lat="45.9603" /><pt idpt="51" n="Planpraz - Arrivée" nc="Arrivée" km="42.64" d="2759" a="2048" x="840" y="65" px="99" py="33" lon="6.85246" lat="45.9369" /></pts>		  			<palm>
+			                <e
+                pos="323" tps="15:44:51"
+                race="salomon gore-tex maxi-race - maxi-race"
+                year="2018" dist="85"/>
+                                <e
+                pos="13" tps="19:15:12"
+                race="l'infernal trail des vosges - 120 km"
+                year="2017" dist="122"/>
+                                <e
+                pos="96" tps="10:43:42"
+                race="montreux trail festival - la villars 60"
+                year="2017" dist="60"/>
+                                <e
+                pos="27" tps="11:13:48"
+                race="be run - l'intégrale 80 km"
+                year="2017" dist="75"/>
+                                <e
+                pos="599" tps="07:06:48"
+                race="trail du petit ballon - 50 km"
+                year="2017" dist="53"/>
+                                <e
+                pos="1331" tps="14:17:12"
+                race="festival des templiers - grand trail des templiers"
+                year="2016" dist="76"/>
+                                <e
+                pos="201" tps="08:20:30"
+                race="trail de la vallée des lacs - trail long"
+                year="2016" dist="56"/>
+                                <e
+                pos="758" tps="06:35:59"
+                race="maxi-race du lac d'annecy - marathon race"
+                year="2016" dist="38"/>
+                                <e
+                pos="65" tps="07:11:43"
+                race="trail du wurzel - trail du wurzel"
+                year="2016" dist="52"/>
+                                <e
+                pos="43" tps="08:41:12"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2016" dist="76"/>
+                                <e
+                pos="115" tps="07:44:13"
+                race="trail des tranchées - circuit vaillant"
+                year="2016" dist="54"/>
+                                <e
+                pos="132" tps="05:29:27"
+                race="trail de vulcain - trail de vulcain 46km"
+                year="2016" dist="46"/>
+                                <e
+                pos="442" tps="04:47:16"
+                race="trail hivernal de la moselotte - 28 km"
+                year="2016" dist="29"/>
+                                <e
+                pos="1330" tps="14:19:40"
+                race="festival des templiers - grand trail des templiers"
+                year="2015" dist="75"/>
+                                <e
+                pos="790" tps="40:52:44"
+                race="ultra-trail du mont-blanc® - UTMB®"
+                year="2015" dist="171"/>
+                                <e
+                pos="288" tps="19:33:42"
+                race="marathon du mont-blanc - 80 km du mont-blanc"
+                year="2015" dist="82"/>
+                                <e
+                pos="57" tps="06:10:17"
+                race="trail des marcaires - trail des marcaires"
+                year="2015" dist="50"/>
+                                <e
+                pos="92" tps="07:00:34"
+                race="les vosgirunners trails nature - grand défi des vosges"
+                year="2015" dist="59"/>
+                                <e
+                pos="49" tps="08:50:58"
+                race="les vosgirunners trails nature - défi des seigneurs"
+                year="2015" dist="75"/>
+                                <e
+                pos="13" tps="15:51:32"
+                race="les vosgirunners trails nature - l'intégrale des seigneurs"
+                year="2015" dist="127"/>
+                                <e
+                pos="373" tps="05:54:39"
+                race="trail du petit ballon - 50 km"
+                year="2015" dist="51"/>
+                </palm>		<videos
+																				>
+					
+<e idpt="51" v="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.43.35.mp4" i="https://mainvideos.livetrail.net/videos/mbm/pt51_2018-07-01-14.43.35.jpg"/>
+											</videos></fiche></d>
