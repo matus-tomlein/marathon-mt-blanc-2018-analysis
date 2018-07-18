@@ -1,0 +1,12 @@
+{
+    "name": "marathon-mt-blanc-2018-analysis",
+    "description": "Analysis of Marathon du Mt Blanc 2018",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
