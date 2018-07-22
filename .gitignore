@@ -1,4 +1,5 @@
 *.backup
+.ipynb_checkpoints
 
 # Logs
 logs
